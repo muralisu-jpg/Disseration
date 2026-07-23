@@ -1,26 +1,5 @@
 #!/usr/bin/env python3
-"""
-TRANSFORMER STUDENT (RoBERTa) — the honest shot at the LLM's reading ability.
 
-Fine-tunes distilroberta-base (or roberta-base) to READ the event pair in context and
-classify the 3-way temporal relation (before/after/overlap). Unlike the feature model,
-this READS the sentences — the one approach that attacks the reading-comprehension gap
-that separates 0.80 (features) from 0.847 (LLM).
-
-HONEST DISCIPLINE (built in):
-  - Train on N2 + 3 Propp stories; test on the 12 held-out Propp stories.
-  - A validation split is carved from TRAINING for early-stopping — the TEST set is never
-    used for any decision.
-  - The TEST set is scored exactly ONCE, at the end.
-  - Runs MULTIPLE SEEDS and reports mean +/- spread (2.6k pairs is small for a transformer,
-    so variance is real and must be reported honestly, not cherry-picked).
-
-RUN (best on a GPU — Google Colab/Kaggle free T4, or a local CUDA machine):
-  pip install transformers torch scikit-learn numpy
-  python finetune_transformer.py --kit9 /path/to/kit9 --seeds 3 --epochs 4
-
-On CPU it will work but be slow (~30-60 min/seed). On a T4 GPU: ~5-10 min/seed.
-"""
 import json, argparse, glob, os, random
 import numpy as np
 
