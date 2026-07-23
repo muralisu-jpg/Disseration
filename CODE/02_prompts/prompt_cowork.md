@@ -18,6 +18,8 @@ A narrative is a sequence S of sentences describing a sequence E of events. Wher
 
 Blind benchmark: do **not** open or look for `.sty` files, do **not** search the web for ProppLearner, do **not** rely on prior-run numbers. Work only from the 15 `.txt` files.
 
+Ground your analysis in ISO-TimeML, the international standard for annotating events and temporal relations in text (ISO 24617-1). Under that standard an EVENT is any situation that happens or holds — occurrences, states, reporting verbs, perceptions, aspectual verbs, and intensional actions or states. A temporal link (TLINK) asserts how two events stand relative to one another, drawing on Allen's interval algebra: BEFORE, AFTER, IBEFORE, IAFTER, SIMULTANEOUS, IDENTITY, INCLUDES, IS_INCLUDED, DURING, BEGINS, ENDS, BEGUN_BY, ENDED_BY. Separately, TimeML defines subordinating links, where one event is embedded under another and is therefore not asserted as having occurred: MODAL (possibility, wish, ability, obligation), CONDITIONAL (dependent on an unmet or unresolved condition), COUNTER_FACTIVE (presupposed not to have happened), FACTIVE (presupposed to have happened), and EVIDENTIAL (reported or perceived rather than directly narrated). Treat the subordinating relations as the primary signal for the IMAGINARY track.
+
 ## The four tracks
 - **PAST** — backward-pointing: real occurrence earlier than text position implies.
 - **PRESENT** — co-temporal: events told as a sequence that actually overlap or include one another.
