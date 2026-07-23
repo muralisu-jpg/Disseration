@@ -24,13 +24,6 @@ Blind benchmark: do **not** open or look for `.sty` files, do **not** search the
 - **FUTURE** — forward-pointing: event not yet occurred relative to the surrounding narrative.
 - **IMAGINARY** — irrealis: events only on a hypothetical sub-timeline (dream, wish, threat, conditional, counterfactual).
 
-## The rule set (apply mechanically at the finite-verb level)
-**Past P1–P10:** P1 `had + PP`; P2 `having + PP` (**fan out to every matrix verb in scope**, excluding the participle); P3 past adverbials (before/earlier/long ago/previously/once); P4 `would/could/might have + PP` (also IMAGINARY); P5 reported pasts (dreamed/remembered/recalled/overheard that); P6 `after + V-ing`; P7 present perfect in dialogue; P8 `from + V-ing`; P9 backward relative clause (`who/which/that had + PP`); P10 discovery verb (saw/found/met/noticed/came upon/discovered/heard) + stative (lying/sitting/sleeping/waiting/weeping…).
-**Present R1–R5:** R1 `while X,Y`; R2 `as X`; R3 reduplication (one extended event); R4 `until X`; R5 stative co-occurrence.
-**Future F1–F6:** F1 `will/shall/'ll/going to + V`; F2 imperative-as-future; F3 `predicted/foretold/promised/swore/vowed`; F4 `was about to/set out to/meant to/intended to`; F5 `awaited/expected/longed to/wanted to/hoped/feared`; F6 conditional `if X … will/'ll`.
-**Imaginary I1–I6:** I1 `dreamed/imagined/wished/supposed/believed/thought that`; I2 `would that/if only/I wish`; I3 `if X then Y`; I4 `pretended/falsely thought`; I5 `could/might/may have/must have`; I6 embedded stories.
-A construction may fire on two tracks (e.g. P4); record both.
-
 ## The six-step pipeline
 1. → `intermediates/<id>/step1_sentences.json` — skip the `/** … */` header, split body into sentences (S-string): `{sent_id, text, char_offset, approx_line}`.
 2. → `intermediates/<id>/step2_events.json` — one event per finite verb (never collapse coordinated verbs): `{event_id, sent_id, clause_id, trigger, char_offset, type, tense}`.
