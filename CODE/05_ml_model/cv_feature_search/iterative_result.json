@@ -1,0 +1,132 @@
+{
+ "cv_curve": [
+  {
+   "iter": 0,
+   "change": "baseline(base only)",
+   "cv_macro_f1": 0.6046,
+   "features": [
+    "base"
+   ]
+  },
+  {
+   "iter": 1,
+   "change": "+feature distance",
+   "cv_macro_f1": 0.6746,
+   "kept": true,
+   "features": [
+    "base",
+    "distance"
+   ]
+  },
+  {
+   "iter": 2,
+   "change": "+feature sameword",
+   "cv_macro_f1": 0.6939,
+   "kept": true,
+   "features": [
+    "base",
+    "distance",
+    "sameword"
+   ]
+  },
+  {
+   "iter": 3,
+   "change": "+feature connectives",
+   "cv_macro_f1": 0.6828,
+   "kept": false,
+   "features": [
+    "base",
+    "distance",
+    "sameword"
+   ]
+  },
+  {
+   "iter": 4,
+   "change": "+feature cues",
+   "cv_macro_f1": 0.6933,
+   "kept": false,
+   "features": [
+    "base",
+    "distance",
+    "sameword"
+   ]
+  },
+  {
+   "iter": 5,
+   "change": "+feature tensematch",
+   "cv_macro_f1": 0.698,
+   "kept": true,
+   "features": [
+    "base",
+    "distance",
+    "sameword",
+    "tensematch"
+   ]
+  },
+  {
+   "iter": 6,
+   "change": "+feature leadconn",
+   "cv_macro_f1": 0.6917,
+   "kept": false,
+   "features": [
+    "base",
+    "distance",
+    "sameword",
+    "tensematch"
+   ]
+  },
+  {
+   "iter": 7,
+   "change": "+feature sharedstem",
+   "cv_macro_f1": 0.6795,
+   "kept": false,
+   "features": [
+    "base",
+    "distance",
+    "sameword",
+    "tensematch"
+   ]
+  },
+  {
+   "iter": 8,
+   "change": "hp n=200 depth=3 lr=0.08",
+   "cv_macro_f1": 0.7005,
+   "kept": true
+  },
+  {
+   "iter": 9,
+   "change": "hp n=300 depth=3 lr=0.08",
+   "cv_macro_f1": 0.7038,
+   "kept": true
+  },
+  {
+   "iter": 10,
+   "change": "hp n=300 depth=2 lr=0.05",
+   "cv_macro_f1": 0.6638,
+   "kept": false
+  },
+  {
+   "iter": 11,
+   "change": "hp n=400 depth=3 lr=0.05",
+   "cv_macro_f1": 0.7024,
+   "kept": false
+  }
+ ],
+ "final_features": [
+  "base",
+  "distance",
+  "sameword",
+  "tensematch"
+ ],
+ "final_hp": {
+  "type": "gb",
+  "n": 300,
+  "depth": 3,
+  "lr": 0.08
+ },
+ "best_cv_macro_f1": 0.7038,
+ "test_accuracy": 0.7768,
+ "test_macro_f1": 0.5396,
+ "test_pairs": 2043,
+ "note": "CV-driven feature+hp selection; test scored once at end. Honest: no test-set tuning."
+}
