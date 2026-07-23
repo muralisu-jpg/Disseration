@@ -1,0 +1,539 @@
+{
+  "predictions": [
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wish to go",
+        "off": 518,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "lain",
+        "off": 912,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "lain",
+        "off": 912,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "been",
+        "off": 952,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "quarreling",
+        "off": 957,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "lain",
+        "off": 912,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "quarreling",
+        "off": 957,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall be",
+        "off": 1265,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_habitual",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "whenever",
+        "off": 1319,
+        "construction": "I_habitual"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": "generic",
+      "rationale": "habitual/iterative marker: a generic, non-single event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "been",
+        "off": 1503,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "swallowed",
+        "off": 1508,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Will \nyour",
+        "off": 1650,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should he",
+        "off": 1698,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "vanished",
+        "off": 2273,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "vanished",
+        "off": 2273,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 2208,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could he",
+        "off": 2306,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would be",
+        "off": 2399,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "vying",
+        "off": 2960,
+        "construction": "R_progressive"
+      },
+      "later": {
+        "trigger": "vying",
+        "off": 2960,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should be",
+        "off": 2950,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 4637,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 4591,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "slay",
+        "off": 4598,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "said",
+        "off": 4849,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "doing",
+        "off": 4886,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "doing",
+        "off": 4886,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "vying",
+        "off": 4944,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should \nbe",
+        "off": 4933,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 5025,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "after",
+        "off": 5156,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "defeated",
+        "off": 5212,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "04_The_Crystal_Mountain",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 5634,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][lived][said][give][wish][go][hunting][gave][set][lost][came][lay][gathered][rose][flew][perched][said][lain][quarreling][find][sharing][\"][climbed][divided][gave][said][turn][wish][struck][turned][soared][flew][swallowed][flew][turned][asked][king][take][take][answered][entered][lived][asked][give][leave][take][gave][mounted][set][approached][jumped][chased][galloped][galloped][catch][returned][vanished][do][dare][appear][disguised][came][said][\"][hire][said][comes][give][comes][give][comes][count][drove][came][flying][said][engaged][vying][tending][let][Wo][asked][eat][duck][want][wo][get][flew][seized][turned][cut][drove][asked][come][give][replied][did][give][drove][headed][came][demanded][said][\"][eat][duck][see][demand][wo][give][flew][seized][turned][fell][cut][drove][asked][come][did][took][answered][turned][crawled][said][\"][did][get][\"][carried][said][lives][slay][get][destroy][\"][crawled][turned][drove][flew][said][doing][vying][tending][count][\"][said][eat][duck][see][demand][began][fight][defeated][slashed][found][found][took][set][alight][brought][melted][led][overjoyed][said][held][wedding][drank][flowed][did][go]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "wish to go",
+          "off": 518,
+          "construction": "I_desire"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wish to go]"
+      },
+      {
+        "anchor": {
+          "trigger": "whenever",
+          "off": 1319,
+          "construction": "I_habitual"
+        },
+        "modal_force": "generic",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[whenever]"
+      },
+      {
+        "anchor": {
+          "trigger": "should he",
+          "off": 1698,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should he]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 2208,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could he",
+          "off": 2306,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could he]"
+      },
+      {
+        "anchor": {
+          "trigger": "would be",
+          "off": 2399,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would be]"
+      },
+      {
+        "anchor": {
+          "trigger": "should be",
+          "off": 2950,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should be]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 4591,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "should \nbe",
+          "off": 4933,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should \nbe]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1560 @@
+{
+ "per_function": {
+  "Departure": {
+   "correct": 8,
+   "wrong": 6,
+   "accuracy": 0.571,
+   "example_verb": "went forth"
+  },
+  "Initial situation": {
+   "correct": 13,
+   "wrong": 0,
+   "accuracy": 1.0,
+   "example_verb": "A dragon appeared near Kiev; h"
+  },
+  "Villainy": {
+   "correct": 10,
+   "wrong": 3,
+   "accuracy": 0.769,
+   "example_verb": "seized her and dragged"
+  },
+  "Liquidation of lack": {
+   "correct": 9,
+   "wrong": 4,
+   "accuracy": 0.692,
+   "example_verb": "killed him and drowned"
+  },
+  "Return": {
+   "correct": 8,
+   "wrong": 5,
+   "accuracy": 0.615,
+   "example_verb": "returned"
+  },
+  "Victory": {
+   "correct": 8,
+   "wrong": 4,
+   "accuracy": 0.667,
+   "example_verb": "defeated"
+  },
+  "Receipt of magical agent": {
+   "correct": 1,
+   "wrong": 11,
+   "accuracy": 0.083,
+   "example_verb": "did not tell her. She ran fart"
+  },
+  "Beginning counteraction": {
+   "correct": 8,
+   "wrong": 3,
+   "accuracy": 0.727,
+   "example_verb": "shed"
+  },
+  "Wedding": {
+   "correct": 8,
+   "wrong": 2,
+   "accuracy": 0.8,
+   "example_verb": "would not accept"
+  },
+  "Struggle": {
+   "correct": 7,
+   "wrong": 2,
+   "accuracy": 0.778,
+   "example_verb": "fought"
+  },
+  "First donor function": {
+   "correct": 3,
+   "wrong": 5,
+   "accuracy": 0.375,
+   "example_verb": "\"If you eat my cake of rye I w"
+  },
+  "Hero's reaction": {
+   "correct": 2,
+   "wrong": 6,
+   "accuracy": 0.25,
+   "example_verb": "\"Oh, in my father's house we d"
+  },
+  "Pursuit": {
+   "correct": 2,
+   "wrong": 6,
+   "accuracy": 0.25,
+   "example_verb": "flew after her: if the robbers"
+  },
+  "Rescue": {
+   "correct": 4,
+   "wrong": 4,
+   "accuracy": 0.5,
+   "example_verb": "without recovering"
+  },
+  "Mediation": {
+   "correct": 6,
+   "wrong": 1,
+   "accuracy": 0.857,
+   "example_verb": "entreated"
+  },
+  "Spatial transference": {
+   "correct": 1,
+   "wrong": 4,
+   "accuracy": 0.2,
+   "example_verb": "showed"
+  },
+  "Interdiction": {
+   "correct": 0,
+   "wrong": 3,
+   "accuracy": 0.0,
+   "example_verb": "Be careful, watch over your li"
+  },
+  "Absentation": {
+   "correct": 0,
+   "wrong": 3,
+   "accuracy": 0.0,
+   "example_verb": "The parents went away"
+  },
+  "Lack": {
+   "correct": 2,
+   "wrong": 1,
+   "accuracy": 0.667,
+   "example_verb": "marry"
+  },
+  "Transfiguration": {
+   "correct": 0,
+   "wrong": 3,
+   "accuracy": 0.0,
+   "example_verb": "change"
+  },
+  "Violation": {
+   "correct": 1,
+   "wrong": 1,
+   "accuracy": 0.5,
+   "example_verb": "the daughter forgot what they "
+  },
+  "Unrecognized arrival": {
+   "correct": 1,
+   "wrong": 1,
+   "accuracy": 0.5,
+   "example_verb": "said"
+  },
+  "Recognition": {
+   "correct": 1,
+   "wrong": 1,
+   "accuracy": 0.5,
+   "example_verb": "embrace"
+  },
+  "Delivery": {
+   "correct": 1,
+   "wrong": 0,
+   "accuracy": 1.0,
+   "example_verb": "Now a certain witch had heard "
+  },
+  "Trickery": {
+   "correct": 1,
+   "wrong": 0,
+   "accuracy": 1.0,
+   "example_verb": "The witch saw that she must ca"
+  },
+  "Complicity": {
+   "correct": 1,
+   "wrong": 0,
+   "accuracy": 1.0,
+   "example_verb": "came"
+  },
+  "Exposure": {
+   "correct": 0,
+   "wrong": 1,
+   "accuracy": 0.0,
+   "example_verb": "\""
+  },
+  "Punishment": {
+   "correct": 1,
+   "wrong": 0,
+   "accuracy": 1.0,
+   "example_verb": "cut out, she was tied to a hor"
+  }
+ },
+ "per_story": {
+  "05_Shabarsha_the_Laborer": {
+   "correct": 9,
+   "wrong": 0,
+   "accuracy": 1.0
+  },
+  "06_Ivanko_the_Bear's_Son": {
+   "correct": 7,
+   "wrong": 0,
+   "accuracy": 1.0
+  },
+  "08_Frolka_Stay-at-Home": {
+   "correct": 10,
+   "wrong": 0,
+   "accuracy": 1.0
+  },
+  "11_Ivan_Popyalov": {
+   "correct": 10,
+   "wrong": 2,
+   "accuracy": 0.833
+  },
+  "01_Nikita_the_Tanner": {
+   "correct": 8,
+   "wrong": 2,
+   "accuracy": 0.8
+  },
+  "10_The_Seven_Simeons": {
+   "correct": 7,
+   "wrong": 2,
+   "accuracy": 0.778
+  },
+  "09_The_Witch": {
+   "correct": 11,
+   "wrong": 4,
+   "accuracy": 0.733
+  },
+  "12_The_Serpent_and_the_Gypsy": {
+   "correct": 7,
+   "wrong": 3,
+   "accuracy": 0.7
+  },
+  "15_Dawn,_Evening_and_Midnight": {
+   "correct": 11,
+   "wrong": 5,
+   "accuracy": 0.688
+  },
+  "04_The_Crystal_Mountain": {
+   "correct": 7,
+   "wrong": 10,
+   "accuracy": 0.412
+  },
+  "02_The_Magic_Swan_Geese": {
+   "correct": 7,
+   "wrong": 11,
+   "accuracy": 0.389
+  },
+  "13_Prince_Danila_Govorila": {
+   "correct": 6,
+   "wrong": 11,
+   "accuracy": 0.353
+  },
+  "14_The_Merchant's_Daughter_and_the_Maidservant": {
+   "correct": 4,
+   "wrong": 8,
+   "accuracy": 0.333
+  },
+  "03_Bukhtan_Bukhtanovich": {
+   "correct": 2,
+   "wrong": 9,
+   "accuracy": 0.182
+  },
+  "07_The_Runaway_Soldier_and_the_Devil": {
+   "correct": 1,
+   "wrong": 13,
+   "accuracy": 0.071
+  }
+ },
+ "detail": [
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "A dragon appeared near Kiev; he took hea",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "seized her and dragged",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Mediation",
+   "code": "B2,4",
+   "important_verb": "entreated",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "shed",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "went forth",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Struggle",
+   "code": "H1",
+   "important_verb": "fought",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Victory",
+   "code": "I1",
+   "important_verb": "defeated",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "killed him and drowned",
+   "placed": "correct"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Wedding",
+   "code": "W_,*",
+   "important_verb": "would not accept",
+   "placed": "wrong"
+  },
+  {
+   "story": "01_Nikita_the_Tanner",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "returned",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "An old man lived with his old wife; they",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Interdiction",
+   "code": "gamma1",
+   "important_verb": "Be careful, watch over your little broth",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Absentation",
+   "code": "beta1",
+   "important_verb": "The parents went away",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Violation",
+   "code": "delta",
+   "important_verb": "the daughter forgot what they had told h",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "seized the little boy, and carried",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "guessed",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "rushed after",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "First donor function",
+   "code": "D1",
+   "important_verb": "\"If you eat my cake of rye I will tell y",
+   "placed": "correct"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Hero's reaction",
+   "code": "E_1",
+   "important_verb": "\"Oh, in my father's house we don't even ",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Receipt of magical agent",
+   "code": "F_",
+   "important_verb": "did not tell her. She ran farther and sa",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Spatial transference",
+   "code": "G4",
+   "important_verb": "showed",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Liquidation of lack",
+   "code": "K1",
+   "important_verb": "carried",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "carried",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Pursuit",
+   "code": "Pr1",
+   "important_verb": "flew after her: if the robbers overtook ",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "First donor function",
+   "code": "d7",
+   "important_verb": "\"If you eat my pudding.\" There was nothi",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Hero's reaction",
+   "code": "E7",
+   "important_verb": "ate it, and the river hid her beneath th",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Receipt of magical agent",
+   "code": "F9",
+   "important_verb": "hid her beneath the shore, and the geese",
+   "placed": "wrong"
+  },
+  {
+   "story": "02_The_Magic_Swan_Geese",
+   "function": "Rescue",
+   "code": "Rs4",
+   "important_verb": "without recovering",
+   "placed": "correct"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "In a certain kingdom in a certain land t",
+   "placed": "correct"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Receipt of magical agent",
+   "code": "F69",
+   "important_verb": "said",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Lack",
+   "code": "a1",
+   "important_verb": "marry",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "Hand it over",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "went",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Transfiguration",
+   "code": "T4",
+   "important_verb": "change",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Spatial transference",
+   "code": "G3",
+   "important_verb": "came",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "wedding",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "traveled",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Victory",
+   "code": "I5",
+   "important_verb": "sealed him up in the barrel. \"Raven, Son",
+   "placed": "wrong"
+  },
+  {
+   "story": "03_Bukhtan_Bukhtanovich",
+   "function": "Wedding",
+   "code": "Wsub*",
+   "important_verb": "ruled and governed",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "In a certain kingdom in a certain land t",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "First donor function",
+   "code": "D6",
+   "important_verb": "said",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Hero's reaction",
+   "code": "E6",
+   "important_verb": "divided",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Receipt of magical agent",
+   "code": "F1",
+   "important_verb": "said",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Villainy",
+   "code": "A11",
+   "important_verb": "swallowed",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "vanished",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "disguised",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Mediation",
+   "code": "B3",
+   "important_verb": "said",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "drove",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Struggle",
+   "code": "H1",
+   "important_verb": "seized six. Prince Ivan straightway turn",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Victory",
+   "code": "I1",
+   "important_verb": "cut off all the three heads of the drago",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Struggle",
+   "code": "H1",
+   "important_verb": "fight",
+   "placed": "wrong"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Victory",
+   "code": "I1",
+   "important_verb": "defeated the twelve-headed dragon, slash",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Liquidation of lack",
+   "code": "K8",
+   "important_verb": "melted away",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "led",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "led",
+   "placed": "correct"
+  },
+  {
+   "story": "04_The_Crystal_Mountain",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "wedding",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "the laborer Shabarsha, Shabarsha who is ",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Lack",
+   "code": "a5",
+   "important_verb": "There was no grain at all, and the veget",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Mediation",
+   "code": "B4",
+   "important_verb": "thought",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "said Shabarsha to him. \"There'll come a ",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "set off",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Struggle",
+   "code": "H2",
+   "important_verb": "whacked him in the side with his club. M",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Victory",
+   "code": "I2",
+   "important_verb": "cracked. He forced himself out of the be",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Liquidation of lack",
+   "code": "K1",
+   "important_verb": "filling Shabarsha's hat. He poured and p",
+   "placed": "correct"
+  },
+  {
+   "story": "05_Shabarsha_the_Laborer",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "lived",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "In a certain village there lived a wealt",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Villainy",
+   "code": "A9",
+   "important_verb": "sent",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "went",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Struggle",
+   "code": "H2",
+   "important_verb": "race with him?\" \"What grandson?\" \"He is ",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Victory",
+   "code": "I2",
+   "important_verb": "said the devil, and once more flopped in",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Liquidation of lack",
+   "code": "K1",
+   "important_verb": "fill my hat with gold, and work for a ye",
+   "placed": "correct"
+  },
+  {
+   "story": "06_Ivanko_the_Bear's_Son",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "said",
+   "placed": "correct"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "set off",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "First donor function",
+   "code": "D",
+   "important_verb": "came up",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Hero's reaction",
+   "code": "E7",
+   "important_verb": "teach",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Receipt of magical agent",
+   "code": "F_9",
+   "important_verb": "went",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Transfiguration",
+   "code": "T4",
+   "important_verb": "made",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Spatial transference",
+   "code": "G1",
+   "important_verb": "gave",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Villainy",
+   "code": "A18",
+   "important_verb": "torment",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "decided",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "set out",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Receipt of magical agent",
+   "code": "F1",
+   "important_verb": "give",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Struggle",
+   "code": "H3",
+   "important_verb": "playing",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Victory",
+   "code": "I3",
+   "important_verb": "disappeared",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "disappeared",
+   "placed": "wrong"
+  },
+  {
+   "story": "07_The_Runaway_Soldier_and_the_Devil",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "married the princess and lived with her ",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "There was once a king who had three daug",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "carried",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Mediation",
+   "code": "B1",
+   "important_verb": "said",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "agreed",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "set out",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Struggle",
+   "code": "H1",
+   "important_verb": "clashed, and in one stroke Frolka cut of",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Victory",
+   "code": "I1",
+   "important_verb": "cut off all the five heads of the dragon",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "came back",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "came back",
+   "placed": "correct"
+  },
+  {
+   "story": "08_Frolka_Stay-at-Home",
+   "function": "Wedding",
+   "code": "w0",
+   "important_verb": "opened",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "There once lived an old couple who had o",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Interdiction",
+   "code": "gamma1",
+   "important_verb": "\"What are you thinking about! you're sti",
+   "placed": "wrong"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Absentation",
+   "code": "beta3",
+   "important_verb": "his mother put a white shirt on him, tie",
+   "placed": "wrong"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Delivery",
+   "code": "zeta1",
+   "important_verb": "Now a certain witch had heard what Ivash",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Trickery",
+   "code": "eta3",
+   "important_verb": "The witch saw that she must call Ivashko",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Complicity",
+   "code": "theta2",
+   "important_verb": "came",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "seized the boy and carried",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "carried",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "First donor function",
+   "code": "D8",
+   "important_verb": "said",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Hero's reaction",
+   "code": "E8",
+   "important_verb": "pitched",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "ran out of the hut, shut the door, and h",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Pursuit",
+   "code": "Pr7",
+   "important_verb": "gnaw away at it. And she gnawed, and gna",
+   "placed": "correct"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Rescue",
+   "code": "Rs10",
+   "important_verb": "jumped out",
+   "placed": "wrong"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Pursuit",
+   "code": "Pr7",
+   "important_verb": "gnaw that tree also. She gnawed, and gna",
+   "placed": "wrong"
+  },
+  {
+   "story": "09_The_Witch",
+   "function": "Rescue",
+   "code": "Rs1",
+   "important_verb": "carried",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "Once, in a far away land, there was a ma",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Lack",
+   "code": "a1",
+   "important_verb": "decided",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Mediation",
+   "code": "B2",
+   "important_verb": "commissioned",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "convened",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Receipt of magical agent",
+   "code": "F3",
+   "important_verb": "built",
+   "placed": "wrong"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "sailed off",
+   "placed": "wrong"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Spatial transference",
+   "code": "G2",
+   "important_verb": "went",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Liquidation of lack",
+   "code": "K2",
+   "important_verb": "stole",
+   "placed": "correct"
+  },
+  {
+   "story": "10_The_Seven_Simeons",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "return",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "Once upon a time there was an old couple",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Villainy",
+   "code": "A4",
+   "important_verb": "was",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "undertook",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Receipt of magical agent",
+   "code": "F3",
+   "important_verb": "make",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Struggle",
+   "code": "H1",
+   "important_verb": "they began to fight. And Ivan killed the",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Victory",
+   "code": "I1",
+   "important_verb": "killed the Snake, and then sat down agai",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "was",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "set off",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Pursuit",
+   "code": "Pr4",
+   "important_verb": "saw before them a green meadow, and on t",
+   "placed": "correct"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Rescue",
+   "code": "Rs7",
+   "important_verb": "struck the cushions with it. And out of ",
+   "placed": "wrong"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Pursuit",
+   "code": "Pr1",
+   "important_verb": "came",
+   "placed": "wrong"
+  },
+  {
+   "story": "11_Ivan_Popyalov",
+   "function": "Rescue",
+   "code": "Rs5",
+   "important_verb": "hid",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Villainy",
+   "code": "A17",
+   "important_verb": "devoured",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Mediation",
+   "code": "B4",
+   "important_verb": "\"",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "\"",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "spent",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Struggle",
+   "code": "H2",
+   "important_verb": "grabbed a millstone. \"Look at this, gyps",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Victory",
+   "code": "I2",
+   "important_verb": "\"True, your hand is stronger than my own",
+   "placed": "correct"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "left",
+   "placed": "wrong"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Victory",
+   "code": "I2,6",
+   "important_verb": "ran away",
+   "placed": "wrong"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "ran away",
+   "placed": "wrong"
+  },
+  {
+   "story": "12_The_Serpent_and_the_Gypsy",
+   "function": "Wedding",
+   "code": "w0",
+   "important_verb": "sold",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "There was once an old princess; she had ",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Villainy",
+   "code": "A15(xvi)",
+   "important_verb": "said",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "First donor function",
+   "code": "d7",
+   "important_verb": "passed by",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Hero's reaction",
+   "code": "E7",
+   "important_verb": "invited them in and offered",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Receipt of magical agent",
+   "code": "F3,2",
+   "important_verb": "Make",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Pursuit",
+   "code": "Pr",
+   "important_verb": "said: \"Sister Catherine, come to the fea",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Rescue",
+   "code": "Rs4",
+   "important_verb": "vanished",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "walked",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "First donor function",
+   "code": "D8",
+   "important_verb": "shove",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Hero's reaction",
+   "code": "E8",
+   "important_verb": "shoved her into the stove, locked her in",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "ran away",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Receipt of magical agent",
+   "code": "F8",
+   "important_verb": "taking",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Pursuit",
+   "code": "Pr1",
+   "important_verb": "caught sight of them, and was hissing: \"",
+   "placed": "wrong"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Rescue",
+   "code": "Rs2",
+   "important_verb": "threw down the brush and there appeared ",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Unrecognized arrival",
+   "code": "o",
+   "important_verb": "said",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Recognition",
+   "code": "Q",
+   "important_verb": "embrace",
+   "placed": "correct"
+  },
+  {
+   "story": "13_Prince_Danila_Govorila",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "married her to a good man; and he himsel",
+   "placed": "correct"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "There was once a very wealthy merchant w",
+   "placed": "correct"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Villainy",
+   "code": "A6",
+   "important_verb": "cut out",
+   "placed": "correct"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Unrecognized arrival",
+   "code": "o",
+   "important_verb": "took",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Receipt of magical agent",
+   "code": "F3,4",
+   "important_verb": "sew a royal crown of velvet and silk; sh",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Liquidation of lack",
+   "code": "K3",
+   "important_verb": "see once more. Then again she sent the o",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Transfiguration",
+   "code": "T2",
+   "important_verb": "found",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Pursuit",
+   "code": "Pr6",
+   "important_verb": "cut",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Rescue",
+   "code": "Rs6",
+   "important_verb": "turned",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Recognition",
+   "code": "Q",
+   "important_verb": "saw",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Exposure",
+   "code": "Ex",
+   "important_verb": "\"",
+   "placed": "wrong"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Punishment",
+   "code": "U",
+   "important_verb": "cut out, she was tied to a horse, and dr",
+   "placed": "correct"
+  },
+  {
+   "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "live",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Initial situation",
+   "code": "alpha",
+   "important_verb": "In a certain kingdom there was a king wh",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Interdiction",
+   "code": "gamma1",
+   "important_verb": "The king tried to dissuade them",
+   "placed": "wrong"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Violation",
+   "code": "delta",
+   "important_verb": "They would not even listen to him",
+   "placed": "wrong"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Absentation",
+   "code": "beta3",
+   "important_verb": "the beautiful princesses went out to wal",
+   "placed": "wrong"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Villainy",
+   "code": "A1",
+   "important_verb": "seized them and carried",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Mediation",
+   "code": "B1",
+   "important_verb": "reached",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Beginning counteraction",
+   "code": "C",
+   "important_verb": "asked",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Departure",
+   "code": "up",
+   "important_verb": "set out",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "First donor function",
+   "code": "D9",
+   "important_verb": "beat Evening on the head with it; he bea",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Hero's reaction",
+   "code": "E9",
+   "important_verb": "fastened",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Spatial transference",
+   "code": "G6",
+   "important_verb": "Following",
+   "placed": "wrong"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Receipt of magical agent",
+   "code": "F7",
+   "important_verb": "handed",
+   "placed": "wrong"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Victory",
+   "code": "I5",
+   "important_verb": "cut off all of the dragon's three heads;",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Liquidation of lack",
+   "code": "K4",
+   "important_verb": "freed",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Return",
+   "code": "down",
+   "important_verb": "came",
+   "placed": "correct"
+  },
+  {
+   "story": "15_Dawn,_Evening_and_Midnight",
+   "function": "Wedding",
+   "code": "W*",
+   "important_verb": "married",
+   "placed": "correct"
+  }
+ ]
+}

@@ -1,0 +1,3230 @@
+{
+ "01_Nikita_the_Tanner": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 350,
+   "important_verb": "A dragon appeared near Kiev; he took heavy tribute from the people - a lovely maiden from every house, whom he then devoured. Finally, it was the fate of the tsar's daughter to go to the dragon.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 550,
+   "important_verb": "seized her and dragged",
+   "event_refs": [
+    "47",
+    "50"
+   ]
+  },
+  {
+   "code": "B2,4",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 1863,
+   "important_verb": "entreated",
+   "event_refs": [
+    "322"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 2168,
+   "important_verb": "shed",
+   "event_refs": [
+    "380"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 2337,
+   "important_verb": "went forth",
+   "event_refs": [
+    "415",
+    "416"
+   ]
+  },
+  {
+   "code": "H1",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 2675,
+   "important_verb": "fought",
+   "event_refs": [
+    "491"
+   ]
+  },
+  {
+   "code": "I1",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 2736,
+   "important_verb": "defeated",
+   "event_refs": [
+    "507"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 3469,
+   "important_verb": "killed him and drowned",
+   "event_refs": [
+    "683",
+    "686"
+   ]
+  },
+  {
+   "code": "W_,*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 3734,
+   "important_verb": "would not accept",
+   "event_refs": [
+    "744",
+    "745",
+    "746"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 3768,
+   "important_verb": "returned",
+   "event_refs": [
+    "751"
+   ]
+  }
+ ],
+ "02_The_Magic_Swan_Geese": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 353,
+   "important_verb": "An old man lived with his old wife; they had a daughter and a little son. \"Daughter, daughter,\" said the mother, \"we are going to work; we shall bring you back a bun, sew you a dress, and buy you a kerchief.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56"
+   ]
+  },
+  {
+   "code": "gamma1",
+   "name": "Interdiction",
+   "canonical_order": 2,
+   "off": 563,
+   "important_verb": "Be careful, watch over your little brother, do not leave the house.\"",
+   "event_refs": [
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72"
+   ]
+  },
+  {
+   "code": "beta1",
+   "name": "Absentation",
+   "canonical_order": 1,
+   "off": 633,
+   "important_verb": "The parents went away",
+   "event_refs": [
+    "73",
+    "74",
+    "75",
+    "76"
+   ]
+  },
+  {
+   "code": "delta",
+   "name": "Violation",
+   "canonical_order": 3,
+   "off": 660,
+   "important_verb": "the daughter forgot what they had told her; she put her brother on the grass beneath the window, ran out into the street, and became absorbed in games.",
+   "event_refs": [
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 842,
+   "important_verb": "seized the little boy, and carried",
+   "event_refs": [
+    "116",
+    "122"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 1385,
+   "important_verb": "guessed",
+   "event_refs": [
+    "229"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 1436,
+   "important_verb": "rushed after",
+   "event_refs": [
+    "239",
+    "240"
+   ]
+  },
+  {
+   "code": "D1",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 1545,
+   "important_verb": "\"If you eat my cake of rye I will tell you.\" \"Oh, in my father's house we don't even eat cakes of wheat!\" The stove did not tell her. She ran farther and saw an apple tree. \"Apple tree, apple tree, tell me, whither have the geese flown?\" \"If you eat one of my wild apples, I will tell you.\" \"Oh, in my father's house we don't even eat sweet apples.\" She ran farther and saw a river of milk with shores of pudding. \"River of milk, shores of pudding, whither have the geese flown ?\" \"",
+   "event_refs": [
+    "395"
+   ]
+  },
+  {
+   "code": "E_1",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 1590,
+   "important_verb": "\"Oh, in my father's house we don't even eat cakes of wheat!\" The stove did not tell her. She ran farther and saw an apple tree. \"Apple tree, apple tree, tell me, whither have the geese flown?\" \"If you eat one of my wild apples, I will tell you.\" \"Oh, in my father's house we don't even eat sweet apples.\" She ran farther and saw a river of milk with shores of pudding. \"River of milk, shores of pudding, whither have the geese flown ?\" \"If you eat of my simple pudding with milk, I will tell you.\" \"",
+   "event_refs": [
+    "412"
+   ]
+  },
+  {
+   "code": "F_",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 1662,
+   "important_verb": "did not tell her. She ran farther and saw an apple tree. \"Apple tree, apple tree, tell me, whither have the geese flown?\" \"If you eat one of my wild apples, I will tell you.\" \"Oh, in my father's house we don't even eat sweet apples.\" She ran farther and saw a river of milk with shores of pudding. \"River of milk, shores of pudding, whither have the geese flown ?\" \"If you eat of my simple pudding with milk, I will tell you.\" \"",
+   "event_refs": [
+    "412"
+   ]
+  },
+  {
+   "code": "G4",
+   "name": "Spatial transference",
+   "canonical_order": 15,
+   "off": 2441,
+   "important_verb": "showed",
+   "event_refs": [
+    "497"
+   ]
+  },
+  {
+   "code": "K1",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 2733,
+   "important_verb": "carried",
+   "event_refs": [
+    "560"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 2733,
+   "important_verb": "carried",
+   "event_refs": [
+    "560"
+   ]
+  },
+  {
+   "code": "Pr1",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 2765,
+   "important_verb": "flew after her: if the robbers overtook her, where would she hide? There flowed the river of milk with shores of pudding. \"Little mother river, hide me!\" she begged. \"If you eat my pudding.\" There was nothing to be done; she ate it, and the river hid her beneath the shore, and the geese flew by. She went out, said \"Thank you,\" and ran on, carrying her brother; and the geese turned back and flew toward her. What could she do in this trouble? There was the apple tree. \"Apple tree, apple tree, little mother, hide me !\" she begged. \"If you eat my wild apple.\" She ate it quickly. The apple tree covered her with branches and leaves; the geese flew by. She went out again and ran on with her brother. The geese saw her and flew",
+   "event_refs": [
+    "567",
+    "663",
+    "743"
+   ]
+  },
+  {
+   "code": "d7",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 2934,
+   "important_verb": "\"If you eat my pudding.\" There was nothing to be done; she ate it, and the river hid her beneath the shore, and the geese flew by. She went out, said \"Thank you,\" and ran on, carrying her brother; and the geese turned back and flew toward her. What could she do in this trouble? There was the apple tree. \"Apple tree, apple tree, little mother, hide me !\" she begged. \"If you eat my wild apple.\" She ate it quickly. The apple tree covered her with branches and leaves; the geese flew by. She went out again and ran on with her brother. The geese saw her and flew after her. They came quite close, they began to strike her with their wings; at any moment they would tear her brother from her hands. Luckily there was the stove on her path. \"Madam Stove, hide me!\" she begged. \"",
+   "event_refs": [
+    "793"
+   ]
+  },
+  {
+   "code": "E7",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 2994,
+   "important_verb": "ate it, and the river hid her beneath the shore, and the geese flew by. She went out, said \"Thank you,\" and ran on, carrying her brother; and the geese turned back and flew toward her. What could she do in this trouble? There was the apple tree. \"Apple tree, apple tree, little mother, hide me !\" she begged. \"If you eat my wild apple.\" She ate it quickly. The apple tree covered her with branches and leaves; the geese flew by. She went out again and ran on with her brother. The geese saw her and flew after her. They came quite close, they began to strike her with their wings; at any moment they would tear her brother from her hands. Luckily there was the stove on her path. \"Madam Stove, hide me!\" she begged. \"If you eat my cake of rye.\" The girl quickly stuck",
+   "event_refs": [
+    "806"
+   ]
+  },
+  {
+   "code": "F9",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 3016,
+   "important_verb": "hid her beneath the shore, and the geese flew by. She went out, said \"Thank you,\" and ran on, carrying her brother; and the geese turned back and flew toward her. What could she do in this trouble? There was the apple tree. \"Apple tree, apple tree, little mother, hide me !\" she begged. \"If you eat my wild apple.\" She ate it quickly. The apple tree covered her with branches and leaves; the geese flew by. She went out again and ran on with her brother. The geese saw her and flew after her. They came quite close, they began to strike her with their wings; at any moment they would tear her brother from her hands. Luckily there was the stove on her path. \"Madam Stove, hide me!\" she begged. \"If you eat my cake of rye.\" The girl quickly stuck the cake in her mouth, went",
+   "event_refs": [
+    "813"
+   ]
+  },
+  {
+   "code": "Rs4",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 3907,
+   "important_verb": "without recovering",
+   "event_refs": [
+    "836",
+    "837"
+   ]
+  }
+ ],
+ "03_Bukhtan_Bukhtanovich": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 353,
+   "important_verb": "In a certain kingdom in a certain land there lived one Bukhtan Bukhtanovich, who had a stove built on pillars in the middle of a field. He lay on the stove in cockroach milk up to his elbows.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+   ]
+  },
+  {
+   "code": "F69",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 569,
+   "important_verb": "said",
+   "event_refs": [
+    "50"
+   ]
+  },
+  {
+   "code": "a1",
+   "name": "Lack",
+   "canonical_order": 8,
+   "off": 620,
+   "important_verb": "marry",
+   "event_refs": [
+    "61"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 755,
+   "important_verb": "Hand it over",
+   "event_refs": [
+    "100",
+    "1193"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 1856,
+   "important_verb": "went",
+   "event_refs": [
+    "367"
+   ]
+  },
+  {
+   "code": "T4",
+   "name": "Transfiguration",
+   "canonical_order": 29,
+   "off": 2594,
+   "important_verb": "change",
+   "event_refs": [
+    "535"
+   ]
+  },
+  {
+   "code": "G3",
+   "name": "Spatial transference",
+   "canonical_order": 15,
+   "off": 2646,
+   "important_verb": "came",
+   "event_refs": [
+    "548"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 3612,
+   "important_verb": "wedding",
+   "event_refs": [
+    "1195"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 3798,
+   "important_verb": "traveled",
+   "event_refs": [
+    "802"
+   ]
+  },
+  {
+   "code": "I5",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 4723,
+   "important_verb": "sealed him up in the barrel. \"Raven, Son of the Raven, go into the mortar!\" And the fox sealed him up in the mortar; then he wrapped Dragon, Son of the Dragon, in straw and took him out into the street. The ships arrived. The fox ordered all the beasts to be thrown into the water; the Cossacks threw",
+   "event_refs": [
+    "1022",
+    "1046",
+    "1055",
+    "1066",
+    "1092"
+   ]
+  },
+  {
+   "code": "Wsub*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 5149,
+   "important_verb": "ruled and governed",
+   "event_refs": [
+    "1115",
+    "1117"
+   ]
+  }
+ ],
+ "04_The_Crystal_Mountain": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 353,
+   "important_verb": "In a certain kingdom in a certain land there lived a king who had three sons. One day they said to him: \"Father, our gracious sovereign, give us your blessing; we wish to go hunting.\" The father gave them his blessing and they set out in different directions. The youngest son rode and rode and lost his way; he came to a clearing, and there lay a dead horse, around which were gathered beasts of many kinds, birds, and reptiles.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97"
+   ]
+  },
+  {
+   "code": "D6",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 856,
+   "important_verb": "said",
+   "event_refs": [
+    "114"
+   ]
+  },
+  {
+   "code": "E6",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 1067,
+   "important_verb": "divided",
+   "event_refs": [
+    "161"
+   ]
+  },
+  {
+   "code": "F1",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 1225,
+   "important_verb": "said",
+   "event_refs": [
+    "200"
+   ]
+  },
+  {
+   "code": "A11",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 1508,
+   "important_verb": "swallowed",
+   "event_refs": [
+    "261"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 2273,
+   "important_verb": "vanished",
+   "event_refs": [
+    "421"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 2351,
+   "important_verb": "disguised",
+   "event_refs": [
+    "440"
+   ]
+  },
+  {
+   "code": "B3",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 2523,
+   "important_verb": "said",
+   "event_refs": [
+    "482"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 2758,
+   "important_verb": "drove",
+   "event_refs": [
+    "531"
+   ]
+  },
+  {
+   "code": "H1",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 3216,
+   "important_verb": "seized six. Prince Ivan straightway turned into a bright falcon, cut off all the three heads of the dragon, and drove the cattle home. \"Well, grandfather,\" asked the king, \"has the three-headed dragon come? Did you give him three cows?\" \"No, Your Majesty,\" replied Prince Ivan, \"I did not give him any.\" Next day the prince drove his herd over mountains and valleys, and the six- headed dragon came from the lake and demanded six cows. \"Ah, you gluttonous monster,\" said the prince, \"I myself eat only one duck a day, and see what you demand! I won't give you any!\" The dragon flew into a rage and instead of six, seized twelve cows; but the prince turned into a bright falcon, fell",
+   "event_refs": [
+    "787",
+    "800"
+   ]
+  },
+  {
+   "code": "I1",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 3282,
+   "important_verb": "cut off all the three heads of the dragon, and drove the cattle home. \"Well, grandfather,\" asked the king, \"has the three-headed dragon come? Did you give him three cows?\" \"No, Your Majesty,\" replied Prince Ivan, \"I did not give him any.\" Next day the prince drove his herd over mountains and valleys, and the six- headed dragon came from the lake and demanded six cows. \"Ah, you gluttonous monster,\" said the prince, \"I myself eat only one duck a day, and see what you demand! I won't give you any!\" The dragon flew into a rage and instead of six, seized twelve cows; but the prince turned into a bright falcon, fell upon the dragon, and cut off",
+   "event_refs": [
+    "806",
+    "807"
+   ]
+  },
+  {
+   "code": "H1",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 5145,
+   "important_verb": "fight",
+   "event_refs": [
+    "1091"
+   ]
+  },
+  {
+   "code": "I1",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 5212,
+   "important_verb": "defeated the twelve-headed dragon, slashed",
+   "event_refs": [
+    "1105",
+    "1110"
+   ]
+  },
+  {
+   "code": "K8",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 5489,
+   "important_verb": "melted away",
+   "event_refs": [
+    "1169",
+    "1170"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 5514,
+   "important_verb": "led",
+   "event_refs": [
+    "1174"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 5514,
+   "important_verb": "led",
+   "event_refs": [
+    "1174"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 5613,
+   "important_verb": "wedding",
+   "event_refs": [
+    "1197"
+   ]
+  }
+ ],
+ "05_Shabarsha_the_Laborer": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 507,
+   "important_verb": "the laborer Shabarsha, Shabarsha who is a rogue among rogues: oh, well, in for a penny, in for a pound! So Shabarsha set off to work as a laborer, and times were bad.",
+   "event_refs": [
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67"
+   ]
+  },
+  {
+   "code": "a5",
+   "name": "Lack",
+   "canonical_order": 8,
+   "off": 676,
+   "important_verb": "There was no grain at all, and the vegetables didn't grow.",
+   "event_refs": [
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81"
+   ]
+  },
+  {
+   "code": "B4",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 750,
+   "important_verb": "thought",
+   "event_refs": [
+    "85"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 891,
+   "important_verb": "said Shabarsha to him. \"There'll come a day and there will be both grain and money!\" And Shabarsha set off for the millpond. \"At any rate I can catch some fish. I'll sell them and I'll have some money. But I've no line and no hook. Wait a minute and I'll make one.\" He asked the miller for a handful of hemp, sat down on the shore, and started weaving his tackle. He wove and wove, and then a boy in a black shirt and red hat jumped out of the water. \"Grandfather! What are you doing here?\" he asked. \"I'm weaving a line.\" \"Why?\" \"I intend to cleanse this pond of all you devils by pulling you out of the water.\" \"Oh, no! Wait a little. I'll go and tell grandfather.\" The imp dove deep down and Shabarsha went back to his work. \"Wait a minute,\" he thought",
+   "event_refs": [
+    "120",
+    "314"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 991,
+   "important_verb": "set off",
+   "event_refs": [
+    "143",
+    "144"
+   ]
+  },
+  {
+   "code": "H2",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 2510,
+   "important_verb": "whacked him in the side with his club. Misha rose up on his hind legs and grabbed the imp so that all his bones cracked. He forced himself out of the bear's claws and ran to the old man in the water. \"Well, grandfather,\" he said in his fright, \"Shabarsha has a younger brother, Misha, and he was about to wrestle with me when he cracked all my bones. What would it have been like if I had started to wrestle Shabarsha?\" \"Hmm, go and try to have a foot race with Shabarsha; we'll see who can win that.\" So the boy in the red hat once more came up to Shabarsha. He repeated his grandfather's words and Shabarsha replied, \"Why should I race with the likes of you? My little brother, Bunny, will leave you far behind.\" \"And where is your little brother Bunny?\" \"He's over there, lying in the grass. He wanted a rest. Go up closer to him and touch him on the ear. Then he'll race with you.\" The imp ran up to Bunny, touched him on the ear, and the hare jumped up with the imp right behind him. \"Wait, wait for me, Bunny. Let me come up even with you. Oh, you've got away!\" \"Well, grandfather,\" he said to the water spirit, \"I tore after him running. But how? He wouldn't let me catch up to him and he wasn't even Shabarsha - just his youngest brother.\" \"Hmm,\" the old man muttered, screwing up his eyebrows. \"Go to Shabarsha and tell him to see who can whistle loudest.\" \"Shabarsha, Shabarsha! Grandfather orders me to see which of us can whistle loudest.\" \"You whistle first.\" The imp whistled so loudly that Shabarsha could hardly stand on his own two feet and the leaves started falling off the trees. \"You whistle well,\" said Shabarsha, \"but that's not how I do it. When I whistle, you won't stand on your feet and your ears won't be able to stand it. Lie down on your face and cover your ears with your fingers.\" The imp lay face down on the ground and stuck his fingers in his ears. Shabarsha took his club and with all his might he whacked him on the neck and whistled. He whistled on and on. \"Oh, grandfather, grandfather! You wouldn't believe how Shabarsha whistles. Sparks fell from my eyes and I could hardly get up from the ground, and all the bones in my neck and spine were broken.\" \"Oho! You see, you're not so strong, imp. Go and take my iron club that's in the rushes and try this: see who can throw it higher into the air.\" The imp took the club, put it on his shoulder, and set off for Shabarsha. \"Well, Shabarsha, grandfather has ordered us to try one last time. Who can throw this club higher into the air?\" \"You throw it first and I'll watch.\" The devil threw the club and it flew higher and higher until it was just a black dot in the sky. They waited impatiently for it to come back to earth. Then Shabarsha took the club - it was heavy! He stood it on the toes of one foot, leaned on it with his palm, and began gazing at the sky. \"Why don't you throw it? What are you waiting for?\" asked the imp. \"I'm waiting until that little cloud comes up, and then I'll throw",
+   "event_refs": [
+    "1149",
+    "1248"
+   ]
+  },
+  {
+   "code": "I2",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 2624,
+   "important_verb": "cracked. He forced himself out of the bear's claws and ran to the old man in the water. \"Well, grandfather,\" he said in his fright, \"Shabarsha has a younger brother, Misha, and he was about to wrestle with me when he cracked all my bones. What would it have been like if I had started to wrestle Shabarsha?\" \"Hmm, go and try to have a foot race with Shabarsha; we'll see who can win that.\" So the boy in the red hat once more came up to Shabarsha. He repeated his grandfather's words and Shabarsha replied, \"Why should I race with the likes of you? My little brother, Bunny, will leave you far behind.\" \"And where is your little brother Bunny?\" \"He's over there, lying in the grass. He wanted a rest. Go up closer to him and touch him on the ear. Then he'll race with you.\" The imp ran up to Bunny, touched him on the ear, and the hare jumped up with the imp right behind him. \"Wait, wait for me, Bunny. Let me come up even with you. Oh, you've got away!\" \"Well, grandfather,\" he said to the water spirit, \"I tore after him running. But how? He wouldn't let me catch up to him and he wasn't even Shabarsha - just his youngest brother.\" \"Hmm,\" the old man muttered, screwing up his eyebrows. \"Go to Shabarsha and tell him to see who can whistle loudest.\" \"Shabarsha, Shabarsha! Grandfather orders me to see which of us can whistle loudest.\" \"You whistle first.\" The imp whistled so loudly that Shabarsha could hardly stand on his own two feet and the leaves started falling off the trees. \"You whistle well,\" said Shabarsha, \"but that's not how I do it. When I whistle, you won't stand on your feet and your ears won't be able to stand it. Lie down on your face and cover your ears with your fingers.\" The imp lay face down on the ground and stuck his fingers in his ears. Shabarsha took his club and with all his might he whacked him on the neck and whistled. He whistled on and on. \"Oh, grandfather, grandfather! You wouldn't believe how Shabarsha whistles. Sparks fell from my eyes and I could hardly get up from the ground, and all the bones in my neck and spine were broken.\" \"Oho! You see, you're not so strong, imp. Go and take my iron club that's in the rushes and try this: see who can throw it higher into the air.\" The imp took the club, put it on his shoulder, and set off for Shabarsha. \"Well, Shabarsha, grandfather has ordered us to try one last time. Who can throw this club higher into the air?\" \"You throw it first and I'll watch.\" The devil threw the club and it flew higher and higher until it was just a black dot in the sky. They waited impatiently for it to come back to earth. Then Shabarsha took the club - it was heavy! He stood it on the toes of one foot, leaned on it with his palm, and began gazing at the sky. \"Why don't you throw it? What are you waiting for?\" asked the imp. \"I'm waiting until that little cloud comes up, and then I'll throw this club at it. My brother, the blacksmith, is sitting up there and he can use this iron in his business.\" \"",
+   "event_refs": [
+    "1275"
+   ]
+  },
+  {
+   "code": "K1",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 6421,
+   "important_verb": "filling Shabarsha's hat. He poured and poured it in, until finally he had filled",
+   "event_refs": [
+    "1450",
+    "1466"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 6557,
+   "important_verb": "lived",
+   "event_refs": [
+    "1480"
+   ]
+  }
+ ],
+ "06_Ivanko_the_Bear's_Son": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 375,
+   "important_verb": "In a certain village there lived a wealthy peasant and his wife.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "code": "A9",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 3154,
+   "important_verb": "sent",
+   "event_refs": [
+    "655"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 3330,
+   "important_verb": "went",
+   "event_refs": [
+    "692"
+   ]
+  },
+  {
+   "code": "H2",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 4119,
+   "important_verb": "race with him?\" \"What grandson?\" \"He is lying there behind a bush,\" said the Bearlet, and cried to a hare, \"Hey, hare, do not fail me!\" The hare darted off into the open field like mad and in a trice vanished from sight; the devil rushed after him, but it was of no use - he was half a verst behind. \"Now, if you wish,\" said Ivanko, \"race with me. But on one condition - if you lag behind, I will kill you.\" \"O no!\" said the devil, and once more flopped into the water. After a while, he jumped out, carrying his grandfather's iron crutch, and said: \"Grandfather said that if you can throw this crutch higher than I can, he will pay the rent.\" \"Well, you throw first!\" The devil threw the crutch so high that it was hardly visible; it fell back with a terrible rumble and thrust half its length into the ground. \"Now you throw it,\" said the devil. The Bearlet took the crutch in his hand and could not even move it. \"Wait a while,\" he said, \"a cloud is coming near, I shall throw the crutch on it.\" \"O no, that won't do, grandfather needs his crutch!\" said the little devil. He snatched the crutch and rushed into the water. After a while, he jumped out again, saying: \"Grandfather said that if you can carry this horse around the lake at least one more time than I can, he will pay the rent; if not, you will have to go into the lake.\" \"Is that supposed to be hard? All right, begin!\" answered Ivanko. The devil heaved the horse on to his back and dragged it around the lake; he carried it ten times, till he was exhausted and sweat streamed down his snout. \"Well, now it's my turn,\" said Ivanko. He mounted the horse and began to ride around the lake; he rode",
+   "event_refs": [
+    "1254",
+    "1261",
+    "1297",
+    "1303"
+   ]
+  },
+  {
+   "code": "I2",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 4541,
+   "important_verb": "said the devil, and once more flopped into the water. After a while, he jumped out, carrying his grandfather's iron crutch, and said: \"Grandfather said that if you can throw this crutch higher than I can, he will pay the rent.\" \"Well, you throw first!\" The devil threw the crutch so high that it was hardly visible; it fell back with a terrible rumble and thrust half its length into the ground. \"Now you throw it,\" said the devil. The Bearlet took the crutch in his hand and could not even move it. \"Wait a while,\" he said, \"a cloud is coming near, I shall throw the crutch on it.\" \"O no, that won't do, grandfather needs his crutch!\" said the little devil. He snatched the crutch and rushed into the water. After a while, he jumped out again, saying: \"Grandfather said that if you can carry this horse around the lake at least one more time than I can, he will pay the rent; if not, you will have to go into the lake.\" \"Is that supposed to be hard? All right, begin!\" answered Ivanko. The devil heaved the horse on to his back and dragged it around the lake; he carried it ten times, till he was exhausted and sweat streamed down his snout. \"Well, now it's my turn,\" said Ivanko. He mounted the horse and began to ride around the lake; he rode so long that finally the horse collapsed under him. \"Well, brother, how was that?\" he asked the little devil. \"I must admit,\" said",
+   "event_refs": [
+    "1336"
+   ]
+  },
+  {
+   "code": "K1",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 6123,
+   "important_verb": "fill my hat with gold, and work for a year as my laborer - that's all I want.\" The little devil ran to fetch the gold; Ivanko cut the bottom out of his hat and placed it above a deep pit; the devil kept bringing gold and pouring it into the hat. He worked at this for a whole day and only by evening was the hat filled",
+   "event_refs": [
+    "1382",
+    "1456"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 6539,
+   "important_verb": "said",
+   "event_refs": [
+    "1479"
+   ]
+  }
+ ],
+ "07_The_Runaway_Soldier_and_the_Devil": [
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 473,
+   "important_verb": "set off",
+   "event_refs": [
+    "16",
+    "17"
+   ]
+  },
+  {
+   "code": "D",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 1131,
+   "important_verb": "came up",
+   "event_refs": [
+    "156",
+    "157"
+   ]
+  },
+  {
+   "code": "E7",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 2870,
+   "important_verb": "teach",
+   "event_refs": [
+    "593"
+   ]
+  },
+  {
+   "code": "F_9",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 3193,
+   "important_verb": "went",
+   "event_refs": [
+    "666"
+   ]
+  },
+  {
+   "code": "T4",
+   "name": "Transfiguration",
+   "canonical_order": 29,
+   "off": 4499,
+   "important_verb": "made",
+   "event_refs": [
+    "970"
+   ]
+  },
+  {
+   "code": "G1",
+   "name": "Spatial transference",
+   "canonical_order": 15,
+   "off": 4523,
+   "important_verb": "gave",
+   "event_refs": [
+    "975"
+   ]
+  },
+  {
+   "code": "A18",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 4777,
+   "important_verb": "torment",
+   "event_refs": [
+    "1029"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 5542,
+   "important_verb": "decided",
+   "event_refs": [
+    "1196"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 5656,
+   "important_verb": "set out",
+   "event_refs": [
+    "1222",
+    "1223"
+   ]
+  },
+  {
+   "code": "F1",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 6104,
+   "important_verb": "give",
+   "event_refs": [
+    "1325"
+   ]
+  },
+  {
+   "code": "H3",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 7064,
+   "important_verb": "playing",
+   "event_refs": [
+    "1549"
+   ]
+  },
+  {
+   "code": "I3",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 7142,
+   "important_verb": "disappeared",
+   "event_refs": [
+    "1565"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 8755,
+   "important_verb": "disappeared",
+   "event_refs": [
+    "1940"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 8784,
+   "important_verb": "married the princess and lived with her in love and harmony, and then after several years the king died and he began ruling",
+   "event_refs": [
+    "1945",
+    "1968"
+   ]
+  }
+ ],
+ "08_Frolka_Stay-at-Home": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 373,
+   "important_verb": "There was once a king who had three daughters, and such beauties they were as no tongue can tell of nor pen describe. Their garden was big and beautiful and they liked to walk there at night. A dragon from the Black Sea took to visiting this garden. One night the king's daughters tarried in the garden, for they could not tear their eyes away from the flowers",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 772,
+   "important_verb": "carried",
+   "event_refs": [
+    "83"
+   ]
+  },
+  {
+   "code": "B1",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 1108,
+   "important_verb": "said",
+   "event_refs": [
+    "149"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 1203,
+   "important_verb": "agreed",
+   "event_refs": [
+    "172"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 1307,
+   "important_verb": "set out",
+   "event_refs": [
+    "193",
+    "194"
+   ]
+  },
+  {
+   "code": "H1",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 2848,
+   "important_verb": "clashed, and in one stroke Frolka cut off all the five heads of the dragon. Then he put them under a stone and buried the body in the ground. The maiden was overjoyed and said to the three brave men: \"My little doves, take me with you.\" \"But who are you?\" they asked. She said that she was the king's eldest daughter; Frolka told her what task he had undertaken, and they were both glad. The princess invited them into the house, gave them meat and drink, and begged them to rescue her sisters. Frolka said: \"We were sent for them too!\" The princess told them where her sisters were. \"My next sister is even worse off than I was,\" she said. \"She is living with a seven-headed dragon.\" \"Never mind,\" said Frolka, \"we shall get the better of him too; it may be somewhat harder to deal with a twelve-headed dragon.\" They said farewell and went on. Finally they came to the abode of the second sister. The house where she was locked up was enormous and all around it there was a high iron fence. They approached it and looked for the gate; finally they found it. Frolka banged upon the gate with all his strength and it opened; they entered the yard and, as they had done before, sat down to eat. Suddenly the seven-headed dragon came flying. \"I smell Russian breath here,\" he said. \"Bah, it is you, Frolka, who have come here! What for?\" \"I know what for,\" answered Frolka. He began to fight with the dragon and in one stroke cut off all seven of his heads, put them under a stone, and buried the body in the ground. Then they entered the house; they passed through one room, a second, and a third, and in the fourth they found the king's second daughter sitting on a sofa. When they told her why and how they had come there, she brightened, offered them food and drink, and begged them to rescue her youngest sister from the twelve-headed dragon. Frolka said: \"Of course, that is what we were sent for. But there is fear in my heart. Well, perhaps God will help me! Give us each another cup!\" They drank and left; they walked and walked till they came to a very steep ravine. On the other side of the ravine there stood enormous pillars instead of a gate, and on the pillars were chained two ferocious lions that roared so loudly that only Frolka remained standing on his feet; his two companions fell to the ground from fear. Frolka said to them: \"I have seen worse terrors, and even then I was not frightened. Come with me!\" And they went on. Suddenly an old man, who looked to be about seventy, came out of the castle; he saw them, came to meet them, and said: \"Whither are you going, my friends?\" \"To this castle,\" answered Frolka. \"Ah, my friends,\" said the old man, \"you are going to an evil place; the twelve-headed dragon lives in this castle. He is not at home now, else he would have devoured you at once.\" \"But he is the very one we have come to see,\" said Frolka. \"If so,\" said the old man, \"come with me, I will help you get to him.\" The old man went up to the lions and began to stroke them, and Frolka with his companions got through to the courtyard. They entered the castle; the old man brought them to the room where the princess lived. Upon seeing them she quickly jumped off her bed and began to question them as to who they were and why they had come. They told her. The princess offered them food and drink and began to make ready to go. As they were preparing to leave the house, they suddenly saw the dragon flying at a verst's distance from them. The king's daughter rushed back into the house and Frolka and his companions went out to meet and fight the dragon. At first the dragon attacked",
+   "event_refs": [
+    "1380"
+   ]
+  },
+  {
+   "code": "I1",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 2882,
+   "important_verb": "cut off all the five heads of the dragon. Then he put them under a stone and buried the body in the ground. The maiden was overjoyed and said to the three brave men: \"My little doves, take me with you.\" \"But who are you?\" they asked. She said that she was the king's eldest daughter; Frolka told her what task he had undertaken, and they were both glad. The princess invited them into the house, gave them meat and drink, and begged them to rescue her sisters. Frolka said: \"We were sent for them too!\" The princess told them where her sisters were. \"My next sister is even worse off than I was,\" she said. \"She is living with a seven-headed dragon.\" \"Never mind,\" said Frolka, \"we shall get the better of him too; it may be somewhat harder to deal with a twelve-headed dragon.\" They said farewell and went on. Finally they came to the abode of the second sister. The house where she was locked up was enormous and all around it there was a high iron fence. They approached it and looked for the gate; finally they found it. Frolka banged upon the gate with all his strength and it opened; they entered the yard and, as they had done before, sat down to eat. Suddenly the seven-headed dragon came flying. \"I smell Russian breath here,\" he said. \"Bah, it is you, Frolka, who have come here! What for?\" \"I know what for,\" answered Frolka. He began to fight with the dragon and in one stroke cut off all seven of his heads, put them under a stone, and buried the body in the ground. Then they entered the house; they passed through one room, a second, and a third, and in the fourth they found the king's second daughter sitting on a sofa. When they told her why and how they had come there, she brightened, offered them food and drink, and begged them to rescue her youngest sister from the twelve-headed dragon. Frolka said: \"Of course, that is what we were sent for. But there is fear in my heart. Well, perhaps God will help me! Give us each another cup!\" They drank and left; they walked and walked till they came to a very steep ravine. On the other side of the ravine there stood enormous pillars instead of a gate, and on the pillars were chained two ferocious lions that roared so loudly that only Frolka remained standing on his feet; his two companions fell to the ground from fear. Frolka said to them: \"I have seen worse terrors, and even then I was not frightened. Come with me!\" And they went on. Suddenly an old man, who looked to be about seventy, came out of the castle; he saw them, came to meet them, and said: \"Whither are you going, my friends?\" \"To this castle,\" answered Frolka. \"Ah, my friends,\" said the old man, \"you are going to an evil place; the twelve-headed dragon lives in this castle. He is not at home now, else he would have devoured you at once.\" \"But he is the very one we have come to see,\" said Frolka. \"If so,\" said the old man, \"come with me, I will help you get to him.\" The old man went up to the lions and began to stroke them, and Frolka with his companions got through to the courtyard. They entered the castle; the old man brought them to the room where the princess lived. Upon seeing them she quickly jumped off her bed and began to question them as to who they were and why they had come. They told her. The princess offered them food and drink and began to make ready to go. As they were preparing to leave the house, they suddenly saw the dragon flying at a verst's distance from them. The king's daughter rushed back into the house and Frolka and his companions went out to meet and fight the dragon. At first the dragon attacked them with great force, but Frolka, a clever fellow, managed to defeat him, cut off",
+   "event_refs": [
+    "1395",
+    "1398",
+    "1399"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 6834,
+   "important_verb": "came back",
+   "event_refs": [
+    "1449",
+    "1450"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 6834,
+   "important_verb": "came back",
+   "event_refs": [
+    "1449",
+    "1450"
+   ]
+  },
+  {
+   "code": "w0",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 6890,
+   "important_verb": "opened",
+   "event_refs": [
+    "1461"
+   ]
+  }
+ ],
+ "09_The_Witch": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 361,
+   "important_verb": "There once lived an old couple who had one son called Ivashko; one can tell how fond they were of him!",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25"
+   ]
+  },
+  {
+   "code": "gamma1",
+   "name": "Interdiction",
+   "canonical_order": 2,
+   "off": 562,
+   "important_verb": "\"What are you thinking about! you're still very small; suppose you get drowned, what good will there be in that?\"",
+   "event_refs": [
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78"
+   ]
+  },
+  {
+   "code": "beta3",
+   "name": "Absentation",
+   "canonical_order": 1,
+   "off": 754,
+   "important_verb": "his mother put a white shirt on him, tied a red girdle round him, and let him go",
+   "event_refs": [
+    "104",
+    "105",
+    "121",
+    "122",
+    "123"
+   ]
+  },
+  {
+   "code": "zeta1",
+   "name": "Delivery",
+   "canonical_order": 5,
+   "off": 2130,
+   "important_verb": "Now a certain witch had heard what Ivashko's parents had cried aloud to him",
+   "event_refs": [
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431"
+   ]
+  },
+  {
+   "code": "eta3",
+   "name": "Trickery",
+   "canonical_order": 6,
+   "off": 2633,
+   "important_verb": "The witch saw that she must call Ivashko with just such a voice as his mother had. So she hastened to a smith and said to him: \"Smith, smith make me just such a thin little voice as Ivashko's mother has: if you don't, I'll eat you.\" So the smith forged her a little voice just like Ivashko's mother's. Then the witch went down by night to the shore and sang: Ivashechko, Ivashechko, my boy, Float up, float up, unto the waterside; I bring thee food and drink.",
+   "event_refs": [
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "550",
+    "606",
+    "607",
+    "608",
+    "609",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614",
+    "615",
+    "616",
+    "617",
+    "618",
+    "619",
+    "620",
+    "621",
+    "622",
+    "623",
+    "624",
+    "625",
+    "626",
+    "627",
+    "628",
+    "629",
+    "630",
+    "631",
+    "632",
+    "633",
+    "634",
+    "635",
+    "636",
+    "637",
+    "638",
+    "639",
+    "640",
+    "641",
+    "642"
+   ]
+  },
+  {
+   "code": "theta2",
+   "name": "Complicity",
+   "canonical_order": 7,
+   "off": 3107,
+   "important_verb": "came",
+   "event_refs": [
+    "644"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 3140,
+   "important_verb": "seized the boy and carried",
+   "event_refs": [
+    "653",
+    "657"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 3159,
+   "important_verb": "carried",
+   "event_refs": [
+    "657"
+   ]
+  },
+  {
+   "code": "D8",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 3396,
+   "important_verb": "said",
+   "event_refs": [
+    "712"
+   ]
+  },
+  {
+   "code": "E8",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 3725,
+   "important_verb": "pitched",
+   "event_refs": [
+    "795"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 3795,
+   "important_verb": "ran out of the hut, shut the door, and hurriedly climbed",
+   "event_refs": [
+    "811",
+    "823"
+   ]
+  },
+  {
+   "code": "Pr7",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 5051,
+   "important_verb": "gnaw away at it. And she gnawed, and gnawed, and gnawed, until at last she smashed two front teeth. Then she ran to a forge, and when she reached it she cried, \"Smith, smith! make me some iron teeth; if you don't I'll eat you!\" So the smith forged her two iron teeth. The witch returned and began gnawing the oak again. She gnawed, and gnawed, and was just on the point of gnawing it through, when Ivashko jumped out of it into another tree which stood beside it. The oak that the witch had gnawed",
+   "event_refs": [
+    "1108",
+    "1115",
+    "1118",
+    "1121",
+    "1188",
+    "1191",
+    "1200",
+    "1224"
+   ]
+  },
+  {
+   "code": "Rs10",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 5463,
+   "important_verb": "jumped out",
+   "event_refs": [
+    "1206",
+    "1207"
+   ]
+  },
+  {
+   "code": "Pr7",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 5717,
+   "important_verb": "gnaw that tree also. She gnawed, and gnawed, and gnawed - broke two lower teeth, and ran off to the forge. Smith, smith!\" she cried when she got there, \"make me some iron teeth; if you don't I'll eat you!\" The smith forged two more iron teeth for her. She went back again, and once more began to gnaw",
+   "event_refs": [
+    "1259",
+    "1265",
+    "1268",
+    "1271",
+    "1334"
+   ]
+  },
+  {
+   "code": "Rs1",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 6994,
+   "important_verb": "carried",
+   "event_refs": [
+    "1570"
+   ]
+  }
+ ],
+ "10_The_Seven_Simeons": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 172,
+   "important_verb": "Once, in a far away land, there was a man who had seven sons - all by the name of Simeon. They were seven lazy, good-for-nothing loafers. The laziest sons anyone ever had anywhere! They never did a single useful thing. This was unbearable for their father. Eventually, it got to the point that he simply brought all seven Simeons to the czar and enlisted them in his service. The czar was grateful to the father for bringing him so many fine, able men. He asked the father about their skills, \"What do they know how to do?\" \"Ask them yourself, your royal majesty,\" their father said. Accordingly, the czar summoned the oldest Simeon and asked him, \"What is your trade?\" \"Thievery, your royal majesty.\" \"Hmm, you will probably be valuable to me at some point.\" He called in the second, \"And what about you?\" \"I'm an artisan; I can make anything valuable.\" \"You will also be useful.\" He called in the third Simeon, asking: \"And what can you do?\" \"I can shoot any bird - even in flight, your royal majesty.\" \"Great!\" said the czar. He asks the fourth, \"And you?\" \"If a marksman shoots a bird, I will retrieve it, better than any dog.\" \"Fine!\" \"And what are you proficient at?\" he asked the fifth. \"From a vantage point, I can see and then relate all that is happening in any part of the kingdom.\" \"Sounds great!\" After the fifth Simeon, he questioned the sixth. \"I'm very good at building boats; for me it's 'slam-bam,' and I've built a boat.\" \"Good.\" Then asking the seventh, \"And what do you do?\" \"I am a healer.\" \"Sounds good.\" said the czar. Then he dismissed them all. After some time passed, the czar remembering the seven Simeons, decided to put one of their skills to use. The king asked the fifth Simeon, \"Okay, Simeon, will you find out what is going on in various places?\" Simeon climbed to a high place, looked around and related, \"Here such-and-such is happening, and there, such-and-such.\" They checked his statements with the newspapers and found he was exactly right!",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135",
+    "136",
+    "137",
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144",
+    "145",
+    "146",
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "152",
+    "153",
+    "154",
+    "155",
+    "156",
+    "157",
+    "158",
+    "159",
+    "160",
+    "161",
+    "162",
+    "163",
+    "164",
+    "165",
+    "166",
+    "167",
+    "168",
+    "169",
+    "170",
+    "171",
+    "172",
+    "173",
+    "174",
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "189",
+    "190",
+    "191",
+    "192",
+    "193",
+    "194",
+    "195",
+    "196",
+    "197",
+    "198",
+    "199",
+    "200",
+    "201",
+    "202",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "214",
+    "215",
+    "216",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "222",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "240",
+    "241",
+    "242",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "250",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "256",
+    "257",
+    "258",
+    "259",
+    "260",
+    "261",
+    "262",
+    "263",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "269",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "280",
+    "281",
+    "282",
+    "283",
+    "284",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "293",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "303",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "309",
+    "310",
+    "311",
+    "312",
+    "313",
+    "314",
+    "315",
+    "316",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "327",
+    "328",
+    "329",
+    "330",
+    "331",
+    "332",
+    "333",
+    "334",
+    "335",
+    "336",
+    "337",
+    "338",
+    "339",
+    "340",
+    "341",
+    "342",
+    "343",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "351",
+    "352",
+    "353",
+    "354",
+    "355",
+    "356",
+    "357",
+    "358",
+    "359",
+    "360",
+    "361",
+    "362",
+    "363",
+    "364",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "378",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "384",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "391",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "398",
+    "399",
+    "400",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "409",
+    "410",
+    "411",
+    "412",
+    "413",
+    "414",
+    "415",
+    "416",
+    "417",
+    "418",
+    "419",
+    "420",
+    "421",
+    "422",
+    "423",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "430",
+    "431",
+    "432",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "446",
+    "447",
+    "448",
+    "449",
+    "450",
+    "451",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "461",
+    "462",
+    "463",
+    "464",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "473",
+    "474",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "480",
+    "481",
+    "482"
+   ]
+  },
+  {
+   "code": "a1",
+   "name": "Lack",
+   "canonical_order": 8,
+   "off": 2242,
+   "important_verb": "decided",
+   "event_refs": [
+    "491"
+   ]
+  },
+  {
+   "code": "B2",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 2433,
+   "important_verb": "commissioned",
+   "event_refs": [
+    "533"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 2534,
+   "important_verb": "convened",
+   "event_refs": [
+    "550"
+   ]
+  },
+  {
+   "code": "F3",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 2582,
+   "important_verb": "built",
+   "event_refs": [
+    "559"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 2608,
+   "important_verb": "sailed off",
+   "event_refs": [
+    "565",
+    "566"
+   ]
+  },
+  {
+   "code": "G2",
+   "name": "Spatial transference",
+   "canonical_order": 15,
+   "off": 2782,
+   "important_verb": "went",
+   "event_refs": [
+    "598"
+   ]
+  },
+  {
+   "code": "K2",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 2886,
+   "important_verb": "stole",
+   "event_refs": [
+    "620"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 3426,
+   "important_verb": "return",
+   "event_refs": [
+    "727"
+   ]
+  }
+ ],
+ "11_Ivan_Popyalov": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 344,
+   "important_verb": "Once upon a time there was an old couple, and they had three Sons. Two of these had their wits about them, but the third was a simpleton, Ivan by name, surnamed Popyalof. For twelve whole years Ivan lay among the ashes from the stove; but then he arose, and shook himself, so that six poods of ashes fell off from him.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74"
+   ]
+  },
+  {
+   "code": "A4",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 710,
+   "important_verb": "was",
+   "event_refs": [
+    "84"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 785,
+   "important_verb": "undertook",
+   "event_refs": [
+    "103"
+   ]
+  },
+  {
+   "code": "F3",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 1679,
+   "important_verb": "make",
+   "event_refs": [
+    "312"
+   ]
+  },
+  {
+   "code": "H1",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 2906,
+   "important_verb": "they began to fight. And Ivan killed the Snake, and then sat down again beneath the boarding. Presently there came another Snake, a six-headed one, and him, too, Ivan killed. And then there came a third, which had twelve heads. Well, Ivan began to fight",
+   "event_refs": [
+    "649"
+   ]
+  },
+  {
+   "code": "I1",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 2936,
+   "important_verb": "killed the Snake, and then sat down again beneath the boarding. Presently there came another Snake, a six-headed one, and him, too, Ivan killed. And then there came a third, which had twelve heads. Well, Ivan began to fight with him, and lopped off nine of his heads. The Snake had no strength left in him. Just then a raven came flying by, and it croaked: \"Krof? Krof!\" Then the Snake cried to the Raven, \"Fly, and tell my wife to come and devour Ivan Popyalof.\" But Ivan cried: \"Fly, and tell my brothers to come, and then we will kill this Snake, and give his flesh to thee.\" And the Raven gave ear to what Ivan said, and flew to his brothers and began to croak above their heads. The brothers awoke, and when they heard the cry of the Raven, they hastened to their brother's aid. And they killed",
+   "event_refs": [
+    "788"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 3859,
+   "important_verb": "was",
+   "event_refs": [
+    "812"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 3961,
+   "important_verb": "set off",
+   "event_refs": [
+    "830",
+    "831"
+   ]
+  },
+  {
+   "code": "Pr4",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 4582,
+   "important_verb": "saw before them a green meadow, and on that meadow lay silken cushions. Then the elder brothers said, \"Let's turn out our horses to graze here, while we rest ourselves a little.\" But Ivan said, \"Wait a minute, brothers!\" and he seized his mace, and struck the cushions with it. And out of those cushions there streamed blood. So they all went on further. They rode and rode; presently there stood before them an apple-tree, and upon it were gold and silver apples. Then the elder brothers said. \"Let's eat an apple apiece.\" But Ivan said, \"Wait a minute, brothers; I'll try them first,\" and he took his mace, and struck the apple- tree with it. And out of the tree streamed blood. So they went on further. They rode and rode, and by and by they saw",
+   "event_refs": [
+    "1142"
+   ]
+  },
+  {
+   "code": "Rs7",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 4834,
+   "important_verb": "struck the cushions with it. And out of those cushions there streamed blood. So they all went on further. They rode and rode; presently there stood before them an apple-tree, and upon it were gold and silver apples. Then the elder brothers said. \"Let's eat an apple apiece.\" But Ivan said, \"Wait a minute, brothers; I'll try them first,\" and he took his mace, and struck the apple- tree with it. And out of the tree streamed blood. So they went on further. They rode and rode, and by and by they saw a spring in front of them. And the elder brothers cried, \"Let's have a drink of water.\" But Ivan Popyalof cried: \"Stop, brothers!\" and he raised his mace and struck the spring, and its waters became blood. For the meadow, the silken cushions, the apple-tree, and the spring, were all of them daughters of the Snake. After killing",
+   "event_refs": [
+    "1218"
+   ]
+  },
+  {
+   "code": "Pr1",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 5751,
+   "important_verb": "came",
+   "event_refs": [
+    "1233"
+   ]
+  },
+  {
+   "code": "Rs5",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 6187,
+   "important_verb": "hid",
+   "event_refs": [
+    "1329"
+   ]
+  }
+ ],
+ "12_The_Serpent_and_the_Gypsy": [
+  {
+   "code": "A17",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 298,
+   "important_verb": "devoured",
+   "event_refs": [
+    "18"
+   ]
+  },
+  {
+   "code": "B4",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 652,
+   "important_verb": "\"",
+   "event_refs": [
+    "101"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 902,
+   "important_verb": "\"",
+   "event_refs": [
+    "157"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 1028,
+   "important_verb": "spent",
+   "event_refs": [
+    "189"
+   ]
+  },
+  {
+   "code": "H2",
+   "name": "Struggle",
+   "canonical_order": 16,
+   "off": 1644,
+   "important_verb": "grabbed a millstone. \"Look at this, gypsy! I will crush this stone with only one hand.\" \"Fine! I'll watch.\" The serpent grabbed the stone with the palm of his hand and squeezed it so tightly that it turned into fine sand - a cloud of dust arose from his fist. \"What a wonder,\" said the gypsy, \"but try gripping a rock so hard that water comes out of it. Watch how I squeeze!\" There was a chunk of cheese curd on the table, the gypsy grabbed it and really gave it a squeeze. Whey dripped out onto the ground. \"Well, did you see that? So who's stronger?\" \"True, your hand is stronger than my own. Let's see who can whistle the loudest.\" \"Well, whistle!\" The serpent whistled so loudly that leaves fell from all the trees. \"You whistle very well, brother, but still not as well as I,\" said the gypsy. \"First, you had better protect your eyeballs, or else they'll pop right out of your head!\" The serpent believed it and covered his eyes with a scarf. \"Okay, go ahead and whistle.\" The gypsy grabbed a club and as he whistled he thumped the serpent, who yelled at the top of his voice, \"That's enough! That's enough, gypsy! Don't whistle anymore! In one go, my eyes have almost come right out.\" \"Alright, however, I am quite prepared to whistle some more.\" \"No, no, you don't need to do that. I don't want to argue with you anymore. Better yet, let's become brothers. You be the older brother, and I'll be the younger.\" \"Agreed!\" \"Well, brother,\" said the serpent, \"if you please, out there in the meadow a herd of oxen is grazing. Pick out the fattest, grab it by the tail and drag it back for lunch.\" There was nothing to be done - the gypsy went to the meadow. He saw a large herd of oxen grazing. He started to tie them together by their tails. The serpent waited and waited and couldn't wait any longer. He ran out to the meadow to see what was going on. \"What is taking so long?\" \"Just wait a little longer. I'm tying together around fifty of these. Then in one trip I can drag them all back home so that we'll have enough for a whole month!\" \"Oh, you! Why do we need to spend our whole lives here? One is enough.\" Then the serpent grabbed the biggest oxen by the tale, ripped off the hide, shouldered the meat and dragged it home. \"Brother, what about all the animals I tied together? We're not going to just leave them?\" \"Forget them.\" They returned to the hut, and set up two cauldrons for the beef, but there was no water. \"Here, take this ox-hide,\" said the serpent to the gypsy, \"if you please, fill this up with water and carry it back here. We'll start boiling our lunch.\" The gypsy grabbed the hide and dragged it to the well. Completely empty he could barely drag it, to say nothing of it when filled with water. He got to the well and started to dig a deep trench around it. The serpent again waited and waited and couldn't wait any longer. He ran out to see for himself what was taking so long. \"What are you doing, brother?\" \"I want to dig all the way around the well and then drag the whole well back to the hut, so that you won't have to go out for water anymore.\" \"Oh, you! You're trying to do too much. To dig out the well would take a long time.\" The serpent dropped the hide into the well, filled it with water, dragged it out and carried it home. \"Brother,\" he said to the gypsy, \"go into the forest. Choose a dry oak and pull it to the hut. It's time to start a fire!\" The gypsy went into the forest and pulled out bark fiber to twist into a rope. He braided an extremely long rope and set to wrapping up the oak trees. The serpent waited and waited and couldn't wait any longer. He ran out to see for himself what was taking so long. \"Why are you dilly-dallying?\" \"Well, I want to bring in twenty oaks at once by tying them together and then dragging them in, roots and all, so that you will have firewood for a long time!\" \"Oh, you! You do everything your own way,\" said the serpent, then he ripped out the widest oak with its roots and dragged",
+   "event_refs": [
+    "1167",
+    "1312"
+   ]
+  },
+  {
+   "code": "I2",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 2219,
+   "important_verb": "\"True, your hand is stronger than my own. Let's see who can whistle the loudest.\" \"Well, whistle!\" The serpent whistled so loudly that leaves fell from all the trees. \"You whistle very well, brother, but still not as well as I,\" said the gypsy. \"First, you had better protect your eyeballs, or else they'll pop right out of your head!\" The serpent believed it and covered his eyes with a scarf. \"Okay, go ahead and whistle.\" The gypsy grabbed a club and as he whistled he thumped the serpent, who yelled at the top of his voice, \"That's enough! That's enough, gypsy! Don't whistle anymore! In one go, my eyes have almost come right out.\" \"Alright, however, I am quite prepared to whistle some more.\" \"No, no, you don't need to do that. I don't want to argue with you anymore. Better yet, let's become brothers. You be the older brother, and I'll be the younger.\" \"Agreed!\" \"Well, brother,\" said the serpent, \"if you please, out there in the meadow a herd of oxen is grazing. Pick out the fattest, grab it by the tail and drag it back for lunch.\" There was nothing to be done - the gypsy went to the meadow. He saw a large herd of oxen grazing. He started to tie them together by their tails. The serpent waited and waited and couldn't wait any longer. He ran out to the meadow to see what was going on. \"What is taking so long?\" \"Just wait a little longer. I'm tying together around fifty of these. Then in one trip I can drag them all back home so that we'll have enough for a whole month!\" \"Oh, you! Why do we need to spend our whole lives here? One is enough.\" Then the serpent grabbed the biggest oxen by the tale, ripped off the hide, shouldered the meat and dragged it home. \"Brother, what about all the animals I tied together? We're not going to just leave them?\" \"Forget them.\" They returned to the hut, and set up two cauldrons for the beef, but there was no water. \"Here, take this ox-hide,\" said the serpent to the gypsy, \"if you please, fill this up with water and carry it back here. We'll start boiling our lunch.\" The gypsy grabbed the hide and dragged it to the well. Completely empty he could barely drag it, to say nothing of it when filled with water. He got to the well and started to dig a deep trench around it. The serpent again waited and waited and couldn't wait any longer. He ran out to see for himself what was taking so long. \"What are you doing, brother?\" \"I want to dig all the way around the well and then drag the whole well back to the hut, so that you won't have to go out for water anymore.\" \"Oh, you! You're trying to do too much. To dig out the well would take a long time.\" The serpent dropped the hide into the well, filled it with water, dragged it out and carried it home. \"Brother,\" he said to the gypsy, \"go into the forest. Choose a dry oak and pull it to the hut. It's time to start a fire!\" The gypsy went into the forest and pulled out bark fiber to twist into a rope. He braided an extremely long rope and set to wrapping up the oak trees. The serpent waited and waited and couldn't wait any longer. He ran out to see for himself what was taking so long. \"Why are you dilly-dallying?\" \"Well, I want to bring in twenty oaks at once by tying them together and then dragging them in, roots and all, so that you will have firewood for a long time!\" \"Oh, you! You do everything your own way,\" said the serpent, then he ripped out the widest oak with its roots and dragged",
+   "event_refs": [
+    "1312"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 6426,
+   "important_verb": "left",
+   "event_refs": [
+    "1476"
+   ]
+  },
+  {
+   "code": "I2,6",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 6894,
+   "important_verb": "ran away",
+   "event_refs": [
+    "1573",
+    "1574"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 6894,
+   "important_verb": "ran away",
+   "event_refs": [
+    "1573",
+    "1574"
+   ]
+  },
+  {
+   "code": "w0",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 6917,
+   "important_verb": "sold",
+   "event_refs": [
+    "1578"
+   ]
+  }
+ ],
+ "13_Prince_Danila_Govorila": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 358,
+   "important_verb": "There was once an old princess; she had a son and a daughter, both well built, both handsome.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+   ]
+  },
+  {
+   "code": "A15(xvi)",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 655,
+   "important_verb": "said",
+   "event_refs": [
+    "67"
+   ]
+  },
+  {
+   "code": "d7",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 2175,
+   "important_verb": "passed by",
+   "event_refs": [
+    "426",
+    "427"
+   ]
+  },
+  {
+   "code": "E7",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 2190,
+   "important_verb": "invited them in and offered",
+   "event_refs": [
+    "430",
+    "434"
+   ]
+  },
+  {
+   "code": "F3,2",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 2412,
+   "important_verb": "Make",
+   "event_refs": [
+    "486"
+   ]
+  },
+  {
+   "code": "Pr",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 2685,
+   "important_verb": "said: \"Sister Catherine, come to the featherbed.\" She answered: \"I will come in a minute, only let me remove my earrings.\" And the dolls in the four corners cried like cuckoos: Cuckoo, Prince Danila, Cuckoo, Govorila, Cuckoo, he takes his sister, Cuckoo, for a wife, Cuckoo, earth open wide, Cuckoo, sister, fall inside! The earth began to open, the sister began to fall in. Her brother cried: \"Sister Catherine, come to the featherbed!\" \"Just a minute, my brother, let me unclasp my girdle.\" The dolls cuckooed: Cuckoo, Prince Danila, Cuckoo, Govorila, Cuckoo, he takes his sister, Cuckoo, for a wife, Cuckoo, earth open wide, Cuckoo, sister, fall inside! Only the sister's head was still above ground. The brother called",
+   "event_refs": [
+    "550",
+    "642",
+    "720"
+   ]
+  },
+  {
+   "code": "Rs4",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 3558,
+   "important_verb": "vanished",
+   "event_refs": [
+    "755"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 3957,
+   "important_verb": "walked",
+   "event_refs": [
+    "848"
+   ]
+  },
+  {
+   "code": "D8",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 6978,
+   "important_verb": "shove",
+   "event_refs": [
+    "1533"
+   ]
+  },
+  {
+   "code": "E8",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 7290,
+   "important_verb": "shoved her into the stove, locked her in, covered her up with logs, plastered and tarred",
+   "event_refs": [
+    "1606",
+    "1612",
+    "1616",
+    "1622",
+    "1624"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 7402,
+   "important_verb": "ran away",
+   "event_refs": [
+    "1630",
+    "1631"
+   ]
+  },
+  {
+   "code": "F8",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 7412,
+   "important_verb": "taking",
+   "event_refs": [
+    "1633"
+   ]
+  },
+  {
+   "code": "Pr1",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 7566,
+   "important_verb": "caught sight of them, and was hissing: \"Hey, hey, hey, are you there?\" What could they do? They threw down the brush and there appeared a marsh thickly overgrown with reeds. The witch could not crawl through it, but she opened her claws, plucked out a path, and again came close. Where could they go? They threw down the comb, and there appeared a dark, thick forest: not even a fly could fly through it. The witch sharpened her teeth and set to work: each time she clamped her teeth she bit off a tree by its roots. She hurled the trees to one side, cleared a path, and again came",
+   "event_refs": [
+    "1664",
+    "1665",
+    "1726",
+    "1797"
+   ]
+  },
+  {
+   "code": "Rs2",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 7664,
+   "important_verb": "threw down the brush and there appeared a marsh thickly overgrown with reeds. The witch could not crawl through it, but she opened her claws, plucked out a path, and again came close. Where could they go? They threw down the comb, and there appeared a dark, thick forest: not even a fly could fly through it. The witch sharpened her teeth and set to work: each time she clamped her teeth she bit off a tree by its roots. She hurled the trees to one side, cleared a path, and again came close - very close. The maidens ran and ran till they could run no longer; they had lost all their strength. They threw",
+   "event_refs": [
+    "1691",
+    "1735",
+    "1823"
+   ]
+  },
+  {
+   "code": "o",
+   "name": "Unrecognized arrival",
+   "canonical_order": 23,
+   "off": 8839,
+   "important_verb": "said",
+   "event_refs": [
+    "1948"
+   ]
+  },
+  {
+   "code": "Q",
+   "name": "Recognition",
+   "canonical_order": 27,
+   "off": 9621,
+   "important_verb": "embrace",
+   "event_refs": [
+    "2127"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 9754,
+   "important_verb": "married her to a good man; and he himself married",
+   "event_refs": [
+    "2158",
+    "2168"
+   ]
+  }
+ ],
+ "14_The_Merchant's_Daughter_and_the_Maidservant": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 379,
+   "important_verb": "There was once a very wealthy merchant who had a marvelously beautiful daughter.",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16"
+   ]
+  },
+  {
+   "code": "A6",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 1469,
+   "important_verb": "cut out",
+   "event_refs": [
+    "238",
+    "239"
+   ]
+  },
+  {
+   "code": "o",
+   "name": "Unrecognized arrival",
+   "canonical_order": 23,
+   "off": 2240,
+   "important_verb": "took",
+   "event_refs": [
+    "421"
+   ]
+  },
+  {
+   "code": "F3,4",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 2733,
+   "important_verb": "sew a royal crown of velvet and silk; she embroidered such a beautiful crown that it was a pleasure to behold it. Next morning the blind maiden roused the old man and said: \"Go and take this to the king, and for payment accept only an eye. And fear not, no matter what they do to you.\" The old man went to the palace with the crown. Everyone admired it and wanted to buy it from him, but the old man asked for an eye in payment. Straightway the king was told that he was asking for an eye. The king came out, was delighted with the crown, and began to bargain for it, but the old man still asked for an eye. The king began to curse and threatened to put him in prison; but no matter what the king said, the old man held his ground. Then the king cried to his guards: \"Go and cut out an eye from a captive soldier.\" Just then his wife, the queen, rushed out, took an eye from her pocket, and gave it to the king. The king was overjoyed. \"Ah, you have helped me out, little queen !\" he said, and gave the eye to the old man, who took it, left the palace, and returned to his hut. The blind maiden asked him: \"Did you get my eye, little grandfather?\" He said: \"I did.\" She took it from him, went outside at twilight, spat upon it, put it into its socket, and was able to see once more. Then again she sent the old man to the shops, giving him money, and asked him to pay what he owed for the silk and velvet and to bring more velvet and gold thread. He got what he needed from the poor shopkeeper and brought these things to the merchant's daughter. She sat down to sew",
+   "event_refs": [
+    "538",
+    "548",
+    "910"
+   ]
+  },
+  {
+   "code": "K3",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 4019,
+   "important_verb": "see once more. Then again she sent the old man to the shops, giving him money, and asked him to pay what he owed for the silk and velvet and to bring more velvet and gold thread. He got what he needed from the poor shopkeeper and brought these things to the merchant's daughter. She sat down to sew another crown, finished it, and sent the old man to the same king. \"Do not take anything,\" she told him, \"but an eye. And if you are asked where you got this crown, answer only: 'God gave it to me.'\" The old man came to the palace. There everyone was amazed, for although the first crown was beautiful, the second was even lovelier. The king said: \"I will buy it from you at any price.\" \"Give me an eye,\" said the old man. The king at once ordered a guard to cut away an eye from a prisoner; but his wife again gave him an eye. The king was overjoyed and thanked her, saying: \"Ah, little mother, you have been a great help to me!\" The king asked the old man: \"Where do you get these crowns?\" He answered: \"God gives them to me.\" And he left the palace. He came to his hut and gave the eye to the blind maiden. She again went outside at twilight, spat on the eye, put it in its socket, and could see",
+   "event_refs": [
+    "846",
+    "1139"
+   ]
+  },
+  {
+   "code": "T2",
+   "name": "Transfiguration",
+   "canonical_order": 29,
+   "off": 5317,
+   "important_verb": "found",
+   "event_refs": [
+    "1158"
+   ]
+  },
+  {
+   "code": "Pr6",
+   "name": "Pursuit",
+   "canonical_order": 21,
+   "off": 7037,
+   "important_verb": "cut",
+   "event_refs": [
+    "1556"
+   ]
+  },
+  {
+   "code": "Rs6",
+   "name": "Rescue",
+   "canonical_order": 22,
+   "off": 8036,
+   "important_verb": "turned",
+   "event_refs": [
+    "1792"
+   ]
+  },
+  {
+   "code": "Q",
+   "name": "Recognition",
+   "canonical_order": 27,
+   "off": 8965,
+   "important_verb": "saw",
+   "event_refs": [
+    "2012"
+   ]
+  },
+  {
+   "code": "Ex",
+   "name": "Exposure",
+   "canonical_order": 28,
+   "off": 9016,
+   "important_verb": "\"",
+   "event_refs": [
+    "2024"
+   ]
+  },
+  {
+   "code": "U",
+   "name": "Punishment",
+   "canonical_order": 30,
+   "off": 9431,
+   "important_verb": "cut out, she was tied to a horse, and dragged to her death",
+   "event_refs": [
+    "2126",
+    "2127",
+    "2140"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 9534,
+   "important_verb": "live",
+   "event_refs": [
+    "2151"
+   ]
+  }
+ ],
+ "15_Dawn,_Evening_and_Midnight": [
+  {
+   "code": "alpha",
+   "name": "Initial situation",
+   "canonical_order": 0,
+   "off": 362,
+   "important_verb": "In a certain kingdom there was a king who had three daughters of surpassing beauty. The king guarded them more carefully than his most precious treasure; he built underground chambers and kept his daughters there like birds in a cage, so that rough winds could not blow upon them nor the red sun scorch them with his rays. One day the princesses read in a certain book that there was a marvelous bright world, and when the king came to visit them, they straightway began to implore him with tears in their eyes, saying: \"Sovereign, our father, let us out to see the bright world and walk in the green garden.\"",
+   "event_refs": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "96",
+    "97",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126"
+   ]
+  },
+  {
+   "code": "gamma1",
+   "name": "Interdiction",
+   "canonical_order": 2,
+   "off": 979,
+   "important_verb": "The king tried to dissuade them",
+   "event_refs": [
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132"
+   ]
+  },
+  {
+   "code": "delta",
+   "name": "Violation",
+   "canonical_order": 3,
+   "off": 1029,
+   "important_verb": "They would not even listen to him",
+   "event_refs": [
+    "138",
+    "139",
+    "140",
+    "141",
+    "142",
+    "143",
+    "144"
+   ]
+  },
+  {
+   "code": "beta3",
+   "name": "Absentation",
+   "canonical_order": 1,
+   "off": 1206,
+   "important_verb": "the beautiful princesses went out to walk in the garden",
+   "event_refs": [
+    "175",
+    "176",
+    "177",
+    "178",
+    "179",
+    "180",
+    "181",
+    "182",
+    "183",
+    "184"
+   ]
+  },
+  {
+   "code": "A1",
+   "name": "Villainy",
+   "canonical_order": 8,
+   "off": 1463,
+   "important_verb": "seized them and carried",
+   "event_refs": [
+    "226",
+    "229"
+   ]
+  },
+  {
+   "code": "B1",
+   "name": "Mediation",
+   "canonical_order": 9,
+   "off": 2811,
+   "important_verb": "reached",
+   "event_refs": [
+    "498"
+   ]
+  },
+  {
+   "code": "C",
+   "name": "Beginning counteraction",
+   "canonical_order": 10,
+   "off": 2842,
+   "important_verb": "asked",
+   "event_refs": [
+    "503"
+   ]
+  },
+  {
+   "code": "up",
+   "name": "Departure",
+   "canonical_order": 11,
+   "off": 3546,
+   "important_verb": "set out",
+   "event_refs": [
+    "669",
+    "670"
+   ]
+  },
+  {
+   "code": "D9",
+   "name": "First donor function",
+   "canonical_order": 12,
+   "off": 4936,
+   "important_verb": "beat Evening on the head with it; he beat him till he was half dead and threw him under the bench. Then the little old man ate the roasted ram and went into the woods. Evening tied a rag around his head and lay moaning. The brothers returned and asked him: \"What is the matter with you?\" \"Eh, brothers, I made a fire in the stove, but because of the great heat I got a headache; I lay all day like one dazed, I could neither cook nor roast!\" Next day Dawn and Evening went hunting, and Midnight was left at home to prepare the dinner. Midnight made a fire, chose the fattest ram, slaughtered it, and put it in the oven; then he lay on the bench. Suddenly there was a rumbling noise, and the old man as big as a thumb, with a beard a cubit long, came in and began to beat and thrash him; he almost beat him to death. Then he ate the roasted ram and went into the woods. Midnight tied up his head with a handkerchief and lay under the bench and moaned. The brothers returned. \"What is the matter with you?\" Dawn asked him. \"I have a headache from the fumes of the stove, brothers, and I have not prepared your dinner.\" On the third day the two elder brothers went hunting and Dawn stayed at home; he chose the best ram, slaughtered and cleaned it, and put it on to roast. Then he lay on the bench. Suddenly there was a rumbling noise - and he saw the old man as big as a thumb, with a beard a cubit long, carrying a whole hayrick on his head and holding a huge cask of water in his hand. The little old man put down the cask of water, spread the hay over the yard, and began to count his sheep. He saw that another ram was missing, grew angry, ran to the house, jumped at Dawn, and hit him on the head with all his strength; Dawn jumped up, grabbed the little old man by his long beard, and began to drag him around, repeating: \"Look before you leap, look before you leap!\" The old man as big as a thumb, with a beard a cubit long, began to implore him: \"Have pity on me, mighty champion, do not put me to death, let my soul repent!\" Dawn dragged",
+   "event_refs": [
+    "1379",
+    "1406",
+    "1468"
+   ]
+  },
+  {
+   "code": "E9",
+   "name": "Hero's reaction",
+   "canonical_order": 13,
+   "off": 7064,
+   "important_verb": "fastened",
+   "event_refs": [
+    "1483"
+   ]
+  },
+  {
+   "code": "G6",
+   "name": "Spatial transference",
+   "canonical_order": 15,
+   "off": 7572,
+   "important_verb": "Following",
+   "event_refs": [
+    "1594"
+   ]
+  },
+  {
+   "code": "F7",
+   "name": "Receipt of magical agent",
+   "canonical_order": 14,
+   "off": 8292,
+   "important_verb": "handed",
+   "event_refs": [
+    "1751"
+   ]
+  },
+  {
+   "code": "I5",
+   "name": "Victory",
+   "canonical_order": 18,
+   "off": 9367,
+   "important_verb": "cut off all of the dragon's three heads; then he made a bonfire, burned the foul dragon and scattered his ashes in the open field. \"Now farewell, princess! I am going to seek your sisters; and when I have found them I shall come back for you,\" said Dawn, and set out. He walked and walked, and came to a silver castle; in that castle lived the second princess. Dawn killed a six-headed dragon there and went on. After a long time or a short time, he reached a golden castle, and in that castle lived the eldest princess; Dawn killed",
+   "event_refs": [
+    "2116"
+   ]
+  },
+  {
+   "code": "K4",
+   "name": "Liquidation of lack",
+   "canonical_order": 19,
+   "off": 9935,
+   "important_verb": "freed",
+   "event_refs": [
+    "2121"
+   ]
+  },
+  {
+   "code": "down",
+   "name": "Return",
+   "canonical_order": 20,
+   "off": 10445,
+   "important_verb": "came",
+   "event_refs": [
+    "2225"
+   ]
+  },
+  {
+   "code": "W*",
+   "name": "Wedding",
+   "canonical_order": 31,
+   "off": 10682,
+   "important_verb": "married",
+   "event_refs": [
+    "2271"
+   ]
+  }
+ ]
+}

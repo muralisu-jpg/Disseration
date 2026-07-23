@@ -1,0 +1,113 @@
+{
+ "n_gold_pairs": 2043,
+ "n_predicted": 2043,
+ "coverage": 1.0,
+ "three_way_accuracy": 0.8478,
+ "three_way_macro_f1": 0.7733,
+ "three_way_per_class": {
+  "before": {
+   "precision": 0.853,
+   "recall": 0.948,
+   "f1": 0.898,
+   "support": 1381
+  },
+  "after": {
+   "precision": 0.676,
+   "recall": 0.719,
+   "f1": 0.697,
+   "support": 32
+  },
+  "overlap": {
+   "precision": 0.844,
+   "recall": 0.635,
+   "f1": 0.725,
+   "support": 630
+  }
+ },
+ "fine_macro_f1": 0.4153,
+ "fine_per_relation": {
+  "AFTER": {
+   "precision": 0.759,
+   "recall": 0.71,
+   "f1": 0.733,
+   "support": 31
+  },
+  "BEFORE": {
+   "precision": 0.641,
+   "recall": 0.818,
+   "f1": 0.719,
+   "support": 1022
+  },
+  "BEGINS": {
+   "precision": 0.163,
+   "recall": 0.14,
+   "f1": 0.151,
+   "support": 50
+  },
+  "BEGUN_BY": {
+   "precision": 0.333,
+   "recall": 0.5,
+   "f1": 0.4,
+   "support": 6
+  },
+  "ENDED_BY": {
+   "precision": 0.417,
+   "recall": 0.104,
+   "f1": 0.167,
+   "support": 48
+  },
+  "ENDS": {
+   "precision": 0.667,
+   "recall": 0.667,
+   "f1": 0.667,
+   "support": 3
+  },
+  "IAFTER": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 1
+  },
+  "IBEFORE": {
+   "precision": 0.307,
+   "recall": 0.198,
+   "f1": 0.241,
+   "support": 359
+  },
+  "IDENTITY": {
+   "precision": 0.948,
+   "recall": 0.441,
+   "f1": 0.602,
+   "support": 247
+  },
+  "INCLUDES": {
+   "precision": 0.354,
+   "recall": 0.365,
+   "f1": 0.359,
+   "support": 96
+  },
+  "IS_INCLUDED": {
+   "precision": 0.5,
+   "recall": 0.558,
+   "f1": 0.527,
+   "support": 43
+  },
+  "SIMULTANEOUS": {
+   "precision": 0.407,
+   "recall": 0.431,
+   "f1": 0.418,
+   "support": 137
+  }
+ },
+ "prediction_distribution_3way": {
+  "overlap": 474,
+  "before": 1535,
+  "after": 34
+ },
+ "primary_metric": "three_way_accuracy",
+ "baselines": {
+  "majority_three_way_accuracy": 0.676,
+  "majority_three_way_macro_f1": 0.269,
+  "sota_three_way_accuracy": 0.77
+ }
+}

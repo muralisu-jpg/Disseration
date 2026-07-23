@@ -1,0 +1,1331 @@
+{
+  "predictions": [
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 500,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 559,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to \nwet",
+        "off": 559,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll give",
+        "off": 1358,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will \nbe",
+        "off": 1663,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll try",
+        "off": 1717,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had done",
+        "off": 1794,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 1798,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 1788,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 1798,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll be",
+        "off": 2160,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll be",
+        "off": 2263,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll stay",
+        "off": 2311,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll get",
+        "off": 2355,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll drive",
+        "off": 2411,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "if you'll",
+        "off": 2305,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 2305,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "'ll",
+        "off": 2311,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should he",
+        "off": 2469,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "took",
+        "off": 2495,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "wanted",
+        "off": 2538,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 2538,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to eat",
+        "off": 2538,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll get",
+        "off": 3091,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will you",
+        "off": 3282,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 3338,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could I",
+        "off": 3343,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had been",
+        "off": 3605,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "given",
+        "off": 3614,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had been",
+        "off": 3652,
+        "construction": "P1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had been",
+        "off": 3726,
+        "construction": "P1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll run",
+        "off": 4016,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If I \ngo back to the regiment, they'll",
+        "off": 3981,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 3981,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "go",
+        "off": 3987,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll make",
+        "off": 4337,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would be",
+        "off": 4415,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll be",
+        "off": 4639,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to torment",
+        "off": 4768,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had just one",
+        "off": 4908,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "become",
+        "off": 4930,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "taken",
+        "off": 5115,
+        "construction": "matrix verb"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll find",
+        "off": 5353,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should he",
+        "off": 5465,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should he",
+        "off": 5483,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "decided to leave",
+        "off": 5542,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R4",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked",
+        "off": 5707,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "came",
+        "off": 5723,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'until' bounds a co-temporal span"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 5696,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to cure",
+        "off": 5871,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll marry",
+        "off": 6059,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If you cure my daughter, I'll",
+        "off": 6033,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 6033,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "cure",
+        "off": 6040,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 6084,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 6299,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R4",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "waited",
+        "off": 6327,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "evening",
+        "off": 6340,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'until' bounds a co-temporal span"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 6617,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Give",
+        "off": 6675,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 6868,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "chewed and chewed",
+        "off": 6997,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 7185,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 7482,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Put",
+        "off": 8130,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll never",
+        "off": 8407,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "hopped and hopped",
+        "off": 8506,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "twisted and twisted",
+        "off": 8528,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 8615,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "marry",
+        "off": 8622,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "might he",
+        "off": 8562,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "possibility",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll grab",
+        "off": 8713,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had said",
+        "off": 8737,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "said",
+        "off": 8741,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had stepped",
+        "off": 9232,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "stepped",
+        "off": 9236,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll never",
+        "off": 9421,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "07_The_Runaway_Soldier_and_the_Devil",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 9499,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][got][go][got][set][walked][walked][did][see][wanted][wet][eat][done][dragged][looked][saw][went][got][put][played][chase][sat][began][playing][came][wrinkled][addressed][do]['ll][give][give][do][need]['ve][served]['ve][read][write][did][know]['s][learn][\"][looks][read][\"][give]['ll][try][\"][opened][started][done][handed][took][began][working][did][go][make][play][said][stay][teach][play]['ll][\"][answered][go]['ll]['ll][stay][teach][play]['ll][get][home]['ll][drive][stay][took][wanted][eat][said]['s]['ve][got][opened][got][do][want][\"][drank][agreed][stay][teach][play][stayed][asked][go][led][stood]['ll][get][got][started][went][flashed][got][recognize][asked][\"][know][replied][born][grew][\"][got][went][exchanged][asked][given][seemed][finished][considered][became][did][know][do][leave][went][go][go]['ll][run]['ve][played][\"][spoken][Do][brag][gave][eat][beat]['ll][make][Do][want][make][live]['d][like][try][made][gave][said]['ll][going]['m][going][torment][\"][lived][worried][tumbled][become][became][ask][came][does][know][trade]['s][taken][went][questioned][replied][\"]['ve][got]['ve][discuss]['ll][find][went][do][answer][thought][thought][decided][leave][go][took][walked][walked][came][\"][asked]['m][coming][want][cure][\"][answered][reported][reported][called][cure]['ll][marry][\"][give][\"][waited][evening][bought][set][lit][began][drinking][playing][came][heard][rushed][\"][drinking]['m][sipping][Give][\"][brought][popped]['s]['ve][got][Let][eat][\"][take][eat][\"][said][gave][chewed][chewed][broke][started][playing][passed][crowed][disappeared][asked][\"][did][sleep][passed][asked][\"][make][weighing][\"][appeared][come][carouse][\"][started][drinking][carousing][saw][asked][\"][see][taken][ordered][teach][play][crooked]['ve][got][straighten][asked][straighten][do][know][play][Put][\"][put][squeezed][picked][let][beat][repeated][\"][pleaded][begged][go]['ll][come][kept][flogging][hopped][hopped][twisted][twisted][broke][said][\"][marry][wo][get][go]['ll][grab][\"][said][disappeared][married][lived][died][began][ruling][went][walk][said][said][fall][got][drove][stepped][came][said][come][forgotten][told]['ll][get][do][Let][say]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "wanted to \nwet",
+          "off": 559,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to \nwet]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 1788,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 2305,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "should he",
+          "off": 2469,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should he]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to eat",
+          "off": 2538,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to eat]"
+      },
+      {
+        "anchor": {
+          "trigger": "could I",
+          "off": 3343,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could I]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 3981,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "would be",
+          "off": 4415,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would be]"
+      },
+      {
+        "anchor": {
+          "trigger": "should he",
+          "off": 5465,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should he]"
+      },
+      {
+        "anchor": {
+          "trigger": "should he",
+          "off": 5483,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should he]"
+      },
+      {
+        "anchor": {
+          "trigger": "decided to leave",
+          "off": 5542,
+          "construction": "I8"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[decided to leave]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to cure",
+          "off": 5871,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to cure]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 6033,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 8615,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "might he",
+          "off": 8562,
+          "construction": "I7"
+        },
+        "modal_force": "possibility",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[might he]"
+      }
+    ]
+  }
+}

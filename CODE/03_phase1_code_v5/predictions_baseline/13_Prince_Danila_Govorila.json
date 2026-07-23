@@ -1,0 +1,1168 @@
+{
+  "predictions": [
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "pondered and pondered",
+        "off": 487,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could lead",
+        "off": 524,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 766,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must never",
+        "off": 802,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must marry",
+        "off": 834,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would be",
+        "off": 1017,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would like",
+        "off": 1124,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "traveled and traveled",
+        "off": 1280,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 1378,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could take",
+        "off": 1405,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 1618,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have been",
+        "off": 1789,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "chosen",
+        "off": 1799,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall be",
+        "off": 1827,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 1846,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Put",
+        "off": 2580,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will come",
+        "off": 2753,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must \nremove",
+        "off": 3503,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 3957,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "fondle",
+        "off": 4409,
+        "construction": "matrix verb"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will welcome",
+        "off": 4387,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 4474,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F4",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "was \nabout to come",
+        "off": 4773,
+        "construction": "F4"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "prospective aspect names an imminent action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 4994,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have been",
+        "off": 5216,
+        "construction": "P7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would not",
+        "off": 5206,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will \nleave",
+        "off": 5318,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 5508,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 5583,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to stay",
+        "off": 5675,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had been",
+        "off": 5769,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "sitting",
+        "off": 5779,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "embroidering",
+        "off": 5825,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "working",
+        "off": 5856,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will appear",
+        "off": 6058,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 6121,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 6402,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had wrenched",
+        "off": 7539,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "wrenched",
+        "off": 7543,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could they",
+        "off": 7644,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 7753,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could they",
+        "off": 7856,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could fly",
+        "off": 7955,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had lost",
+        "off": 8237,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "lost",
+        "off": 8241,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could run",
+        "off": 8211,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 8406,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to fly",
+        "off": 8406,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had \ntold",
+        "off": 9094,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "told",
+        "off": 9099,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would not",
+        "off": 9133,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could be",
+        "off": 9166,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can be",
+        "off": 9197,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "put",
+        "off": 9290,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "speak",
+        "off": 9327,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will fill",
+        "off": 9240,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will put",
+        "off": 9285,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will come",
+        "off": 9352,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will flow",
+        "off": 9420,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will reveal",
+        "off": 9446,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "13_Prince_Danila_Govorila",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had planned",
+        "off": 9502,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "planned",
+        "off": 9506,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][built][disliked][pondered][pondered][lead][destroy][conceived][came][said][\"][put][take][marry][believed][overjoyed][enjoined][take][found][fit][went][grew][grew][began][seek][like][trying][found][did][fit][traveled][traveled][tried][find][take][returned][grieving][asked][told][ring][said][Let][try][\"][put][clasped][began][fitted][said][chosen][\"][saying][does][marry][did][heed][danced][ordered][made][went][sat][passed][invited][offered][asked][hide][told][grieve][said][listen][seat][calls][go][asks][come][do][hurry][Put][left][wed][went][said][come][answered][come][let][remove][cried][takes][began][open][began][fall][cried][come][let][unclasp][takes][called][come][remove][vanished][called][called][did][come][ran][banged][broke][looked][gone][sitting][seized][cut][threw][walked][walked][saw][turning][said][stand][\"][stood][opened][sat][embroidering][received][sighed][said][\"][see][welcome][fondle][comes][frightened][go][sat][embroidered][talked][knew][come][knew][turned][thrust][put][done][appeared][\"][smell][said][came][drink][did][keep][invite][do][let][go][leave][get][left][sat][embroidered][talked][laughed][came][flying][sniffed][\"][smell][said][\"][stopped][warm][tried][keep][did][want][stay][\"][chided][flew][sitting][hastened][finish][embroidering][working][planned][escape][run][exchange][appear][catching][\"][smell][cried][awaiting][said][looked][failed][hitting][\"][make][said][brought][made][blazed][took][began][urge][sat][shoved][do][know][sit][sit][said][changed][sat][tried][shove][put][grew][pulled][playing][said][see][do][\"][plumped][stretched][shoved][locked][covered][plastered][tarred][ran][taking][embroidered][ran][ran][looking][wrenched][hissing][do][threw][appeared][crawl][opened][plucked][came][go][threw][appeared][fly][sharpened][work][clamped][teeth][bit][hurled][cleared][came][ran][ran][run][lost][threw][spread][soared][wanted][fly][fell][burned][remained][did][know][go][sat][rest][came][asked][reported][sat][said][\"][guess][\"][went][see][invited][saw][guess][told][tell][done][done][said][fill][put][speak][come][strike][flow][reveal][\"][did][planned][struck][gushed][fell][rushed][embrace][cried][lamented][\"][jumped][embraced][married][married][fitted][lived]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could lead",
+          "off": 524,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could lead]"
+      },
+      {
+        "anchor": {
+          "trigger": "must never",
+          "off": 802,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must never]"
+      },
+      {
+        "anchor": {
+          "trigger": "must marry",
+          "off": 834,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must marry]"
+      },
+      {
+        "anchor": {
+          "trigger": "would be",
+          "off": 1017,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would be]"
+      },
+      {
+        "anchor": {
+          "trigger": "would like",
+          "off": 1124,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would like]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 1378,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could take",
+          "off": 1405,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could take]"
+      },
+      {
+        "anchor": {
+          "trigger": "must \nremove",
+          "off": 3503,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must \nremove]"
+      },
+      {
+        "anchor": {
+          "trigger": "would not",
+          "off": 5206,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would not]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to stay",
+          "off": 5675,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to stay]"
+      },
+      {
+        "anchor": {
+          "trigger": "could they",
+          "off": 7644,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could they]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 7753,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could they",
+          "off": 7856,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could they]"
+      },
+      {
+        "anchor": {
+          "trigger": "could fly",
+          "off": 7955,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could fly]"
+      },
+      {
+        "anchor": {
+          "trigger": "could run",
+          "off": 8211,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could run]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to fly",
+          "off": 8406,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to fly]"
+      },
+      {
+        "anchor": {
+          "trigger": "would not",
+          "off": 9133,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could be",
+          "off": 9166,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could be]"
+      },
+      {
+        "anchor": {
+          "trigger": "can be",
+          "off": 9197,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can be]"
+      }
+    ]
+  }
+}

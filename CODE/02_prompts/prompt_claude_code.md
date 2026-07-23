@@ -1,0 +1,76 @@
+# Prompt — Claude Code arm — Non-Iconicity Extraction (ProppLearner Corpus)
+
+> Paste into a fresh Claude Code session started in a workspace that contains a `stories/` folder with the 15 `.txt` files and **nothing else** — no `.sty` files, no prior outputs.
+
+---
+
+## How you must work (read first)
+
+You implement the task as **code that you write yourself**, one script per step.
+
+- For each of the six steps below, **write a standalone Python script, saved with the exact filename given** (`code/01_sentences.py`, `code/02_events.py`, `code/03_rules.py`, `code/04_selfcheck.py`, `code/05_predictions.py`, `code/06_timeline.py`).
+- **Run each script** and save the output it produces to the path named in that step.
+- The scripts are part of the deliverable: when you finish, `code/` must contain the six scripts you actually ran, and they must be the scripts that produced the outputs (do not edit outputs by hand afterward).
+- Standard libraries plus `nltk` are allowed (sentence splitting, POS tagging); `pip install nltk`. No run-time network use beyond the one-time `nltk.download`.
+- Process each story end to end before the next; treat all stories the same way.
+
+---
+
+## Role and task
+
+You are an agentic temporal-reasoning assistant analysing 15 Russian folktales from the ProppLearner corpus. For each story, identify every instance of **non-iconicity** — every pair of events where the order they are *told* differs from the order they *actually happen* in the story world.
+
+A narrative is a sequence S of sentences describing a sequence E of events. Where S and E run in the same order it is **iconic**; where they diverge — flashback, simultaneity told as sequence, prophecy, dream — it is **non-iconic**.
+
+Blind benchmark: do **not** open or look for `.sty` files, do **not** search the web for ProppLearner, do **not** rely on prior-run numbers. Work only from the 15 `.txt` files.
+
+## The four tracks
+- **PAST** — backward-pointing: real occurrence earlier than text position implies.
+- **PRESENT** — co-temporal: events told as a sequence that actually overlap or include one another.
+- **FUTURE** — forward-pointing: event not yet occurred relative to the surrounding narrative.
+- **IMAGINARY** — irrealis: events only on a hypothetical sub-timeline (dream, wish, threat, conditional, counterfactual).
+
+## The rule set (apply mechanically at the finite-verb level)
+**Past P1–P10:** P1 `had + PP`; P2 `having + PP` (**fan out to every matrix verb in scope**, excluding the participle); P3 past adverbials (before/earlier/long ago/previously/once); P4 `would/could/might have + PP` (also IMAGINARY); P5 reported pasts (dreamed/remembered/recalled/overheard that); P6 `after + V-ing`; P7 present perfect in dialogue; P8 `from + V-ing`; P9 backward relative clause (`who/which/that had + PP`); P10 discovery verb (saw/found/met/noticed/came upon/discovered/heard) + stative (lying/sitting/sleeping/waiting/weeping…).
+**Present R1–R5:** R1 `while X,Y`; R2 `as X`; R3 reduplication (one extended event); R4 `until X`; R5 stative co-occurrence.
+**Future F1–F6:** F1 `will/shall/'ll/going to + V`; F2 imperative-as-future; F3 `predicted/foretold/promised/swore/vowed`; F4 `was about to/set out to/meant to/intended to`; F5 `awaited/expected/longed to/wanted to/hoped/feared`; F6 conditional `if X … will/'ll`.
+**Imaginary I1–I6:** I1 `dreamed/imagined/wished/supposed/believed/thought that`; I2 `would that/if only/I wish`; I3 `if X then Y`; I4 `pretended/falsely thought`; I5 `could/might/may have/must have`; I6 embedded stories.
+A construction may fire on two tracks (e.g. P4); record both.
+
+## The six-step pipeline (one script each)
+1. `code/01_sentences.py` → `intermediates/<id>/step1_sentences.json` — skip the `/** … */` header, split body into sentences (S-string): `{sent_id, text, char_offset, approx_line}`.
+2. `code/02_events.py` → `intermediates/<id>/step2_events.json` — POS-tag; one event per finite verb (never collapse coordinated verbs): `{event_id, sent_id, clause_id, trigger, char_offset, type, tense}`.
+3. `code/03_rules.py` → `intermediates/<id>/step3_candidates.json` — apply P/R/F/I; P2 fans out; each candidate records rule, track, events, rationale.
+4. `code/04_selfcheck.py` → `intermediates/<id>/step4_checked.json` — re-anchor every trigger to a real offset and confirm verbatim (`verbatim_ok`); confirm P2 fanned out to every matrix verb in scope; de-duplicate.
+5. `code/05_predictions.py` → `predictions/<id>_predictions.json` — canonical enriched schema (below).
+6. `code/06_timeline.py` → `intermediates/<id>/step6_timeline.json` + `run_report.md` — main-timeline string, irrealis sub-timelines, iterative compressions.
+
+## Canonical prediction schema (Step 5) — placeholder values, fill from the text
+```json
+{"story_id": "<id>",
+ "predictions": [
+  {"track":"<past|present|future|imaginary>","rule":"<rule id>",
+   "earlier_event":{"trigger_text":"<verbatim span>","char_offset":0,"approx_line":0,"construction":"<surface form>"},
+   "later_event":{"trigger_text":"<verbatim span>","char_offset":0,"approx_line":0,"construction":"main clause"},
+   "relation":"<BEFORE|SIMULTANEOUS|AFTER|MODAL|COUNTERFACTUAL>",
+   "cue_type":"<explicit_marker|inferred>","confidence":"<high|medium|low>",
+   "timeline_string":"[<earlier>][<later>]","irrealis":null,
+   "rationale":"<which rule fired and why>"}]}
+```
+- `cue_type`/`confidence` set mechanically: `explicit_marker`+`high` = unambiguous marker; `explicit_marker`+`medium` = marker but ambiguous context; `inferred`+`low` = no marker, recovered by world reasoning.
+- `timeline_string` = events as ordered snapshots, earliest first; co-temporal share a bracket `[a,b]`.
+- `irrealis` = `null` for past/present; for future/imaginary: `{sub_timeline_id, modal_force (dream|threat|prophecy|conditional|counterfactual|plan|wish), anchor_trigger, anchor_line, fate (realized|averted|open|never_actual), projects_back_to|null}`.
+
+## Timeline schema (Step 6) — placeholder values
+```json
+{"story_id":"<id>","n_sentences":0,
+ "main_timeline_string":"[e1][e2]...",
+ "sub_timelines":[{"sub_timeline_id":"st1","modal_force":"<force>","anchor_line":0,"string":"[<sub event>]","fate":"<fate>","projects_back_to":null}],
+ "iterative_compressions":[{"quote":"<verbatim span>","approx_line":0,"note":"one telling compresses repeated events"}]}
+```
+
+## Constraints
+No `.sty`; no web search for ProppLearner; no prior-run anchoring; all six steps required; the six scripts and the per-step files are the deliverable; every `trigger_text` verbatim; when in doubt flag (`inferred`/`low`) not skip.
+
+## When you finish
+Write `run_report.md` (per-story per-track counts; `explicit_marker` vs `inferred` split; sub-timelines by `modal_force`/`fate`; non-iconicity no rule covers). **Do not score yourself.** Confirm `code/` contains the six scripts you ran.

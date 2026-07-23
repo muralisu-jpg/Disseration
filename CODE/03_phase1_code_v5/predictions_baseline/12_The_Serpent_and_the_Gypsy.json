@@ -1,0 +1,1012 @@
+{
+  "predictions": [
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had \ndevoured",
+        "off": 293,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "devoured",
+        "off": 298,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must be",
+        "off": 602,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R4",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "left",
+        "off": 746,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "fly",
+        "off": 796,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'until' bounds a co-temporal span"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will fly",
+        "off": 791,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll eat",
+        "off": 865,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll choke",
+        "off": 914,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll see",
+        "off": 979,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll have",
+        "off": 1247,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can eat",
+        "off": 1313,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will eat",
+        "off": 1361,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will choke",
+        "off": 1409,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should say",
+        "off": 1474,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will crush",
+        "off": 1691,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll watch",
+        "off": 1745,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 1916,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Watch",
+        "off": 2012,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 2262,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can whistle",
+        "off": 2276,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "whistle",
+        "off": 2401,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "said",
+        "off": 2458,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll pop",
+        "off": 2533,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "grabbed",
+        "off": 2674,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "whistled",
+        "off": 2699,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "prepared to whistle",
+        "off": 2913,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to argue",
+        "off": 2993,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll be",
+        "off": 3094,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 3166,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "please",
+        "off": 3173,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Pick",
+        "off": 3234,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "waited and waited",
+        "off": 3471,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 3574,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll have",
+        "off": 3732,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can drag",
+        "off": 3694,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to just",
+        "off": 4030,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 4226,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "please",
+        "off": 4234,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll start",
+        "off": 4293,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could barely",
+        "off": 4404,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "waited \nand waited",
+        "off": 4555,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 4662,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to dig",
+        "off": 4698,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would take",
+        "off": 4902,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Choose",
+        "off": 5090,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "waited and waited",
+        "off": 5331,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will have",
+        "off": 5593,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to bring",
+        "off": 5478,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I4",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "pretended",
+        "off": 5784,
+        "construction": "I4"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "counterfactual",
+      "rationale": "a pretence verb marks a false/counterfactual state"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 6216,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 6238,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "want",
+        "off": 6245,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to make",
+        "off": 6245,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "12_The_Serpent_and_the_Gypsy",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Look",
+        "off": 6806,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[flew][devoured][came][came][looked][find][entered][sitting][crying][tired][\"][do][say][\"][see][coming][devouring][eaten][left][fly][devour][wo][spare]['ll][eat][sitting]['ll][choke][do][let][sleep][tonight]['ll][see][spent][arose][landed][said][\"]['ve][turned][left]['ll][Do][think][eat][\"][asked][eat][\"][lie][choke][think][\"][say][think][realize][\"][let][see]['s][\"][grabbed][crush]['ll][watch][\"][grabbed][squeezed][turned][\"][said][try][gripping][comes][Watch][squeeze][grabbed][gave][dripped][did][see]['s][Let][see][whistle][whistled][leaves][fell][whistle][said][protect]['ll][pop][believed][covered][go][whistle][\"][grabbed][whistled][thumped][yelled][\"]['s]['s][Do][whistle][come][\"][whistle][\"][do][need][do][do][want][argue][anymore][let]['ll][\"][Agreed][said][\"][please][grazing][Pick][grab][drag][done][went][saw][started][tie][waited][waited][wait][ran][see][going][\"][taking][wait]['m][tying][drag]['ll][do][need][spend][\"][grabbed][ripped][shouldered][dragged][tied]['re][going][leave][\"][\"][returned][set][take][said][\"][please][carry]['ll][start][boiling][grabbed][dragged][drag][say][filled][got][started][dig][waited][waited][wait][ran][see][taking][\"][doing][want][dig][drag][wo][go][\"]['re][trying][do][dig][take][\"][dropped][filled][dragged][carried][said][go][Choose][pull]['s][start][went][pulled][twist][braided][wrapping][waited][waited][wait][ran][see][taking][want][bring][tying][dragging][do][said][ripped][dragged][pretended][Pouting][sat][cooked][called][replied][do][want][scarfed][drank][questioned][upset][do]['s]['s][done][do][Let][make][want][make][visit]['m][got][harnessed][left][approaching][saw][dressed][ran][meet][exclaimed][arrived][brought][became][asked][\"][suppose][Look][coming][\"][jumped][ran][sold][began][live]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "must be",
+          "off": 602,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must be]"
+      },
+      {
+        "anchor": {
+          "trigger": "can eat",
+          "off": 1313,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can eat]"
+      },
+      {
+        "anchor": {
+          "trigger": "should say",
+          "off": 1474,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should say]"
+      },
+      {
+        "anchor": {
+          "trigger": "can whistle",
+          "off": 2276,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can whistle]"
+      },
+      {
+        "anchor": {
+          "trigger": "prepared to whistle",
+          "off": 2913,
+          "construction": "I8"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[prepared to whistle]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to argue",
+          "off": 2993,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to argue]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 3166,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "can drag",
+          "off": 3694,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can drag]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 4226,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "could barely",
+          "off": 4404,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could barely]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to dig",
+          "off": 4698,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to dig]"
+      },
+      {
+        "anchor": {
+          "trigger": "would take",
+          "off": 4902,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would take]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to bring",
+          "off": 5478,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to bring]"
+      },
+      {
+        "anchor": {
+          "trigger": "pretended",
+          "off": 5784,
+          "construction": "I4"
+        },
+        "modal_force": "counterfactual",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[pretended]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 6238,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to make",
+          "off": 6245,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to make]"
+      }
+    ]
+  }
+}

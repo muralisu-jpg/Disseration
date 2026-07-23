@@ -1,0 +1,1 @@
+{"current_iteration":4,"best_iteration":1,"best_dev_f1":0.17,"plateau_count":3,"history":[{"iteration":1,"dev_f1":0.17},{"iteration":2,"dev_f1":0.17},{"iteration":3,"dev_f1":0.17},{"iteration":4,"dev_f1":0.18}]}

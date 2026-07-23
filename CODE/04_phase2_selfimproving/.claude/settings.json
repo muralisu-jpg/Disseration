@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Edit|Write|NotebookEdit|Bash|Grep|Glob",
+        "hooks": [{ "type": "command", "command": "python .claude/hooks/guard.py" }]
+      }
+    ]
+  }
+}

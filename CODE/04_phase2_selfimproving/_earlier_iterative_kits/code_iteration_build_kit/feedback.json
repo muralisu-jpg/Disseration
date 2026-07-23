@@ -1,0 +1,39 @@
+{
+  "overall_f1": 0.18,
+  "past": {
+    "precision": 0.87,
+    "recall": 0.09,
+    "f1": 0.17,
+    "note": "recall low; track under-detected",
+    "_gold": 950,
+    "_pred": 100,
+    "_tp": 87
+  },
+  "present": {
+    "precision": 0.63,
+    "recall": 0.08,
+    "f1": 0.15,
+    "note": "recall low; track under-detected",
+    "_gold": 461,
+    "_pred": 62,
+    "_tp": 39
+  },
+  "future": {
+    "precision": 0.1,
+    "recall": 0.32,
+    "f1": 0.15,
+    "note": "precision low; likely over-firing",
+    "_gold": 25,
+    "_pred": 81,
+    "_tp": 8
+  },
+  "imaginary": {
+    "precision": 0.38,
+    "recall": 0.21,
+    "f1": 0.27,
+    "note": "balanced",
+    "_gold": 208,
+    "_pred": 117,
+    "_tp": 44
+  }
+}

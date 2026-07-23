@@ -1,0 +1,701 @@
+{
+  "predictions": [
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 620,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would not",
+        "off": 1034,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should find",
+        "off": 1704,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had set",
+        "off": 1842,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "set",
+        "off": 1846,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "traveled and traveled",
+        "off": 1756,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would undertake",
+        "off": 1962,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "might find",
+        "off": 2022,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "possibility",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would give",
+        "off": 2052,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "hoped",
+        "off": 2419,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would undertake",
+        "off": 2468,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "hoped that",
+        "off": 2419,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Give",
+        "off": 3086,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall I",
+        "off": 3241,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 3235,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall \ngo",
+        "off": 4067,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall take",
+        "off": 4725,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could neither",
+        "off": 5352,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 5923,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have caught",
+        "off": 7328,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "caught",
+        "off": 7333,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 7898,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will or",
+        "off": 8137,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "has sent",
+        "off": 8174,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "sent",
+        "off": 8178,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 8161,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have added",
+        "off": 8387,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "added",
+        "off": 8392,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will have",
+        "off": 8382,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can get",
+        "off": 8495,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will come",
+        "off": 8630,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could be",
+        "off": 8866,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to \nseek",
+        "off": 9530,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall come",
+        "off": 9588,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 9643,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "15_Dawn,_Evening_and_Midnight",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can tell",
+        "off": 10657,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][surpassing][guarded][built][kept][blow][scorch][read][came][visit][straightway][began][implore][saying][let][see][tried][dissuade][listen][refused][besought][done][granted][went][walk][beheld][overjoyed][ran][enjoyed][seized][carried][knew][ran][report][sent][promising][find][traveled][traveled][did][discover][came][set][called][asked][undertake][search][find][said][give][asked][asked][did][answer][asked][made][said][ordered][issued][hoped][undertake][lived][born][called][reached][straightway][asked][made][came][bowed][said][come][celebrate][perform][Give][leave][go][\"][give][do][need][do][forget][took][ordered][given][set][rode][came][stood][knocked][entered][said][let][stop][undressed][prayed][went][sleep][said][go][stay][prepare][consented][thinking][took][slaughtered][cleaned][put][prepared][lay][rest][opened][entered][cast][cried][\"][make][dared][slaughter][answered][grow][seen][take][throw][grew][snatched][began][beat][Evening][beat][till][threw][ate][went][tied][returned][asked][\"][made][got][lay][cook][roast][went][hunting][left][prepare][made][chose][slaughtered][put][lay][came][began][beat][thrash][beat][ate][went][tied][moaned][returned][\"][\"][asked][prepared][went][hunting][stayed][chose][slaughtered][cleaned][put][roast][lay][saw][carrying][holding][put][spread][began][count][saw][missing][grew][ran][jumped][hit][jumped][grabbed][began][drag][repeating][leap][look][leap][began][implore][do][put][let][dragged][led][fastened][returned][sat][wait][came][amazed][find][smiled][said][caught][fastened][went][looked][run][dangled][spattered][Following][came][went][gathered][wound][told][drop][dropped][found][released][walked][walked][walked][saw][entered][rose][came][meet][asked][\"][come][\"][sent][\"][seated][gave][handed][said][added][drank][felt][thought][get][\"][frightened][said][come][\"][took][came][flying][struck][turned][cried][visiting][\"][flying][fancy][\"][asked][brought][poured][sleeping][drank][overwhelmed][made][fell][called][came][swung][cut][made][burned][scattered][farewell][going][seek][found][come][said][set][walked][walked][came][lived][killed][went][reached][lived][killed][freed][overjoyed][made][return][went][waved][rolled][took][put][went][seek][did][rolled][took][went][pulled][came][rolled][appeared][tell][married][made]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 620,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "would not",
+          "off": 1034,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would not]"
+      },
+      {
+        "anchor": {
+          "trigger": "should find",
+          "off": 1704,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should find]"
+      },
+      {
+        "anchor": {
+          "trigger": "would undertake",
+          "off": 1962,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would undertake]"
+      },
+      {
+        "anchor": {
+          "trigger": "might find",
+          "off": 2022,
+          "construction": "I7"
+        },
+        "modal_force": "possibility",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[might find]"
+      },
+      {
+        "anchor": {
+          "trigger": "would give",
+          "off": 2052,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would give]"
+      },
+      {
+        "anchor": {
+          "trigger": "would undertake",
+          "off": 2468,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would undertake]"
+      },
+      {
+        "anchor": {
+          "trigger": "hoped that",
+          "off": 2419,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[hoped that]"
+      },
+      {
+        "anchor": {
+          "trigger": "could neither",
+          "off": 5352,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could neither]"
+      },
+      {
+        "anchor": {
+          "trigger": "can get",
+          "off": 8495,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can get]"
+      },
+      {
+        "anchor": {
+          "trigger": "could be",
+          "off": 8866,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could be]"
+      },
+      {
+        "anchor": {
+          "trigger": "can tell",
+          "off": 10657,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can tell]"
+      }
+    ]
+  }
+}

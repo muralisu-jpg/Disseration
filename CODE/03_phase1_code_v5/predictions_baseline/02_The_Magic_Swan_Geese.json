@@ -1,0 +1,809 @@
+{
+  "predictions": [
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to work",
+        "off": 475,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall bring",
+        "off": 493,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had told",
+        "off": 690,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "told",
+        "off": 694,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 1003,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would scold",
+        "off": 1086,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had done",
+        "off": 1310,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 1314,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had carried",
+        "off": 1403,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "carried",
+        "off": 1407,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will tell",
+        "off": 1574,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If you eat my cake of rye I will",
+        "off": 1546,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 1546,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 1553,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will tell",
+        "off": 1823,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If you eat one of my wild apples, I will",
+        "off": 1787,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 1787,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 1794,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will tell",
+        "off": 2079,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If you eat of my simple pudding \nwith milk, I will",
+        "off": 2033,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 2033,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 2040,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P4",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "would have run",
+        "off": 2153,
+        "construction": "P4"
+      },
+      "later": {
+        "trigger": "run",
+        "off": 2164,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "modal-perfect names an unrealised prior event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P4i",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "would have run",
+        "off": 2153,
+        "construction": "P4i"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": "counterfactual",
+      "rationale": "'modal + have + PP' is contrary to fact"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 2225,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "met",
+        "off": 2249,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have flown",
+        "off": 2404,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "flown",
+        "off": 2409,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 2269,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would prick",
+        "off": 2314,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "afraid \nthat",
+        "off": 2298,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "fear",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to nudge",
+        "off": 2269,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 2782,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "overtook",
+        "off": 2797,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would she",
+        "off": 2817,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 2935,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 2942,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could she",
+        "off": 3186,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 3308,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 3315,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would tear",
+        "off": 3602,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 3720,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "eat",
+        "off": 3727,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "whirred and whirred",
+        "off": 3842,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "02_The_Magic_Swan_Geese",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "quacked and quacked",
+        "off": 3863,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][*/][lived][said][going][work][bring][buy][do][leave][\"][went][forgot][told][put][ran][became][absorbed][came][seized][carried][came][found][gone][gasped][rushed][look][find][called][lamented][scold][did][answer][ran][flashed][vanished][done][stolen][guessed][carried][rushed][ran][ran][saw][stove][tell][flown][eat][tell][\"][do][eat][did][tell][ran][saw][tell][flown][eat][tell][\"][do][eat][ran][saw][flown][eat][tell][\"][do][eat][run][wandered][met][wanted][nudge][prick][asked][seen][flown][said][showed][ran][saw][stood][turned][veined][sitting][playing][saw][crept][seized][carried][overtook][hide][flowed][hide][begged][eat][done][ate][hid][went][said][ran][carrying][turned][flew][do][hide][begged][eat][ate][covered][leaves][went][ran][saw][came][began][strike][tear][hide][begged][eat][stuck][went][sat][whirred][quacked][quacked][flew][recovering][ran][came][did][arrived]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 1003,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "would scold",
+          "off": 1086,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would scold]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 1546,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 1787,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 2033,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "would have run",
+          "off": 2153,
+          "construction": "P4i"
+        },
+        "modal_force": "counterfactual",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[would have run]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 2225,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "would prick",
+          "off": 2314,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would prick]"
+      },
+      {
+        "anchor": {
+          "trigger": "afraid \nthat",
+          "off": 2298,
+          "construction": "I8"
+        },
+        "modal_force": "fear",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[afraid \nthat]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to nudge",
+          "off": 2269,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to nudge]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 2782,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "would she",
+          "off": 2817,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would she]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 2935,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "could she",
+          "off": 3186,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could she]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 3308,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "would tear",
+          "off": 3602,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would tear]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 3720,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      }
+    ]
+  }
+}

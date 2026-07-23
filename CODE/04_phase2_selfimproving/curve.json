@@ -1,0 +1,6 @@
+[
+ {"iter": 0, "attempted_change": "rules-only baseline (narrative order)", "accuracy": 0.675, "macro_f1": 0.2687, "decision": "baseline", "best_so_far_accuracy": 0.675},
+ {"iter": 1, "attempted_change": "IDENTITY same-lemma overlap rule (non-REPORTING, cross-sentence; train prec 9/9)", "accuracy": 0.6853, "macro_f1": 0.2973, "decision": "ACCEPT", "best_so_far_accuracy": 0.6853},
+ {"iter": 2, "attempted_change": "stative-overlap rule (e2 STATE or PROGRESSIVE aspect -> SIMULTANEOUS; train prec 0.810, fires 21)", "accuracy": 0.7215, "macro_f1": 0.394, "decision": "ACCEPT", "best_so_far_accuracy": 0.7215},
+ {"iter": 3, "attempted_change": "enable LLM (opus-4-8) on hard pairs + Windows cmdline-length fix; 1402 hard pairs classified with few-shot + point-algebra, fully cached (0 fresh calls this run)", "accuracy": 0.8478, "macro_f1": 0.7733, "decision": "ACCEPT", "best_so_far_accuracy": 0.8478}
+]

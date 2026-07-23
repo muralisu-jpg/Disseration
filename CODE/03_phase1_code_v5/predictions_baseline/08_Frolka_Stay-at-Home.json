@@ -1,0 +1,933 @@
+{
+  "predictions": [
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can tell",
+        "off": 462,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 689,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "waited and waited",
+        "off": 819,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 967,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "give",
+        "off": 1159,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "wants",
+        "off": 1184,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall give",
+        "off": 1153,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F4",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "set out to look",
+        "off": 1307,
+        "construction": "F4"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "prospective aspect names an imminent action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and \nwalked",
+        "off": 1348,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "as they",
+        "off": 1408,
+        "construction": "R2"
+      },
+      "later": {
+        "trigger": "entered",
+        "off": 1416,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 1692,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F4",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "were about to eat",
+        "off": 2079,
+        "construction": "F4"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "prospective aspect names an imminent action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will devour",
+        "off": 2256,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall devour",
+        "off": 2352,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 2585,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had undertaken",
+        "off": 3199,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "undertaken",
+        "off": 3203,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 3439,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall get",
+        "off": 3573,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had done",
+        "off": 4021,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 4025,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "entered",
+        "off": 3991,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 4025,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P10",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "sitting",
+        "off": 4520,
+        "construction": "P10"
+      },
+      "later": {
+        "trigger": "found",
+        "off": 4487,
+        "construction": "discovery verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "the state pre-exists the moment it is discovered"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had come",
+        "off": 4576,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "come",
+        "off": 4580,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "I6",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "told her why and how they",
+        "off": 4550,
+        "construction": "I6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "embedded",
+      "rationale": "an embedded story runs on its own sub-timeline"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will help",
+        "off": 4822,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Give",
+        "off": 4836,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "walked and walked",
+        "off": 4890,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to an",
+        "off": 5560,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P4",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "would have devoured",
+        "off": 5663,
+        "construction": "P4"
+      },
+      "later": {
+        "trigger": "devoured",
+        "off": 5674,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "modal-perfect names an unrealised prior event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P4i",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "would have devoured",
+        "off": 5663,
+        "construction": "P4i"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": "counterfactual",
+      "rationale": "'modal + have + PP' is contrary to fact"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have come",
+        "off": 5725,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "come",
+        "off": 5730,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will help",
+        "off": 5802,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If so,\" said \nthe old man, \"come with me, I will",
+        "off": 5758,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 5758,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "said",
+        "off": 5766,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had come",
+        "off": 6150,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "come",
+        "off": 6154,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "As they",
+        "off": 6248,
+        "construction": "R2"
+      },
+      "later": {
+        "trigger": "preparing",
+        "off": 6261,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "take",
+        "off": 6964,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "want",
+        "off": 6991,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R3",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "poured and poured",
+        "off": 7173,
+        "construction": "R3"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "reduplicated verb describes one extended event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will fall",
+        "off": 7398,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 7427,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 7471,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having done",
+        "off": 7618,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "began",
+        "off": 7561,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having done",
+        "off": 7618,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "fill",
+        "off": 7570,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having done",
+        "off": 7618,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 7618,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having done",
+        "off": 7618,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "done",
+        "off": 7625,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having done",
+        "off": 7618,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "went",
+        "off": 7641,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "While",
+        "off": 7526,
+        "construction": "R1"
+      },
+      "later": {
+        "trigger": "began",
+        "off": 7561,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "08_Frolka_Stay-at-Home",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall \ngo",
+        "off": 7816,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][tell][liked][walk][took][visiting][tarried][tear][appeared][carried][waited][waited][did][come][sent][look][find][proclaimed][gathered][said][finds][give][wants][\"][agreed][undertake][set][look][walked][walked][came][entered][overwhelmed][drew][tapped][opened][shoved][cried][let][sleep][let][rest][let][keep][going][\"][went][walked][walked][came][knocked][answered][pushed][said][Let][try][snuffed][gave][smashed][entered][sat][eat][came][said][come][devour][happens][answered][devour][said][came][flying][roared][ruined][Do][wo][brought][\"][wo][bring][said][did][\"][hearing][said][come][fight][\"][come][said][fight][\"][moved][faced][clashed][cut][put][buried][overjoyed][said][brave][\"][take][\"][\"][asked][said][told][undertaken][invited][gave][begged][rescue][said][sent][told][\"][said][living][said][get][deal][said][went][came][locked][approached][looked][found][banged][opened][entered][done][sat][eat][came][flying][smell][said][come][know][answered][began][fight][cut][put][buried][entered][passed][found][sitting][told][come][brightened][offered][begged][rescue][said][sent][help][Give][drank][left][walked][walked][came][stood][chained][roared][remained][standing][fell][said][seen][frightened][Come][went][looked][came][saw][came][meet][said][going][answered][said][going][devoured][\"][come][see][said][said][\"][come][help][get][went][began][stroke][got][entered][brought][lived][seeing][jumped][began][question][come][told][offered][began][make][go][preparing][leave][saw][flying][rushed][went][meet][fight][attacked][managed][defeat][cut][cast][returned][reveled][Following][set][stopping][came][overjoyed][opened][said][take][want][brought][brought][brought][began][fill][poured][poured][broke][fell][began][pour][poured][dropped][done][said][fall][\"][left][\"][asked][\"][said][began][fill][having][done][went][remained][sitting][pouring][filled][go]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "can tell",
+          "off": 462,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can tell]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 689,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 967,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "told her why and how they",
+          "off": 4550,
+          "construction": "I6"
+        },
+        "modal_force": "embedded",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[told her why and how they]"
+      },
+      {
+        "anchor": {
+          "trigger": "would have devoured",
+          "off": 5663,
+          "construction": "P4i"
+        },
+        "modal_force": "counterfactual",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[would have devoured]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 5758,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      }
+    ]
+  }
+}

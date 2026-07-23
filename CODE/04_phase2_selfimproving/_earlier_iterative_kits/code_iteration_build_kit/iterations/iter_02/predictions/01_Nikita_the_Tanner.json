@@ -1,0 +1,494 @@
+{
+  "predictions": [
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_habitual",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "Whenever",
+        "off": 671,
+        "construction": "I_habitual"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": "generic",
+      "rationale": "habitual/iterative marker: a generic, non-single event"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "followed",
+        "off": 796,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "followed",
+        "off": 796,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would \nattach",
+        "off": 887,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would take",
+        "off": 943,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "wrote",
+        "off": 1027,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "asking",
+        "off": 1053,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "come",
+        "off": 1723,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "come",
+        "off": 1723,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "currying",
+        "off": 1630,
+        "construction": "R_progressive"
+      },
+      "later": {
+        "trigger": "currying",
+        "off": 1630,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "implore",
+        "off": 1996,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "hoping",
+        "off": 2009,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would move",
+        "off": 2034,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 2310,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will destroy",
+        "off": 2496,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "seeing",
+        "off": 2589,
+        "construction": "R_participle_adjunct"
+      },
+      "later": {
+        "trigger": "seeing",
+        "off": 2589,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 2605,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall live",
+        "off": 2952,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "divided",
+        "off": 3267,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "divided",
+        "off": 3267,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "divided",
+        "off": 3303,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "divided",
+        "off": 3303,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "been",
+        "off": 3403,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "taken",
+        "off": 3408,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will say",
+        "off": 3374,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can be",
+        "off": 3521,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "having",
+        "off": 3705,
+        "construction": "R_participle_adjunct"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 3705,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "01_Nikita_the_Tanner",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would \nnot",
+        "off": 3734,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][*/][appeared][took][devoured][go][seized][dragged][did][devour][took][went][boarded][prevent][escaping][followed][wrote][attach][take][bring][wrote][asking][find][became][began][question][did][answer][said][wrote][find][send][deliver][receiving][went][beg][free][rescue][currying][held][saw][come][see][began][tremble][tore][entreated][refused][go][gathered][sent][implore][hoping][move][came][begged][go][began][shed][saw][took][tarred][wound][devour][went][give][came][locked][come][said][destroy][\"][began][break][seeing][avoid][went][fight][fought][defeated][began][implore][Do][put][divide][live][\"][said][let][draw][made][weighed][harnessed][began][plow][plowed][said][divided][divided][said][let][divide][say][taken][\"][crawled][killed][drowned][seen][plowed][do][know][call][having][done][accept][returned][currying]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "Whenever",
+          "off": 671,
+          "construction": "I_habitual"
+        },
+        "modal_force": "generic",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[Whenever]"
+      },
+      {
+        "anchor": {
+          "trigger": "would \nattach",
+          "off": 887,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would \nattach]"
+      },
+      {
+        "anchor": {
+          "trigger": "would take",
+          "off": 943,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would take]"
+      },
+      {
+        "anchor": {
+          "trigger": "would move",
+          "off": 2034,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would move]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 2310,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 2605,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "can be",
+          "off": 3521,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can be]"
+      },
+      {
+        "anchor": {
+          "trigger": "would \nnot",
+          "off": 3734,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would \nnot]"
+      }
+    ]
+  }
+}

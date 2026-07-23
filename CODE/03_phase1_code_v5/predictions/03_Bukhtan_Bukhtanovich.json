@@ -1,0 +1,186 @@
+{
+  "predictions": [
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall run",
+        "off": 2176,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could lend",
+        "off": 2489,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had never seen",
+        "off": 2769,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "seen",
+        "off": 2779,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "I10",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "never seen",
+        "off": 2773,
+        "construction": "I10"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "averted",
+      "rationale": "an event under negation of occurrence stays on a non-actual branch"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "I10",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "never in",
+        "off": 2969,
+        "construction": "I10"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "averted",
+      "rationale": "an event under negation of occurrence stays on a non-actual branch"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "ran",
+        "off": 4302,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "stretching",
+        "off": 4380,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will scorch",
+        "off": 4605,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall we",
+        "off": 4653,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][lived][built][lay][came][said][like][marry][\"]['s]['re][saying][Do][\"][took][exchanged][went][said][give][measure][said][Take][took][stuck][brought][said][give][measure][Take][took][stuck][brought][give][Take][took][stuck][remained][brought][said][measured][answered][\"][come][give][show][ran][Put][dressed][accompanied][went][walked][cross][gave][fell][ran][\"][Saying][smeared][run][came][said][walking][somehow][fell][come][lend][take][took][came][change][let][go][\"][came][set][did][look][seen][winked][does][look][think][ashamed][wearing][worn][give][wear][whispered][Do][look][stared][whispered][does][look][stand][flung][whispered][look][\"][began][talk][celebrated][wedding][does][wedding][brewed][distilled][loaded][traveled][ran][saw][cried][sailed][ran][came][climbed][stood][went][saw][ran][stretching][perched][sat][said][sitting][coming][scorch][burn][\"][go][go][sealed][go][sealed][wrapped][took][arrived][ordered][thrown][threw][moved][lived][prospered][ruled][governed][ended]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could lend",
+          "off": 2489,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could lend]"
+      },
+      {
+        "anchor": {
+          "trigger": "never seen",
+          "off": 2773,
+          "construction": "I10"
+        },
+        "modal_force": "averted",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[never seen]"
+      },
+      {
+        "anchor": {
+          "trigger": "never in",
+          "off": 2969,
+          "construction": "I10"
+        },
+        "modal_force": "averted",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[never in]"
+      }
+    ]
+  }
+}

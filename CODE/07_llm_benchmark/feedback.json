@@ -1,0 +1,24 @@
+{
+  "n_pairs": 2043,
+  "coverage": 1.0,
+  "three_way_accuracy": 0.8473,
+  "three_way_macro_f1": 0.8,
+  "fine_14way_accuracy": 0.6598,
+  "fine_14way_macro_f1": 0.4269,
+  "fine_per_relation_f1": {
+    "BEFORE": 0.777,
+    "AFTER": 0.773,
+    "IBEFORE": 0.368,
+    "IAFTER": 0,
+    "SIMULTANEOUS": 0.564,
+    "IDENTITY": 0.742,
+    "INCLUDES": 0.424,
+    "IS_INCLUDED": 0.554,
+    "DURING": 0,
+    "DURING_INV": 0,
+    "BEGINS": 0.123,
+    "BEGUN_BY": 0.286,
+    "ENDS": 0.333,
+    "ENDED_BY": 0.179
+  }
+}

@@ -1,0 +1,1 @@
+[{"pair_id": "wsj_1040.tml_ei69_ei70", "e1_word": "paid", "e1_class": "OCCURRENCE", "e1_tense": "PASTPART", "e1_aspect": "NONE", "e1_off": 1139, "e2_word": "apply", "e2_class": "OCCURRENCE", "e2_tense": "FUTURE", "e2_aspect": "NONE", "e2_off": 1228, "same_sentence": true, "text_order": "e1_first", "e1_sentence": "", "e2_sentence": "", "signal": "", "relation": "SIMULTANEOUS"}]

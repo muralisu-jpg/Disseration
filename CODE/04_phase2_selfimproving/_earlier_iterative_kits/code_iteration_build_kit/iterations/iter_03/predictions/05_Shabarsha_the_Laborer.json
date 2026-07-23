@@ -1,0 +1,1142 @@
+{
+  "predictions": [
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Shall I",
+        "off": 394,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could he",
+        "off": 780,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could he",
+        "off": 817,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could he",
+        "off": 841,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 946,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll come",
+        "off": 920,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can catch",
+        "off": 1033,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll sell",
+        "off": 1055,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll have",
+        "off": 1074,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll make",
+        "off": 1145,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "intend to cleanse",
+        "off": 1434,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll go",
+        "off": 1541,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll play",
+        "off": 1664,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll bring",
+        "off": 1710,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "dug",
+        "off": 1797,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "placed",
+        "off": 1808,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will you",
+        "off": 1930,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should first",
+        "off": 2112,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should I",
+        "off": 2168,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can I",
+        "off": 2360,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll get",
+        "off": 2428,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "started",
+        "off": 2905,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "started",
+        "off": 2905,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "been",
+        "off": 2886,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "started",
+        "off": 2905,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would it",
+        "off": 2872,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 2896,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "started",
+        "off": 2905,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll see",
+        "off": 2992,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can win",
+        "off": 3004,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "try to have",
+        "off": 2950,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 3047,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "came",
+        "off": 3057,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should I",
+        "off": 3144,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will leave",
+        "off": 3208,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "'s",
+        "off": 3283,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "lying",
+        "off": 3298,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll race",
+        "off": 3390,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "after",
+        "off": 3653,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "running",
+        "off": 3663,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "muttered",
+        "off": 3797,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "screwing",
+        "off": 3807,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can whistle",
+        "off": 3875,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can whistle",
+        "off": 3962,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could hardly",
+        "off": 4049,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "might he",
+        "off": 4465,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "possibility",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could hardly",
+        "off": 4644,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can throw",
+        "off": 4847,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "ordered",
+        "off": 4991,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "ordered",
+        "off": 4991,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can \nthrow",
+        "off": 5028,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll watch",
+        "off": 5097,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll throw",
+        "off": 5529,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "sitting",
+        "off": 5588,
+        "construction": "R_progressive"
+      },
+      "later": {
+        "trigger": "sitting",
+        "off": 5588,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can use",
+        "off": 5612,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will be",
+        "off": 5728,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "thrown",
+        "off": 5872,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "thrown",
+        "off": 5872,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "filled",
+        "off": 6496,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "filled",
+        "off": 6496,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "05_Shabarsha_the_Laborer",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "lived",
+        "off": 6557,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "lived",
+        "off": 6557,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][*/][amuse]['s][set][work][did][grow][thought][chase][live][get][Do][worry][said]['ll][come][set][catch]['ll][sell]['ll]['ve]['ll][make][\"][asked][sat][started][weaving][wove][wove][jumped][doing][asked]['m][weaving][intend][cleanse][pulling][Wait]['ll][go][tell][\"][dove][went][thought]['ll][play][cursed]['ll][bring][\"][began][digging][placed][says][trade][take][drag][hat][\"][dove][came][said][says][wrestle][\"][\"][do][mean][wrestle][deal]['s][resting][\"][\"][call][hit]['ll][get][went][found][whacked][rose][grabbed][cracked][forced][said][wrestle][cracked][started][wrestle][go][try]['ll][see][win][\"][came][repeated][replied][leave][\"]['s][lying][wanted][Go][touch]['ll][\"][ran][touched][jumped][Let][come]['ve][got][said][\"][tore][running][let][catch][\"][muttered][screwing][tell][see][whistle][see][whistle][whistle][whistled][stand][started][falling][whistle][said]['s][do][whistle][wo][stand][wo][stand][cover][lay][face][stuck][took][whacked][whistled][whistled][believe][whistles][fell][get][broken][see]['re][take]['s][try][throw][took][put][set][ordered][try][throw][throw]['ll][watch][\"][threw][flew][waited][come][took][stood][leaned][began][gazing][do][throw][waiting][asked]['m][waiting][comes]['ll][throw][sitting][use][Do][throw][grabbed][dove][thrown][got][ordered][drag][buy][dragged][dragged]['ve][put]['s]['s][weaving][do][started][began][filling][poured][poured][filled][lived][invited][come][drink][did][go][said][did]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could he",
+          "off": 780,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could he]"
+      },
+      {
+        "anchor": {
+          "trigger": "could he",
+          "off": 817,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could he]"
+      },
+      {
+        "anchor": {
+          "trigger": "could he",
+          "off": 841,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could he]"
+      },
+      {
+        "anchor": {
+          "trigger": "can catch",
+          "off": 1033,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can catch]"
+      },
+      {
+        "anchor": {
+          "trigger": "intend to cleanse",
+          "off": 1434,
+          "construction": "I_desire"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[intend to cleanse]"
+      },
+      {
+        "anchor": {
+          "trigger": "should first",
+          "off": 2112,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should first]"
+      },
+      {
+        "anchor": {
+          "trigger": "should I",
+          "off": 2168,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should I]"
+      },
+      {
+        "anchor": {
+          "trigger": "can I",
+          "off": 2360,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can I]"
+      },
+      {
+        "anchor": {
+          "trigger": "would it",
+          "off": 2872,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would it]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 2896,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "can win",
+          "off": 3004,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can win]"
+      },
+      {
+        "anchor": {
+          "trigger": "try to have",
+          "off": 2950,
+          "construction": "I_desire"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[try to have]"
+      },
+      {
+        "anchor": {
+          "trigger": "should I",
+          "off": 3144,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should I]"
+      },
+      {
+        "anchor": {
+          "trigger": "can whistle",
+          "off": 3875,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can whistle]"
+      },
+      {
+        "anchor": {
+          "trigger": "can whistle",
+          "off": 3962,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can whistle]"
+      },
+      {
+        "anchor": {
+          "trigger": "could hardly",
+          "off": 4049,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could hardly]"
+      },
+      {
+        "anchor": {
+          "trigger": "might he",
+          "off": 4465,
+          "construction": "I_modal"
+        },
+        "modal_force": "possibility",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[might he]"
+      },
+      {
+        "anchor": {
+          "trigger": "could hardly",
+          "off": 4644,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could hardly]"
+      },
+      {
+        "anchor": {
+          "trigger": "can throw",
+          "off": 4847,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can throw]"
+      },
+      {
+        "anchor": {
+          "trigger": "can \nthrow",
+          "off": 5028,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can \nthrow]"
+      },
+      {
+        "anchor": {
+          "trigger": "can use",
+          "off": 5612,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can use]"
+      }
+    ]
+  }
+}

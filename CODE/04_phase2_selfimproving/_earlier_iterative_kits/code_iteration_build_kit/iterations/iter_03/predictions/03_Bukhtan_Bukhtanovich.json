@@ -1,0 +1,322 @@
+{
+  "predictions": [
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would you",
+        "off": 599,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "one",
+        "off": 730,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "\"",
+        "off": 752,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "come",
+        "off": 1621,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "come",
+        "off": 1621,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "Saying",
+        "off": 2087,
+        "construction": "R_participle_adjunct"
+      },
+      "later": {
+        "trigger": "Saying",
+        "off": 2087,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall run",
+        "off": 2176,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "said",
+        "off": 2230,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "walking",
+        "off": 2249,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could lend",
+        "off": 2489,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P_retrospective",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "already",
+        "off": 2703,
+        "construction": "P_retrospective"
+      },
+      "later": {
+        "trigger": "set",
+        "off": 2711,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "retrospective adverbial signals anteriority"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "seen",
+        "off": 2779,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "seen",
+        "off": 2779,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "ashamed",
+        "off": 2932,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "wearing",
+        "off": 2947,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "ran",
+        "off": 4302,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "stretching",
+        "off": 4380,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "coming",
+        "off": 4550,
+        "construction": "R_progressive"
+      },
+      "later": {
+        "trigger": "coming",
+        "off": 4550,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will scorch",
+        "off": 4605,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall we",
+        "off": 4653,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "03_Bukhtan_Bukhtanovich",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 5040,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][lived][built][lay][came][said][like][marry][\"]['s]['re][saying][Do][\"][took][exchanged][went][said][give][measure][said][Take][took][stuck][brought][said][give][measure][Take][took][stuck][brought][give][Take][took][stuck][remained][brought][said][measured][answered][\"][come][give][show][ran][Put][dressed][accompanied][went][walked][cross][gave][fell][ran][\"][Saying][smeared][run][came][said][walking][somehow][fell][come][lend][take][took][came][change][let][go][\"][came][set][did][look][seen][winked][does][look][think][ashamed][wearing][worn][give][wear][whispered][Do][look][stared][whispered][does][look][stand][flung][whispered][look][\"][began][talk][celebrated][wedding][does][wedding][brewed][distilled][loaded][traveled][ran][saw][cried][sailed][ran][came][climbed][stood][went][saw][ran][stretching][perched][sat][said][sitting][coming][scorch][burn][\"][go][go][sealed][go][sealed][wrapped][took][arrived][ordered][thrown][threw][moved][lived][prospered][ruled][governed][ended]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "would you",
+          "off": 599,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would you]"
+      },
+      {
+        "anchor": {
+          "trigger": "could lend",
+          "off": 2489,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could lend]"
+      }
+    ]
+  }
+}

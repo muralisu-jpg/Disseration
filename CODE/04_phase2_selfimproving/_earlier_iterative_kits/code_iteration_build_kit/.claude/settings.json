@@ -1,0 +1,41 @@
+{
+  "model": "opus",
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "opus"
+  },
+  "permissions": {
+    "deny": []
+  },
+  "hooks": {
+    "SubagentStop": [
+      {
+        "matcher": "scorer",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if grep -qiE '(\"quote\"|sentence [0-9]|line [0-9]|story_id|trigger_text)' feedback.json 2>/dev/null; then echo 'BLOCK: scorer leaked per-example detail into feedback.json'; exit 1; fi; exit 0"
+          }
+        ]
+      },
+      {
+        "matcher": "improver",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if git -C pipeline diff 2>/dev/null | grep -qiE '(Ivashko|Nikita|Bukhtan|Shabarsha|Frolka|Popyalov|hedgehog|\\bversts\\b)'; then echo 'BLOCK: improver hard-coded a story-specific string'; exit 1; fi; exit 0"
+          }
+        ]
+      },
+      {
+        "matcher": "improver",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git -C . diff --name-only 2>/dev/null | grep -q '^score.py$' && echo 'BLOCK: improver must not edit score.py (the fixed ruler)' && exit 1; exit 0"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,931 @@
+{
+  "predictions": [
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "go",
+        "off": 1085,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "taking",
+        "off": 1089,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could distinguish",
+        "off": 1129,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "prepared to go",
+        "off": 1073,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "has gone",
+        "off": 1595,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "gone",
+        "off": 1599,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I5",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must have",
+        "off": 1817,
+        "construction": "I5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "possibility",
+      "rationale": "epistemic modal-perfect is irrealis"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had \nbrought",
+        "off": 2018,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "brought",
+        "off": 2023,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 2045,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could only",
+        "off": 2064,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "sent",
+        "off": 2369,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "saying",
+        "off": 2397,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would \ngive",
+        "off": 2487,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "hypothetical",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted \nto buy",
+        "off": 3094,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F3",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "threatened",
+        "off": 3377,
+        "construction": "F3"
+      },
+      "later": {
+        "trigger": "threatened",
+        "off": 3377,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "prediction/promise speech act foretells a later event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have helped",
+        "off": 3690,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "helped",
+        "off": 3695,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "sent",
+        "off": 4049,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "giving",
+        "off": 4081,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 4446,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "asked",
+        "off": 4458,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will buy",
+        "off": 4679,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Give",
+        "off": 4716,
+        "construction": "F2"
+      },
+      "later": {
+        "trigger": "gives",
+        "off": 5042,
+        "construction": "fulfilment"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "imperative whose commanded act is carried out later in the text"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have been",
+        "off": 4931,
+        "construction": "P7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "thanked",
+        "off": 4885,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "saying",
+        "off": 4898,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could see",
+        "off": 5224,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P9",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had built",
+        "off": 5438,
+        "construction": "P9"
+      },
+      "later": {
+        "trigger": "built",
+        "off": 5442,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "R6",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "see",
+        "off": 5407,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "wondering",
+        "off": 5424,
+        "construction": "ing-adjunct"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "a participial (-ing) adjunct runs simultaneously with its matrix verb"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must be",
+        "off": 5925,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "obligation",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will never",
+        "off": 6195,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will always",
+        "off": 6228,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I10",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "never reach",
+        "off": 6200,
+        "construction": "I10"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "averted",
+      "rationale": "an event under negation of occurrence stays on a non-actual branch"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will go",
+        "off": 6253,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will awaken",
+        "off": 6300,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to make",
+        "off": 6338,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall \nnot",
+        "off": 6363,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall be",
+        "off": 6395,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 6688,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to shoot",
+        "off": 6688,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 6980,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to do",
+        "off": 6980,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had grown",
+        "off": 7741,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "grown",
+        "off": 7745,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "longed to",
+        "off": 8065,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "longed to see",
+        "off": 8065,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had made",
+        "off": 8530,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "made",
+        "off": 8534,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "P7",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "have made",
+        "off": 8696,
+        "construction": "P7"
+      },
+      "later": {
+        "trigger": "made",
+        "off": 8701,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "present perfect in dialogue points back from speech time"
+    },
+    {
+      "story": "14_The_Merchant's_Daughter_and_the_Maidservant",
+      "rule": "I10",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "COUNTER_FACTIVE",
+      "earlier": {
+        "trigger": "never forgiven",
+        "off": 9184,
+        "construction": "I10"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "averted",
+      "rationale": "an event under negation of occurrence stays on a non-actual branch"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][carried][came][brought][said][find][\"][answered][thinking][guess][\"][wrote][called][told][deliver][said][Make][get][took][prepared][go][taking][distinguish][dressed][went][said][Let][take][went][gave][cut][put][came][said][gone][sea][\"][answered][need][went][married][began][live][\"][cheated][does][know][do][recovered][brought][see][hear][heard][tending][said][live][take][took][said][heeded][drove][sent][saying][\"][went][give][gave][brought][said][lie][sleep][began][sew][embroidered][behold][roused][said][take][do][\"][went][admired][wanted][buy][asked][told][asking][came][delighted][began][bargain][asked][began][curse][threatened][put][said][held][cried][cut][rushed][took][gave][overjoyed][helped][said][gave][took][left][returned][asked][get][said][did][\"][took][went][spat][put][see][sent][giving][asked][pay][owed][bring][got][needed][brought][sat][sew][finished][sent][Do][take][\"][told][asked][got][answer][gave][came][amazed][said][buy][Give][said][ordered][cut][gave][overjoyed][thanked][saying][asked][do][get][answered][gives][\"][left][came][gave][went][put][see][lay][sleep][awakening][found][began][live][went][see][wondering][built][drove][delighted][received][bade][sit][feasted][leaving][asked][come][see][returned][said][thinking][knows][\"][guessed][thought][herself][\"][cut][\"][went][visit][came][feasted][invited][began][make][said][reach][go][sleep][awaken][going][make][killed][cut][make][gather][bury][\"][came][seated][drove][brought][did][look][wanted][shoot][went][said][bring][cut][take][bring][\"][took][talked][knew][wanted][do][said][\"][cut][took][buried][returned][came][meet][took][rolled][put][went][sleep][wept][wept][set][appointed][made][went][seek][found][dug][gathered][put][buried][did][know][went][visit][arrived][buried][grown][returned][told][drove][drove][found][went][said][cut][garden][\"][came][began][cut][turned][longed][see][went][came][beheld][went][lost][thought][took][said][do][maltreat][began][cry][appeasing][gave][kept][took][made][gave][ceased][crying][began][skip][said][\"][made][ran][ran][ran][ran][ran][ran][ran][saw][overjoyed][said][went][fell][\"][said][forgiven][said][cut][ordered][cut][said][cut][let][dragged][\"][cut][tied][dragged][began][live][prosper][delighted][dressed]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "could distinguish",
+          "off": 1129,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could distinguish]"
+      },
+      {
+        "anchor": {
+          "trigger": "prepared to go",
+          "off": 1073,
+          "construction": "I8"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[prepared to go]"
+      },
+      {
+        "anchor": {
+          "trigger": "must have",
+          "off": 1817,
+          "construction": "I5"
+        },
+        "modal_force": "possibility",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must have]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 2045,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "could only",
+          "off": 2064,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could only]"
+      },
+      {
+        "anchor": {
+          "trigger": "would \ngive",
+          "off": 2487,
+          "construction": "I7"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would \ngive]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted \nto buy",
+          "off": 3094,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted \nto buy]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 4446,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "could see",
+          "off": 5224,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could see]"
+      },
+      {
+        "anchor": {
+          "trigger": "must be",
+          "off": 5925,
+          "construction": "I7"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must be]"
+      },
+      {
+        "anchor": {
+          "trigger": "never reach",
+          "off": 6200,
+          "construction": "I10"
+        },
+        "modal_force": "averted",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[never reach]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to shoot",
+          "off": 6688,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to shoot]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to do",
+          "off": 6980,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to do]"
+      },
+      {
+        "anchor": {
+          "trigger": "longed to see",
+          "off": 8065,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[longed to see]"
+      },
+      {
+        "anchor": {
+          "trigger": "never forgiven",
+          "off": 9184,
+          "construction": "I10"
+        },
+        "modal_force": "averted",
+        "slink": "COUNTER_FACTIVE",
+        "fate": "never_actual",
+        "branch_string": "[never forgiven]"
+      }
+    ]
+  }
+}

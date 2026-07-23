@@ -1,0 +1,21 @@
+{
+ "train": [
+  "01_Nikita_the_Tanner",
+  "06_Ivanko_the_Bear's_Son",
+  "14_The_Merchant's_Daughter_and_the_Maidservant"
+ ],
+ "test": [
+  "02_The_Magic_Swan_Geese",
+  "03_Bukhtan_Bukhtanovich",
+  "04_The_Crystal_Mountain",
+  "05_Shabarsha_the_Laborer",
+  "07_The_Runaway_Soldier_and_the_Devil",
+  "08_Frolka_Stay-at-Home",
+  "09_The_Witch",
+  "10_The_Seven_Simeons",
+  "11_Ivan_Popyalov",
+  "12_The_Serpent_and_the_Gypsy",
+  "13_Prince_Danila_Govorila",
+  "15_Dawn,_Evening_and_Midnight"
+ ]
+}

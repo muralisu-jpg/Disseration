@@ -1,0 +1,1063 @@
+{
+ "01_Nikita_the_Tanner": {
+  "n_functions": 10,
+  "order_match": 0.978,
+  "correct_pairs": 44,
+  "inversions": 1,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "B2,4",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H1",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I1",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "W_,*",
+    "name": "Wedding",
+    "canon": 31
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   }
+  ]
+ },
+ "02_The_Magic_Swan_Geese": {
+  "n_functions": 18,
+  "order_match": 0.895,
+  "correct_pairs": 137,
+  "inversions": 16,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "gamma1",
+    "name": "Interdiction",
+    "canon": 2
+   },
+   {
+    "code": "beta1",
+    "name": "Absentation",
+    "canon": 1
+   },
+   {
+    "code": "delta",
+    "name": "Violation",
+    "canon": 3
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "D1",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E_1",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "F_",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "G4",
+    "name": "Spatial transference",
+    "canon": 15
+   },
+   {
+    "code": "K1",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "Pr1",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "d7",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E7",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "F9",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "Rs4",
+    "name": "Rescue",
+    "canon": 22
+   }
+  ]
+ },
+ "03_Bukhtan_Bukhtanovich": {
+  "n_functions": 11,
+  "order_match": 0.836,
+  "correct_pairs": 46,
+  "inversions": 9,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "F69",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "a1",
+    "name": "Lack",
+    "canon": 8
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "T4",
+    "name": "Transfiguration",
+    "canon": 29
+   },
+   {
+    "code": "G3",
+    "name": "Spatial transference",
+    "canon": 15
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "I5",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "Wsub*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "04_The_Crystal_Mountain": {
+  "n_functions": 17,
+  "order_match": 0.875,
+  "correct_pairs": 119,
+  "inversions": 17,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "D6",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E6",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "F1",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "A11",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "B3",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H1",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I1",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "H1",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I1",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K8",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "05_Shabarsha_the_Laborer": {
+  "n_functions": 9,
+  "order_match": 1.0,
+  "correct_pairs": 36,
+  "inversions": 0,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "a5",
+    "name": "Lack",
+    "canon": 8
+   },
+   {
+    "code": "B4",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H2",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I2",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K1",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   }
+  ]
+ },
+ "06_Ivanko_the_Bear's_Son": {
+  "n_functions": 7,
+  "order_match": 1.0,
+  "correct_pairs": 21,
+  "inversions": 0,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A9",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H2",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I2",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K1",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   }
+  ]
+ },
+ "07_The_Runaway_Soldier_and_the_Devil": {
+  "n_functions": 14,
+  "order_match": 0.747,
+  "correct_pairs": 68,
+  "inversions": 23,
+  "told_sequence": [
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "D",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E7",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "F_9",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "T4",
+    "name": "Transfiguration",
+    "canon": 29
+   },
+   {
+    "code": "G1",
+    "name": "Spatial transference",
+    "canon": 15
+   },
+   {
+    "code": "A18",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "F1",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "H3",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I3",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "08_Frolka_Stay-at-Home": {
+  "n_functions": 10,
+  "order_match": 1.0,
+  "correct_pairs": 45,
+  "inversions": 0,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "B1",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H1",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I1",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "w0",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "09_The_Witch": {
+  "n_functions": 15,
+  "order_match": 0.981,
+  "correct_pairs": 103,
+  "inversions": 2,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "gamma1",
+    "name": "Interdiction",
+    "canon": 2
+   },
+   {
+    "code": "beta3",
+    "name": "Absentation",
+    "canon": 1
+   },
+   {
+    "code": "zeta1",
+    "name": "Delivery",
+    "canon": 5
+   },
+   {
+    "code": "eta3",
+    "name": "Trickery",
+    "canon": 6
+   },
+   {
+    "code": "theta2",
+    "name": "Complicity",
+    "canon": 7
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "D8",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E8",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "Pr7",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs10",
+    "name": "Rescue",
+    "canon": 22
+   },
+   {
+    "code": "Pr7",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs1",
+    "name": "Rescue",
+    "canon": 22
+   }
+  ]
+ },
+ "10_The_Seven_Simeons": {
+  "n_functions": 9,
+  "order_match": 0.972,
+  "correct_pairs": 35,
+  "inversions": 1,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "a1",
+    "name": "Lack",
+    "canon": 8
+   },
+   {
+    "code": "B2",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "F3",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "G2",
+    "name": "Spatial transference",
+    "canon": 15
+   },
+   {
+    "code": "K2",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   }
+  ]
+ },
+ "11_Ivan_Popyalov": {
+  "n_functions": 12,
+  "order_match": 0.985,
+  "correct_pairs": 65,
+  "inversions": 1,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A4",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "F3",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "H1",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I1",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "Pr4",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs7",
+    "name": "Rescue",
+    "canon": 22
+   },
+   {
+    "code": "Pr1",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs5",
+    "name": "Rescue",
+    "canon": 22
+   }
+  ]
+ },
+ "12_The_Serpent_and_the_Gypsy": {
+  "n_functions": 10,
+  "order_match": 0.956,
+  "correct_pairs": 43,
+  "inversions": 2,
+  "told_sequence": [
+   {
+    "code": "A17",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "B4",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "H2",
+    "name": "Struggle",
+    "canon": 16
+   },
+   {
+    "code": "I2",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "I2,6",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "w0",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "13_Prince_Danila_Govorila": {
+  "n_functions": 17,
+  "order_match": 0.868,
+  "correct_pairs": 118,
+  "inversions": 18,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A15(xvi)",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "d7",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E7",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "F3,2",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "Pr",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs4",
+    "name": "Rescue",
+    "canon": 22
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "D8",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E8",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "F8",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "Pr1",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs2",
+    "name": "Rescue",
+    "canon": 22
+   },
+   {
+    "code": "o",
+    "name": "Unrecognized arrival",
+    "canon": 23
+   },
+   {
+    "code": "Q",
+    "name": "Recognition",
+    "canon": 27
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "14_The_Merchant's_Daughter_and_the_Maidservant": {
+  "n_functions": 12,
+  "order_match": 0.879,
+  "correct_pairs": 58,
+  "inversions": 8,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "A6",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "o",
+    "name": "Unrecognized arrival",
+    "canon": 23
+   },
+   {
+    "code": "F3,4",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "K3",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "T2",
+    "name": "Transfiguration",
+    "canon": 29
+   },
+   {
+    "code": "Pr6",
+    "name": "Pursuit",
+    "canon": 21
+   },
+   {
+    "code": "Rs6",
+    "name": "Rescue",
+    "canon": 22
+   },
+   {
+    "code": "Q",
+    "name": "Recognition",
+    "canon": 27
+   },
+   {
+    "code": "Ex",
+    "name": "Exposure",
+    "canon": 28
+   },
+   {
+    "code": "U",
+    "name": "Punishment",
+    "canon": 30
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "15_Dawn,_Evening_and_Midnight": {
+  "n_functions": 16,
+  "order_match": 0.975,
+  "correct_pairs": 117,
+  "inversions": 3,
+  "told_sequence": [
+   {
+    "code": "alpha",
+    "name": "Initial situation",
+    "canon": 0
+   },
+   {
+    "code": "gamma1",
+    "name": "Interdiction",
+    "canon": 2
+   },
+   {
+    "code": "delta",
+    "name": "Violation",
+    "canon": 3
+   },
+   {
+    "code": "beta3",
+    "name": "Absentation",
+    "canon": 1
+   },
+   {
+    "code": "A1",
+    "name": "Villainy",
+    "canon": 8
+   },
+   {
+    "code": "B1",
+    "name": "Mediation",
+    "canon": 9
+   },
+   {
+    "code": "C",
+    "name": "Beginning counteraction",
+    "canon": 10
+   },
+   {
+    "code": "up",
+    "name": "Departure",
+    "canon": 11
+   },
+   {
+    "code": "D9",
+    "name": "First donor function",
+    "canon": 12
+   },
+   {
+    "code": "E9",
+    "name": "Hero's reaction",
+    "canon": 13
+   },
+   {
+    "code": "G6",
+    "name": "Spatial transference",
+    "canon": 15
+   },
+   {
+    "code": "F7",
+    "name": "Receipt of magical agent",
+    "canon": 14
+   },
+   {
+    "code": "I5",
+    "name": "Victory",
+    "canon": 18
+   },
+   {
+    "code": "K4",
+    "name": "Liquidation of lack",
+    "canon": 19
+   },
+   {
+    "code": "down",
+    "name": "Return",
+    "canon": 20
+   },
+   {
+    "code": "W*",
+    "name": "Wedding",
+    "canon": 31
+   }
+  ]
+ },
+ "_overall": {
+  "order_match": 0.913,
+  "total_correct": 1055,
+  "total_inversions": 101,
+  "interpretation": "inversions = pairs of Propp functions TOLD out of canonical order = narrative-level non-iconicity"
+ }
+}

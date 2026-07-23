@@ -1,0 +1,1297 @@
+{
+  "predictions": [
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "after",
+        "off": 571,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to go",
+        "off": 789,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "given",
+        "off": 1049,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "given",
+        "off": 1049,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would ever",
+        "off": 1073,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "hope that",
+        "off": 1058,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "happened",
+        "off": 1183,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "happened",
+        "off": 1183,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "lived",
+        "off": 1205,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "lived",
+        "off": 1205,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall I",
+        "off": 1450,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "should store",
+        "off": 1703,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "slaughtered",
+        "off": 1826,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "slaughtered",
+        "off": 1826,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will guard",
+        "off": 2152,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "taken",
+        "off": 2613,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "taken",
+        "off": 2613,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "eaten",
+        "off": 2633,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "eaten",
+        "off": 2633,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_perception",
+      "track": "present",
+      "tlink": "INCLUDES",
+      "slink": null,
+      "earlier": {
+        "trigger": "found",
+        "off": 2558,
+        "construction": "matrix verb"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "perception frame: the ongoing event is included in the act of perceiving"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can I",
+        "off": 2951,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will ruin",
+        "off": 3050,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 3010,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "goes",
+        "off": 3018,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can get",
+        "off": 3090,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would drag",
+        "off": 3280,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "hoped that",
+        "off": 3264,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to thrash",
+        "off": 3534,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_simultaneity",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "while",
+        "off": 3647,
+        "construction": "R_simultaneity"
+      },
+      "later": {
+        "trigger": "'ll",
+        "off": 3664,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "co-temporal connective: the two clauses overlap in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll run",
+        "off": 3664,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll pay",
+        "off": 3865,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 3832,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "run",
+        "off": 3844,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 3883,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "told",
+        "off": 3894,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can outrun",
+        "off": 4088,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "hope to run",
+        "off": 3996,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to race",
+        "off": 4111,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "lying",
+        "off": 4160,
+        "construction": "R_progressive"
+      },
+      "later": {
+        "trigger": "lying",
+        "off": 4160,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "after",
+        "off": 4360,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 4430,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "wish",
+        "off": 4437,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will kill",
+        "off": 4517,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 4495,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "lag",
+        "off": 4503,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 4561,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "After",
+        "off": 4598,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "jumped",
+        "off": 4616,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_simultaneity",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "while",
+        "off": 4606,
+        "construction": "R_simultaneity"
+      },
+      "later": {
+        "trigger": "jumped",
+        "off": 4616,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "co-temporal connective: the two clauses overlap in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "jumped",
+        "off": 4616,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "carrying",
+        "off": 4628,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will pay",
+        "off": 4754,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 4702,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "throw",
+        "off": 4713,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could not",
+        "off": 5025,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_simultaneity",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "while",
+        "off": 5058,
+        "construction": "R_simultaneity"
+      },
+      "later": {
+        "trigger": "\"",
+        "off": 5064,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "co-temporal connective: the two clauses overlap in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 5075,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "coming",
+        "off": 5087,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "shall throw",
+        "off": 5102,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "After",
+        "off": 5262,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "jumped",
+        "off": 5280,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_simultaneity",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "while",
+        "off": 5270,
+        "construction": "R_simultaneity"
+      },
+      "later": {
+        "trigger": "jumped",
+        "off": 5280,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "co-temporal connective: the two clauses overlap in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "jumped",
+        "off": 5280,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "saying",
+        "off": 5298,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will \npay",
+        "off": 5412,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will have",
+        "off": 5444,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 5329,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "carry",
+        "off": 5341,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 5432,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "go",
+        "off": 5457,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must admit",
+        "off": 5921,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_present_perfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "carried",
+        "off": 6067,
+        "construction": "P_present_perfect"
+      },
+      "later": {
+        "trigger": "carried",
+        "off": 6067,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": null,
+      "rationale": "present perfect points back from the moment of speaking"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 6083,
+        "construction": "P_subordinator"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "06_Ivanko_the_Bear's_Son",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must we",
+        "off": 6103,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Ivanko][Published][lived][went][lost][stumbled][kept][called][went][grew][wanted][go][waited][went][made][ran][ran][ran][came][saw][overjoyed][given][return][beheld][asked][told][happened][lived][said][go][make][\"][slaughter][stares][\"][took][went][called][began][stare][slaughtered][skinned][went][ask][store][\"]['s][yelled][told][slaughter][slaughtered][told][slaughter][stared][came][began][stare][\"][Take][skins][guard][guard][\"][happened][fell][broke][took][spent][took][found][took][pleased][went][see][found][left][taken][eaten][looked][found][began][chide][said][told][guard][did][guard][did][steal][did][eat][\"][do][thought][goes][ruin][wonder][get][hit][sent][told][wind][lake][dwelt][hoped][drag][went][sat][began][wind][jumped][asked][\"][doing][see]['m][winding][want][thrash][devils][live][do][pay]['ll][run][tell][said][jumped][said][said][run]['ll][pay][told][drag][said][hope][run][born][outrun][Do][want][\"][lying][said][cried][do][fail][darted][vanished][rushed][wish][said][lag][kill][\"][said][jumped][carrying][said][said][throw][pay][throw][threw][fell][throw][said][took][move][\"][said][\"][coming][throw][\"][wo][do][grandfather][needs][said][snatched][rushed][jumped][saying][said][carry][pay][go][supposed][begin][answered][heaved][dragged][carried][ten][exhausted][streamed]['s][said][mounted][began][ride][rode][collapsed][\"][asked][admit][said][\"][carried][carried][pay][\"][fill]['s][want][\"][ran][fetch][cut][placed][kept][bringing][pouring][worked][evening][filled][got][loaded][drag][said][\"]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "wanted to go",
+          "off": 789,
+          "construction": "I_desire"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to go]"
+      },
+      {
+        "anchor": {
+          "trigger": "would ever",
+          "off": 1073,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would ever]"
+      },
+      {
+        "anchor": {
+          "trigger": "hope that",
+          "off": 1058,
+          "construction": "I_desire"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[hope that]"
+      },
+      {
+        "anchor": {
+          "trigger": "should store",
+          "off": 1703,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[should store]"
+      },
+      {
+        "anchor": {
+          "trigger": "can I",
+          "off": 2951,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can I]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 3010,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "can get",
+          "off": 3090,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can get]"
+      },
+      {
+        "anchor": {
+          "trigger": "would drag",
+          "off": 3280,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would drag]"
+      },
+      {
+        "anchor": {
+          "trigger": "hoped that",
+          "off": 3264,
+          "construction": "I_desire"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[hoped that]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to thrash",
+          "off": 3534,
+          "construction": "I_desire"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to thrash]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 3832,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 3883,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "can outrun",
+          "off": 4088,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can outrun]"
+      },
+      {
+        "anchor": {
+          "trigger": "hope to run",
+          "off": 3996,
+          "construction": "I_desire"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[hope to run]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to race",
+          "off": 4111,
+          "construction": "I_desire"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to race]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 4430,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 4495,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 4702,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "could not",
+          "off": 5025,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could not]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 5329,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 5432,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "must admit",
+          "off": 5921,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must admit]"
+      },
+      {
+        "anchor": {
+          "trigger": "must we",
+          "off": 6103,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must we]"
+      }
+    ]
+  }
+}

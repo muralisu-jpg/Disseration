@@ -1,0 +1,8 @@
+{
+ "C1_fixed_order": {
+  "canonical_pair_rate": 0.9126,
+  "perfectly_ordered_tales": 3,
+  "verdict": "QUALIFY"
+ },
+ "notes": "Full claim-by-claim results. Rare co-occurrences limit some pairwise tests."
+}

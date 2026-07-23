@@ -1,0 +1,1 @@
+{"iter":2,"decision":"ACCEPT","reason":"acc 0.6853->0.7215, macro 0.2973->0.394; overlap F1 0.081->0.358, before F1 0.811->0.824 (not a collapse); test overlap precision 0.725. STOP RULE met.","best_commit":"fd3c2934137163ed1f523bca8c529d20a7c42a1e"}

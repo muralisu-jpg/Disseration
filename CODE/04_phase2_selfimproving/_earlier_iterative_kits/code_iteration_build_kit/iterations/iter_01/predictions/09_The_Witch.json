@@ -1,0 +1,833 @@
+{
+  "predictions": [
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "one",
+        "off": 400,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "called",
+        "off": 408,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 367,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "lived",
+        "off": 372,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can tell",
+        "off": 428,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll go",
+        "off": 522,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll let",
+        "off": 548,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 541,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "'ll",
+        "off": 548,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will there",
+        "off": 653,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "'will/shall + V' projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll catch",
+        "off": 710,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "passed",
+        "off": 1048,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "passed",
+        "off": 1048,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "passed",
+        "off": 1693,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "passed",
+        "off": 1693,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "After",
+        "off": 1669,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "passed",
+        "off": 1693,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "cried",
+        "off": 2187,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "cried",
+        "off": 2187,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_desire",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "longed to get",
+        "off": 2216,
+        "construction": "I_desire"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "must call",
+        "off": 2656,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "obligation",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll eat",
+        "off": 2854,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 2839,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "do",
+        "off": 2846,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_simultaneity",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "bake",
+        "off": 3277,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "go",
+        "off": 3304,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "co-temporal connective: the two clauses overlap in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "roll",
+        "off": 4447,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 4459,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "roll",
+        "off": 4526,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 4538,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "Turn",
+        "off": 4627,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 4652,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "roll",
+        "off": 4808,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 4820,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_participle_adjunct",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "Turn",
+        "off": 4876,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 4900,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "present-participle adjunct clause overlaps the matrix event in time"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll eat",
+        "off": 5268,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 5254,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "do",
+        "off": 5261,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "gnawed",
+        "off": 5549,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "gnawed",
+        "off": 5549,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_perception",
+      "track": "present",
+      "tlink": "INCLUDES",
+      "slink": null,
+      "earlier": {
+        "trigger": "saw",
+        "off": 5603,
+        "construction": "matrix verb"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": null,
+      "rationale": "perception frame: the ongoing event is included in the act of perceiving"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "saw",
+        "off": 5603,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "sitting",
+        "off": 5625,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "F_will",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll eat",
+        "off": 5911,
+        "construction": "F_will"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "contracted 'll projects an event after the moment of speaking"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_conditional",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "if",
+        "off": 5897,
+        "construction": "I_conditional"
+      },
+      "later": {
+        "trigger": "do",
+        "off": 5904,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "conditional marker introduces a branch that depends on a condition"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "once",
+        "off": 5997,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "began",
+        "off": 6008,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "R_progressive",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "saw",
+        "off": 6094,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "flying",
+        "off": 6124,
+        "construction": "matrix verb"
+      },
+      "cue_type": "inferred",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "progressive aspect frames a durative ongoing event that overlaps a co-occurring event"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "would that",
+        "off": 7238,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "hypothetical",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "I_modal",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "could see",
+        "off": 7251,
+        "construction": "I_modal"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "ability",
+      "rationale": "modal verb places the event in the unreal / possible zone"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "brought",
+        "off": 7351,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "brought",
+        "off": 7351,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "finished",
+        "off": 7412,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "finished",
+        "off": 7412,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_pluperfect",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "happened",
+        "off": 7947,
+        "construction": "P_pluperfect"
+      },
+      "later": {
+        "trigger": "happened",
+        "off": 7947,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "pluperfect (had + past participle) marks an event anterior to the narrative now"
+    },
+    {
+      "story": "09_The_Witch",
+      "rule": "P_subordinator",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "after",
+        "off": 7962,
+        "construction": "P_subordinator"
+      },
+      "later": {
+        "trigger": "lived",
+        "off": 7985,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "temporal subordinator: the subordinate event precedes the matrix event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][lived][called][tell][said]['ll][go][fishing]['ll][let][\"][\"][thinking]['re][suppose][get][drowned][sha][get][drowned]['ll][catch][do][let][go][put][tied][let][go][sat][said][float][float][floated][began][fish][passed][hobbled][called][float][bring][said][calling][floated][took][gave][changed][sent][sat][said][float][float][floated][began][fish][passed][hobbled][called][bring][replied][calling][floated][took][gave][changed][sent][heard][cried][longed][get][went][cried][bring][perceived][sang][float][float][calls][saw][call][hastened][said][make][do]['ll][eat][\"][forged][went][bring][came][took][seized][carried][arrived][said][bake][go][collect][heated][said][sit]['m][answered][got][Please][teach][ought][sit][said][\"][wo][take][teach][\"][sat][pitched][slammed][ran][shut][climbed][stood][arrived][knocked][opened][cursed][cried]['s][gone][amuse][\"][slipped][opened][let][sat][table][opened][took][served][ate][drank][went][began][rolling][turn][roll][having][fed][cried][turn][roll][having][fed][called][Turn][having][fed][hear][said][No][began][turn][roll][having][fed][repeated][Turn][having][fed][looked][saw][rushed][seated][began][gnaw][gnawed][gnawed][gnawed][smashed][ran][reached][cried][make][do]['ll][eat][\"][forged][returned][began][gnawing][gnawed][gnawed][gnawing][jumped][stood][gnawed][fell][saw][sitting][gnashed][set][work][gnaw][gnawed][gnawed][gnawed][broke][ran][cried][got][make][do]['ll][eat][\"][forged][went][began][gnaw][did][know][do][looked][saw][flying][called][Take][eat][drink][live][said][waited][flew][cried][Take][eat][drink][live][\"][said][waited][came][flying][cried][Take][eat][drink][live][took][carried][flew][dropped][work][bake][baked][fell][thinking][cried][see][said][dreamed][brought][finished][baking][said][let][divide]['s]['s]['s]['s][\"][\"][called]['s][went]['s][\"][repeated][said][go][see][climbed][found][delighted][asked][happened][lived]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "can tell",
+          "off": 428,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can tell]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 541,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "longed to get",
+          "off": 2216,
+          "construction": "I_desire"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[longed to get]"
+      },
+      {
+        "anchor": {
+          "trigger": "must call",
+          "off": 2656,
+          "construction": "I_modal"
+        },
+        "modal_force": "obligation",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[must call]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 2839,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 5254,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "if",
+          "off": 5897,
+          "construction": "I_conditional"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[if]"
+      },
+      {
+        "anchor": {
+          "trigger": "would that",
+          "off": 7238,
+          "construction": "I_modal"
+        },
+        "modal_force": "hypothetical",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[would that]"
+      },
+      {
+        "anchor": {
+          "trigger": "could see",
+          "off": 7251,
+          "construction": "I_modal"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[could see]"
+      }
+    ]
+  }
+}

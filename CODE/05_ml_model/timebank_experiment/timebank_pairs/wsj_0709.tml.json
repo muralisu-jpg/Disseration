@@ -1,0 +1,1 @@
+[{"pair_id": "wsj_0709.tml_ei132_ei133", "e1_word": "had", "e1_class": "OCCURRENCE", "e1_tense": "PAST", "e1_aspect": "NONE", "e1_off": 1981, "e2_word": "loss", "e2_class": "OCCURRENCE", "e2_tense": "NONE", "e2_aspect": "NONE", "e2_off": 2031, "same_sentence": true, "text_order": "e1_first", "e1_sentence": "", "e2_sentence": "", "signal": "", "relation": "IDENTITY"}]

@@ -1,0 +1,8 @@
+# Pipeline change log
+# One line per iteration. Format: [iter NN] stage — what changed — why (which track/metric).
+# Example:
+# [iter 03] preprocessing — split "'ll" into its own token — future recall was low; F1 rule could not see contractions.
+[iter 00] baseline — v5 pipeline, unchanged starting point.
+[iter 01] rules (future) — added a detector for the contracted future "'ll" (I'll/she'll/we'll), mirroring the F_will rule — future recall was low because the tokenizer/raw text writes contracted futures as "'ll", which the \b(will|shall)\b regex can never match, so contracted plans/promises/threats were invisible to the future track.
+[iter 03] rules (present) — added R_progressive: "be (am/is/are/was/were/be/been/being) + (adv) + V-ing" marks SIMULTANEOUS overlap, the durative ongoing event overlapping a co-occurring (often punctual) event ("she was cooking when he arrived"); validated against VBG-tagged events so be + -ing noun cannot fire — present recall was 0.06 (gold 461 vs only 38 predictions) because the most common overlap construction in narrative, the progressive aspect, had no detector at all; existing present rules only covered SIMUL_CONJ connectives, perception+gerund, and comma-set participial adjuncts.
+[iter 02] rules (present) — added R_participle_adjunct: a comma-set present-participle (-ing) clause, trailing ("she left, smiling") or fronted ("Smiling, she left"), marks SIMULTANEOUS overlap with the matrix verb; validated against VBG-tagged events so -ing nouns (morning, building) never fire — present F1 was 0.00 with near-zero recall because the only present detectors were a few SIMUL_CONJ connectives and a perception+gerund frame, leaving the most common overlap construction (participial adjunct clauses) completely invisible.

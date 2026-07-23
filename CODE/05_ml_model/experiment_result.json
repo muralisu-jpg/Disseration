@@ -1,0 +1,16 @@
+{
+ "baseline": {
+  "pairs": 2593,
+  "rel_acc": 0.7792,
+  "rel_f1": 0.6369,
+  "model_timeline": 0.8859,
+  "propp_timeline": 0.7674
+ },
+ "+TimeBank": {
+  "pairs": 6074,
+  "rel_acc": 0.7744,
+  "rel_f1": 0.5468,
+  "model_timeline": 0.8987,
+  "propp_timeline": 0.7674
+ }
+}

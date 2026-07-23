@@ -1,0 +1,559 @@
+{
+  "predictions": [
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had \ngot",
+        "off": 900,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "got",
+        "off": 905,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had flung",
+        "off": 1077,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "flung",
+        "off": 1081,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had got",
+        "off": 1340,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "got",
+        "off": 1344,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had got",
+        "off": 1744,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "got",
+        "off": 1748,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will do",
+        "off": 2016,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had got",
+        "off": 2053,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "got",
+        "off": 2057,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had said",
+        "off": 2410,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "said",
+        "off": 2414,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "\"",
+        "off": 2712,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can I",
+        "off": 2717,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F2",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "Let",
+        "off": 2849,
+        "construction": "F2"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "imperative commands a future action"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will kill",
+        "off": 3472,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having taken",
+        "off": 3769,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "killed",
+        "off": 3741,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having taken",
+        "off": 3769,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "having",
+        "off": 3769,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having taken",
+        "off": 3769,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "taken",
+        "off": 3776,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having taken",
+        "off": 3769,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "went",
+        "off": 3799,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P2",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "having taken",
+        "off": 3769,
+        "construction": "P2"
+      },
+      "later": {
+        "trigger": "destroyed",
+        "off": 3821,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "perfect participle ('having + PP') precedes the matrix verb"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P6",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "After killing",
+        "off": 3905,
+        "construction": "P6"
+      },
+      "later": {
+        "trigger": "killing",
+        "off": 3911,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "subordinate -ing clause names an action prior to the main clause"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had forgotten",
+        "off": 3996,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "forgotten",
+        "off": 4000,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had reached",
+        "off": 4127,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "reached",
+        "off": 4131,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "going to take",
+        "off": 4156,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "as he",
+        "off": 4456,
+        "construction": "R2"
+      },
+      "later": {
+        "trigger": "came",
+        "off": 4462,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "R1",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "graze",
+        "off": 4716,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "rest",
+        "off": 4737,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "'while' marks co-temporal events"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "'ll try",
+        "off": 5156,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P6",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "After killing",
+        "off": 5662,
+        "construction": "P6"
+      },
+      "later": {
+        "trigger": "killing",
+        "off": 5668,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": null,
+      "rationale": "subordinate -ing clause names an action prior to the main clause"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had tasted",
+        "off": 6025,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "tasted",
+        "off": 6029,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had sent",
+        "off": 6533,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "sent",
+        "off": 6537,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "11_Ivan_Popyalov",
+      "rule": "R2",
+      "track": "present",
+      "tlink": "SIMULTANEOUS",
+      "slink": null,
+      "earlier": {
+        "trigger": "heated",
+        "off": 6492,
+        "construction": "matrix verb"
+      },
+      "later": {
+        "trigger": "sent",
+        "off": 6537,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.75,
+      "modal_force": null,
+      "rationale": "temporal 'as' marks overlap"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[Published][surnamed][lay][arose][shook][fell][lived][doing][kill][said][\"][make][got][went][flung][straight][went][went][flung][stood][thrown][fell][hit][broke][went][said][make][\"][got][went][flung][went][flying][went][came][tumbling][put][broke][went][told][make][got][went][flung][went][fell][struck][bowed][said][\"][do][got][went][fight][rode][stood][lived][came][hung][said][blood][make][help][\"][said][went][sat][rode][stumbled][howled][clamored][cried][stumbled][howled][clamored][\"][replied][sits][said][Let][try][\"][came][began][fight][killed][sat][came][killed][came][began][fight][lopped][left][came][flying][croaked][cried][tell][come][devour][cried][tell][come][kill][give][thee][\"][gave][said][flew][began][croak][awoke][heard][hastened][killed][having][taken][went][destroyed][killing][set][forgotten][take][went][fetch][telling][wait][reached][going][take][heard][talking][turned][began][mew][let][listened][said][got][hastened][came][mounted][started][rode][rode][saw][lay][said][turn][graze][rest][\"][said][seized][struck][streamed][went][rode][rode][stood][said][said]['ll][try][took][struck][streamed][went][rode][saw][cried][cried][raised][struck][became][killing][went][came][opened][tried][swallow][threw][swallowed][thinking][tasted][found][flew][perceived][let][go][came][flying][said][replied][take][began][licking][heated][sent][caught][began][thumping][consumed][scattered][went][lived][enjoyed][feasting][drinking][liquor][drink][did][go][ran]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "can I",
+          "off": 2717,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can I]"
+      }
+    ]
+  }
+}

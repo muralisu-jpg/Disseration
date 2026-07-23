@@ -1,0 +1,26 @@
+{
+ "iter": 3,
+ "attempted_change": "Enable LLM (claude-opus-4-8) on hard pairs, with few-shot examples + point-algebra definitions; fixed the Windows command-line-length bug in llm_call (prompt now passed on stdin). 1402 of 2043 pairs routed to the LLM (is_hard: same-sentence, repeated-word, or tense-mismatch); the remaining 641 use narrative-order + IDENTITY + stative-overlap rules. This run was fully cache-served (0 fresh LLM calls), coverage 1.0.",
+ "accuracy": 0.8478,
+ "macro_f1": 0.7733,
+ "fine_macro_f1": 0.4153,
+ "best_accuracy_before": 0.7215,
+ "best_macro_f1_before": 0.394,
+ "decision": "ACCEPT",
+ "keep_best_rule": "accuracy 0.8478 > 0.7215 AND macro_f1 0.7733 >= 0.384 (best_macro - 0.01) -> ACCEPT",
+ "best_commit": "0207cac662329562425f2bbccad422ee8a224409",
+ "honesty_check": {
+  "suspicious_jump": true,
+  "inspected": "prediction distribution (3-way) and per-class F1, NOT gold",
+  "prediction_distribution_3way": {"before": 1535, "overlap": 474, "after": 34},
+  "per_class_3way_f1": {"before": 0.898, "after": 0.697, "overlap": 0.725},
+  "verdict": "REAL, not contaminated / not gamed",
+  "evidence": [
+   "All three 3-way classes carry substantial F1; overlap recall 0.635 and after F1 0.697 rule out class-collapse/blanket-prediction gaming (macro guard easily satisfied).",
+   "Prediction distribution tracks the class balance (before/overlap/after 1535/474/34 vs gold support 1381/630/32) via a normal precision/recall tradeoff, not collapse.",
+   "Decisive: fine 14-way macro-F1 is only 0.4153 (IBEFORE 0.24, BEGINS 0.15, ENDED_BY 0.17). A gold leak would ace the 14-way too. Strong-coarse/weak-fine is the signature of a genuine LLM that gets before/after/overlap direction right but muddles the specific subtype.",
+   "Beating the cited 0.77 (a 2020 supervised model) with a 2026 frontier LLM + point-algebra guidance on the collapsed 3-way task is the README's designated honest win."
+  ]
+ },
+ "stop_rule": "MET: best three_way_accuracy 0.8478 >= 0.77 AND best three_way_macro_f1 0.7733 >= 0.70 -> loop stops."
+}

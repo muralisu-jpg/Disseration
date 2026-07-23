@@ -1,0 +1,409 @@
+{
+  "predictions": [
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "P9",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had seven",
+        "off": 218,
+        "construction": "P9"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will probably",
+        "off": 898,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can make",
+        "off": 1016,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will also",
+        "off": 1051,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can shoot",
+        "off": 1139,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will retrieve",
+        "off": 1287,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F6",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "If a marksman shoots a bird, I will",
+        "off": 1256,
+        "construction": "F6"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": null,
+      "rationale": "open conditional projects a contingent future"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I3",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "CONDITIONAL",
+      "earlier": {
+        "trigger": "If",
+        "off": 1256,
+        "construction": "I3"
+      },
+      "later": {
+        "trigger": "shoots",
+        "off": 1270,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.7,
+      "modal_force": "conditional",
+      "rationale": "a conditional marker opens a hypothetical sub-timeline"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I7",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "can see",
+        "off": 1417,
+        "construction": "I7"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.55,
+      "modal_force": "ability",
+      "rationale": "a modal verb places the event in the unreal/possible zone"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "decided to put",
+        "off": 1842,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F1",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "will you",
+        "off": 1936,
+        "construction": "F1"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.8,
+      "modal_force": null,
+      "rationale": "future auxiliary projects a not-yet event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "decided to marry",
+        "off": 2242,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "plan",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "P1",
+      "track": "past",
+      "tlink": "BEFORE",
+      "slink": null,
+      "earlier": {
+        "trigger": "had already forgotten",
+        "off": 3523,
+        "construction": "P1"
+      },
+      "later": {
+        "trigger": "forgotten",
+        "off": 3535,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.9,
+      "modal_force": null,
+      "rationale": "past perfect (had + participle): completed before the reference past"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I1",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "thought",
+        "off": 3569,
+        "construction": "I1"
+      },
+      "later": {
+        "trigger": "\"",
+        "off": 3589,
+        "construction": "matrix verb"
+      },
+      "cue_type": "explicit_marker",
+      "confidence": 0.65,
+      "modal_force": "belief",
+      "rationale": "a mental-state verb opens an irrealis sub-world"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "F5",
+      "track": "future",
+      "tlink": "AFTER",
+      "slink": null,
+      "earlier": {
+        "trigger": "wanted to",
+        "off": 4045,
+        "construction": "F5"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.5,
+      "modal_force": null,
+      "rationale": "expectation/desire projects a wished or feared future"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "wanted to marry",
+        "off": 4045,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    },
+    {
+      "story": "10_The_Seven_Simeons",
+      "rule": "I8",
+      "track": "imaginary",
+      "tlink": null,
+      "slink": "MODAL",
+      "earlier": {
+        "trigger": "want to marry",
+        "off": 4090,
+        "construction": "I8"
+      },
+      "later": null,
+      "cue_type": "explicit_marker",
+      "confidence": 0.6,
+      "modal_force": "wish",
+      "rationale": "a desire/intention/fear predicate introduces a non-actual event"
+    }
+  ],
+  "timeline": {
+    "timeline_string": "[did][got][brought][enlisted][bringing][asked][\"][do][know][do][\"][\"][said][summoned][asked][\"][\"][called][\"]['m][make][called][asking][do][\"][shoot][said][asks][\"][shoots][retrieve][asked][see][relate][happening][Sounds][questioned]['m][building]['s]['ve][built][asking][do][do][\"][\"][said][dismissed][passed][remembering][decided][put][use][asked][find][going][climbed][looked][related][happening][checked][found][passed][decided][marry][abduct][did][know][remembered][Summoning][commissioned][bring][convened][built][boarded][sailed][looking][said][went][sell][arrived][stole][cut][realized][carrying][turned][grabbed][fired][darted][retrieved][bringing][turned][injured][cured][fired][forgotten][thought][\"]['s][going][go][said][find]['s][going][ran][returned][concerning][rejoiced][commanded][met][did][want][marry][asked][wanted][marry][answered][want][marry][kidnapped][appealed][ordered][married][wanted][placed][made]",
+    "sub_timelines": [
+      {
+        "anchor": {
+          "trigger": "can make",
+          "off": 1016,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can make]"
+      },
+      {
+        "anchor": {
+          "trigger": "can shoot",
+          "off": 1139,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can shoot]"
+      },
+      {
+        "anchor": {
+          "trigger": "If",
+          "off": 1256,
+          "construction": "I3"
+        },
+        "modal_force": "conditional",
+        "slink": "CONDITIONAL",
+        "fate": "open",
+        "branch_string": "[If]"
+      },
+      {
+        "anchor": {
+          "trigger": "can see",
+          "off": 1417,
+          "construction": "I7"
+        },
+        "modal_force": "ability",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[can see]"
+      },
+      {
+        "anchor": {
+          "trigger": "decided to put",
+          "off": 1842,
+          "construction": "I8"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[decided to put]"
+      },
+      {
+        "anchor": {
+          "trigger": "decided to marry",
+          "off": 2242,
+          "construction": "I8"
+        },
+        "modal_force": "plan",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[decided to marry]"
+      },
+      {
+        "anchor": {
+          "trigger": "thought",
+          "off": 3569,
+          "construction": "I1"
+        },
+        "modal_force": "belief",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[thought]"
+      },
+      {
+        "anchor": {
+          "trigger": "wanted to marry",
+          "off": 4045,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[wanted to marry]"
+      },
+      {
+        "anchor": {
+          "trigger": "want to marry",
+          "off": 4090,
+          "construction": "I8"
+        },
+        "modal_force": "wish",
+        "slink": "MODAL",
+        "fate": "open",
+        "branch_string": "[want to marry]"
+      }
+    ]
+  }
+}

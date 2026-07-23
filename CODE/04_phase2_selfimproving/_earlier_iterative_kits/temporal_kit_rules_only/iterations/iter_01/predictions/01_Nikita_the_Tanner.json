@@ -1,0 +1,310 @@
+[
+  {
+    "pair_id": 0,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 1,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 2,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 3,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 4,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 5,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 6,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 7,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 8,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 9,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 10,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 11,
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 12,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 13,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 14,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 15,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 16,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 17,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 18,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 19,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 20,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 21,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 22,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 23,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 24,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 25,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 26,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 27,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 28,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 29,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 30,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 31,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 32,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 33,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 34,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 35,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 36,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 37,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 38,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 39,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 40,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 41,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 42,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 43,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 44,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 45,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 46,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 47,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 48,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 49,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 50,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 51,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 52,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 53,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 54,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 55,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 56,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 57,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 58,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 59,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 60,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 61,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 62,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 63,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 64,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 65,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 66,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 67,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 68,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 69,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 70,
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 71,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 72,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 73,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 74,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 75,
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 76,
+    "relation": "BEFORE"
+  }
+]

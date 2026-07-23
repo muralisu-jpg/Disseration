@@ -1,0 +1,113 @@
+{
+ "n_gold_pairs": 2043,
+ "n_predicted": 2043,
+ "coverage": 1.0,
+ "three_way_accuracy": 0.7215,
+ "three_way_macro_f1": 0.394,
+ "three_way_per_class": {
+  "before": {
+   "precision": 0.722,
+   "recall": 0.959,
+   "f1": 0.824,
+   "support": 1381
+  },
+  "after": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 32
+  },
+  "overlap": {
+   "precision": 0.725,
+   "recall": 0.238,
+   "f1": 0.358,
+   "support": 630
+  }
+ },
+ "fine_macro_f1": 0.0917,
+ "fine_per_relation": {
+  "AFTER": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 31
+  },
+  "BEFORE": {
+   "precision": 0.531,
+   "recall": 0.953,
+   "f1": 0.682,
+   "support": 1022
+  },
+  "BEGINS": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 50
+  },
+  "BEGUN_BY": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 6
+  },
+  "ENDED_BY": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 48
+  },
+  "ENDS": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 3
+  },
+  "IAFTER": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 1
+  },
+  "IBEFORE": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 359
+  },
+  "IDENTITY": {
+   "precision": 0.818,
+   "recall": 0.109,
+   "f1": 0.193,
+   "support": 247
+  },
+  "INCLUDES": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 96
+  },
+  "IS_INCLUDED": {
+   "precision": 0.0,
+   "recall": 0.0,
+   "f1": 0.0,
+   "support": 43
+  },
+  "SIMULTANEOUS": {
+   "precision": 0.201,
+   "recall": 0.255,
+   "f1": 0.225,
+   "support": 137
+  }
+ },
+ "prediction_distribution_3way": {
+  "before": 1834,
+  "overlap": 207,
+  "after": 2
+ },
+ "primary_metric": "three_way_accuracy",
+ "baselines": {
+  "majority_three_way_accuracy": 0.676,
+  "majority_three_way_macro_f1": 0.269,
+  "sota_three_way_accuracy": 0.77
+ }
+}

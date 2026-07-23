@@ -1,0 +1,1 @@
+[{"pair_id": "wsj_1073.tml_ei1992_ei1993", "e1_word": "had", "e1_class": "OCCURRENCE", "e1_tense": "PAST", "e1_aspect": "PERFECTIVE", "e1_off": 940, "e2_word": "sales", "e2_class": "OCCURRENCE", "e2_tense": "NONE", "e2_aspect": "NONE", "e2_off": 1025, "same_sentence": true, "text_order": "e1_first", "e1_sentence": "", "e2_sentence": "", "signal": "", "relation": "SIMULTANEOUS"}]

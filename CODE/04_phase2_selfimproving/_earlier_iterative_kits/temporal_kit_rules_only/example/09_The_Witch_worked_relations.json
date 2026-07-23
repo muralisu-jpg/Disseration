@@ -1,0 +1,2486 @@
+[
+  {
+    "pair_id": 0,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "NONE",
+      "word": "\"What are you thinking about! you're still very small; suppose you get drowned, \nwhat good will there be in that?"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 1,
+    "e1": {
+      "tense": "FUTURE",
+      "word": "I'll go out fishin"
+    },
+    "e2": {
+      "tense": "FUTURE",
+      "word": "I'll catc"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 2,
+    "e1": {
+      "tense": "FUTURE",
+      "word": "u'll le"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "do le"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 3,
+    "e1": {
+      "tense": "NONE",
+      "word": "\"What are you thinking about! you're still very small; suppose you get drowned, \nwhat good will there be in that?"
+    },
+    "e2": {
+      "tense": "NONE",
+      "word": "\"No, no, I shan't get drowned. I'll catch you some fish; do let me go!"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 4,
+    "e1": {
+      "tense": "PAST",
+      "word": "get drowne"
+    },
+    "e2": {
+      "tense": "FUTURE",
+      "word": "good will there b"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 5,
+    "e1": {
+      "tense": "NONE",
+      "word": "\"No, no, I shan't get drowned. I'll catch you some fish; do let me go!"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "pu"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 6,
+    "e1": {
+      "tense": "FUTURE",
+      "word": "I'll catc"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to fis"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 7,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "do le"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "le"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 8,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 9,
+    "e1": {
+      "tense": "PAST",
+      "word": "pu"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "tie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 10,
+    "e1": {
+      "tense": "PAST",
+      "word": "tie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "le"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 11,
+    "e1": {
+      "tense": "PAST",
+      "word": "le"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 12,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 13,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 14,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 15,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 16,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 17,
+    "e1": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 18,
+    "e1": {
+      "tense": "PAST",
+      "word": "had passed b"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "hobble"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 19,
+    "e1": {
+      "tense": "PAST",
+      "word": "hobble"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 20,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 21,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "is my mother callin"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 22,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "is my mother callin"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 23,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had hear"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 24,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 25,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 26,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 27,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 28,
+    "e1": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 29,
+    "e1": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gav"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 30,
+    "e1": {
+      "tense": "PAST",
+      "word": "gav"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "change"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 31,
+    "e1": {
+      "tense": "PAST",
+      "word": "change"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sen"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 32,
+    "e1": {
+      "tense": "PAST",
+      "word": "sen"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 33,
+    "e1": {
+      "tense": "NONE",
+      "word": "fishin"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to fis"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 34,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 35,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 36,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 37,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 38,
+    "e1": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 39,
+    "e1": {
+      "tense": "PAST",
+      "word": "had passed b"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "hobble"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 40,
+    "e1": {
+      "tense": "PAST",
+      "word": "hobble"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 41,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "replie"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 42,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "is my father callin"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 43,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had hear"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 44,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 45,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 46,
+    "e1": {
+      "tense": "PAST",
+      "word": "replie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 47,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 48,
+    "e1": {
+      "tense": "PAST",
+      "word": "floate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 49,
+    "e1": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gav"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 50,
+    "e1": {
+      "tense": "PAST",
+      "word": "gav"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "change"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 51,
+    "e1": {
+      "tense": "PAST",
+      "word": "change"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sen"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 52,
+    "e1": {
+      "tense": "PAST",
+      "word": "had hear"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had crie"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 53,
+    "e1": {
+      "tense": "PAST",
+      "word": "had hear"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "longe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 54,
+    "e1": {
+      "tense": "PAST",
+      "word": "longe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "wen"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 55,
+    "e1": {
+      "tense": "PAST",
+      "word": "wen"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 56,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "perceive"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 57,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "call"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 58,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 59,
+    "e1": {
+      "tense": "PAST",
+      "word": "perceive"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "san"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 60,
+    "e1": {
+      "tense": "PAST",
+      "word": "san"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 61,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 62,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "hastene"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 63,
+    "e1": {
+      "tense": "PAST",
+      "word": "hastene"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 64,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 65,
+    "e1": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "wen"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 66,
+    "e1": {
+      "tense": "PAST",
+      "word": "san"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "cam"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 67,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Floa"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "floa"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 68,
+    "e1": {
+      "tense": "PAST",
+      "word": "cam"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 69,
+    "e1": {
+      "tense": "PAST",
+      "word": "too"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "seize"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 70,
+    "e1": {
+      "tense": "PAST",
+      "word": "seize"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "carrie"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 71,
+    "e1": {
+      "tense": "PAST",
+      "word": "carrie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "arrive"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 72,
+    "e1": {
+      "tense": "PAST",
+      "word": "arrive"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 73,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "heate"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 74,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"Hea"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "relation": "IS_INCLUDED"
+  },
+  {
+    "pair_id": 75,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"Hea"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "heate"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 76,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "g"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "collec"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 77,
+    "e1": {
+      "tense": "PAST",
+      "word": "heate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 78,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "answere"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 79,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"Com"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "si"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 80,
+    "e1": {
+      "tense": "PAST",
+      "word": "answere"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 81,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 82,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "pitche"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 83,
+    "e1": {
+      "tense": "PAST",
+      "word": "pitche"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "slamme"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 84,
+    "e1": {
+      "tense": "PAST",
+      "word": "slamme"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "ran ou"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 85,
+    "e1": {
+      "tense": "PAST",
+      "word": "ran ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "shu"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 86,
+    "e1": {
+      "tense": "PAST",
+      "word": "shu"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "climbe"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 87,
+    "e1": {
+      "tense": "PAST",
+      "word": "climbe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "arrive"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 88,
+    "e1": {
+      "tense": "PAST",
+      "word": "arrive"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "knocke"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 89,
+    "e1": {
+      "tense": "PAST",
+      "word": "knocke"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "nobody opene"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 90,
+    "e1": {
+      "tense": "PAST",
+      "word": "nobody opene"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 91,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "slippe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 92,
+    "e1": {
+      "tense": "PAST",
+      "word": "slippe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "opene"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 93,
+    "e1": {
+      "tense": "PAST",
+      "word": "opene"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "let i"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 94,
+    "e1": {
+      "tense": "PAST",
+      "word": "let i"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 95,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "opene"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 96,
+    "e1": {
+      "tense": "PAST",
+      "word": "opene"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "took ou"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 97,
+    "e1": {
+      "tense": "PAST",
+      "word": "took ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "served it u"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 98,
+    "e1": {
+      "tense": "PAST",
+      "word": "served it u"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "at"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 99,
+    "e1": {
+      "tense": "PAST",
+      "word": "at"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "dran"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 100,
+    "e1": {
+      "tense": "PAST",
+      "word": "dran"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "went ou"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 101,
+    "e1": {
+      "tense": "PAST",
+      "word": "went ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 102,
+    "e1": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 103,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 104,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 105,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 106,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 107,
+    "e1": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 108,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "called ou"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 109,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 110,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 111,
+    "e1": {
+      "tense": "PAST",
+      "word": "called ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 112,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"Tur"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 113,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 114,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 115,
+    "e1": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "repeate"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 116,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 117,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "tur"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "\"Tur"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 118,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 119,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 120,
+    "e1": {
+      "tense": "PAST",
+      "word": "repeate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "looke"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 121,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"Tur"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 122,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "rol"
+    },
+    "e2": {
+      "tense": "PRESPART",
+      "word": "having fe"
+    },
+    "relation": "AFTER"
+  },
+  {
+    "pair_id": 123,
+    "e1": {
+      "tense": "PAST",
+      "word": "looke"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 124,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "rushe"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 125,
+    "e1": {
+      "tense": "PAST",
+      "word": "rushe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 126,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to gna"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 127,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 128,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 129,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "smashe"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 130,
+    "e1": {
+      "tense": "PAST",
+      "word": "smashe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "ra"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 131,
+    "e1": {
+      "tense": "PAST",
+      "word": "ra"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "reache"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 132,
+    "e1": {
+      "tense": "PAST",
+      "word": "reache"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 133,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 134,
+    "e1": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "returne"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 135,
+    "e1": {
+      "tense": "PAST",
+      "word": "returne"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 136,
+    "e1": {
+      "tense": "PRESPART",
+      "word": "gnawin"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 137,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 138,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "was just on the point o"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 139,
+    "e1": {
+      "tense": "PAST",
+      "word": "was just on the point o"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "jumped ou"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 140,
+    "e1": {
+      "tense": "PRESPART",
+      "word": "gnawin"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 141,
+    "e1": {
+      "tense": "PAST",
+      "word": "jumped ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had gnawe"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 142,
+    "e1": {
+      "tense": "PAST",
+      "word": "had gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "fell dow"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 143,
+    "e1": {
+      "tense": "PAST",
+      "word": "fell dow"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 144,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnashe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 145,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnashe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "se"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 146,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to wor"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to gna"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 147,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to gna"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 148,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 149,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 150,
+    "e1": {
+      "tense": "PAST",
+      "word": "gnawe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "brok"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 151,
+    "e1": {
+      "tense": "PAST",
+      "word": "brok"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "ran of"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 152,
+    "e1": {
+      "tense": "PAST",
+      "word": "ran of"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 153,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "got ther"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 154,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 155,
+    "e1": {
+      "tense": "PAST",
+      "word": "forge"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "wen"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 156,
+    "e1": {
+      "tense": "PAST",
+      "word": "wen"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bega"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 157,
+    "e1": {
+      "tense": "PAST",
+      "word": "didn't kno"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "looke"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 158,
+    "e1": {
+      "tense": "PAST",
+      "word": "looke"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 159,
+    "e1": {
+      "tense": "PAST",
+      "word": "looke"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "were flying b"
+    },
+    "relation": "IS_INCLUDED"
+  },
+  {
+    "pair_id": 160,
+    "e1": {
+      "tense": "PAST",
+      "word": "sa"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 161,
+    "e1": {
+      "tense": "PAST",
+      "word": "calle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 162,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Tak"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 163,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 164,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 165,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 166,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "waite"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 167,
+    "e1": {
+      "tense": "PAST",
+      "word": "waite"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "fle"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 168,
+    "e1": {
+      "tense": "PAST",
+      "word": "fle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 169,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 170,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Tak"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 171,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 172,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 173,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 174,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "carr"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "carrie"
+    },
+    "relation": "IDENTITY"
+  },
+  {
+    "pair_id": 175,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "waite"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 176,
+    "e1": {
+      "tense": "PAST",
+      "word": "waite"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "cam"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 177,
+    "e1": {
+      "tense": "PAST",
+      "word": "cam"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 178,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "took hol"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 179,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Tak"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 180,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "Bea"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 181,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 182,
+    "e1": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "e2": {
+      "tense": "INFINITIVE",
+      "word": "to eat, and drink, and liv"
+    },
+    "relation": "SIMULTANEOUS"
+  },
+  {
+    "pair_id": 183,
+    "e1": {
+      "tense": "PAST",
+      "word": "took hol"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "carrie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 184,
+    "e1": {
+      "tense": "PAST",
+      "word": "carrie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "fle"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 185,
+    "e1": {
+      "tense": "PAST",
+      "word": "fle"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "droppe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 186,
+    "e1": {
+      "tense": "PAST",
+      "word": "se"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "bake"
+    },
+    "relation": "ENDED_BY"
+  },
+  {
+    "pair_id": 187,
+    "e1": {
+      "tense": "PAST",
+      "word": "bake"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "fell t"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 188,
+    "e1": {
+      "tense": "PAST",
+      "word": "fell t"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 189,
+    "e1": {
+      "tense": "PAST",
+      "word": "crie"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 190,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "had finishe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 191,
+    "e1": {
+      "tense": "PAST",
+      "word": "had finishe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 192,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "called ou"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 193,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "le"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "there'"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 194,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "there'"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "There'"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 195,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "There'"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "There'"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 196,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "There'"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "There'"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 197,
+    "e1": {
+      "tense": "PAST",
+      "word": "called ou"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "went o"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 198,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"There'"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "\"there'"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 199,
+    "e1": {
+      "tense": "PAST",
+      "word": "went o"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "repeate"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 200,
+    "e1": {
+      "tense": "PAST",
+      "word": "repeate"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "relation": "IBEFORE"
+  },
+  {
+    "pair_id": 201,
+    "e1": {
+      "tense": "PAST",
+      "word": "sai"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "climbe"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 202,
+    "e1": {
+      "tense": "PRESENT",
+      "word": "\"g"
+    },
+    "e2": {
+      "tense": "PRESENT",
+      "word": "se"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 203,
+    "e1": {
+      "tense": "PAST",
+      "word": "climbe"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "foun"
+    },
+    "relation": "BEFORE"
+  },
+  {
+    "pair_id": 204,
+    "e1": {
+      "tense": "PAST",
+      "word": "foun"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "were delighte"
+    },
+    "relation": "BEGINS"
+  },
+  {
+    "pair_id": 205,
+    "e1": {
+      "tense": "PAST",
+      "word": "were delighte"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "aske"
+    },
+    "relation": "INCLUDES"
+  },
+  {
+    "pair_id": 206,
+    "e1": {
+      "tense": "PAST",
+      "word": "aske"
+    },
+    "e2": {
+      "tense": "PAST",
+      "word": "lived o"
+    },
+    "relation": "BEFORE"
+  }
+]

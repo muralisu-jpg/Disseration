@@ -1,0 +1,17 @@
+{
+  "EVAL_1_GOLD_INPUT": {
+    "stage1_events": {
+      "macro_f1": 0.3722,
+      "stories": 12
+    },
+    "stage2_pairs": {
+      "macro_f1": 0.1239,
+      "stories": 8
+    },
+    "stage3_relations": {
+      "four_way_accuracy": null,
+      "four_way_macro_f1": null,
+      "stories": 0
+    }
+  }
+}
