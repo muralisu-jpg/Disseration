@@ -8,6 +8,8 @@ verify it, and refine it further** for maximum accuracy -- make targeted edits, 
 layout / function names / schema, and keep a short changelog. This is a code-improvement task, not a new
 build, and **not** a reinvention from scratch.
 
+Ground your analysis in ISO-TimeML, the international standard for annotating events and temporal relations in text (ISO 24617-1). Under that standard an EVENT is any situation that happens or holds — occurrences, states, reporting verbs, perceptions, aspectual verbs, and intensional actions or states. A temporal link (TLINK) asserts how two events stand relative to one another, drawing on Allen's interval algebra: BEFORE, AFTER, IBEFORE, IAFTER, SIMULTANEOUS, IDENTITY, INCLUDES, IS_INCLUDED, DURING, BEGINS, ENDS, BEGUN_BY, ENDED_BY. Separately, TimeML defines subordinating links, where one event is embedded under another and is therefore not asserted as having occurred: MODAL (possibility, wish, ability, obligation), CONDITIONAL (dependent on an unmet or unresolved condition), COUNTER_FACTIVE (presupposed not to have happened), FACTIVE (presupposed to have happened), and EVIDENTIAL (reported or perceived rather than directly narrated). Treat the subordinating relations as the primary signal for the IMAGINARY track
+
 ## The task the pipeline performs
 Detect **non-iconicity** in a story -- places where the order events are *told* differs from the order
 they *happen* -- on four tracks:
